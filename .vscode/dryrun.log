@@ -1,0 +1,42 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/anik/bamr'
+ 
+echo "anikxpc"
+echo "-----------------------------------------------------"
+echo MACHINE: anikxpc
+echo "Location of Makefile.inc:"
+echo UTKNA_MAKEFILE: /home/anik/shared/Makefile.inc
+echo "Default C++ commpiler:"
+echo UTKNA_CXX: g++
+echo "Default FORTRAN commpiler:"
+echo UTKNA_FC: gfortran
+echo "Default MPI C++ commpiler:"
+echo UTKNA_MPI_CXX: mpic++
+echo "Default MPI FORTRAN commpiler:"
+echo UTKNA_MPI_FC: mpif90
+echo "C++ flags:"
+echo UTKNA_CFLAGS: -O3 -Wall -Wno-unused -Wshadow -Wno-deprecated-declarations -std=c++11 -DO2SCL_HDF5_COMP -DO2SCL_PUGIXML
+echo "OpenMP flags:"
+echo UTKNA_OPENMP_FLAGS: -fopenmp -DO2SCL_OPENMP
+echo "MPI flags:"
+echo UTKNA_MPI_CFLAGS: -DO2SCL_MPI
+echo "FORTRAN flags:"
+echo UTKNA_FFLAGS: -O3
+echo "FORTRAN libraries:"
+echo UTKNA_FLIBS: -lgfortran
+echo "Include flags for O2scl-based codes:"
+echo UTKNA_O2SCL_INCS: -I/usr/lib/x86_64-linux-gnu/hdf5/serial/include -I/usr/include/eigen3
+echo "Libraries for O2scl-based codes:"
+echo UTKNA_O2SCL_LIBS: -L/usr/lib/x86_64-linux-gnu/hdf5/serial -fopenmp -lo2scl -lhdf5 -lgsl -lreadline -lcubature -lpython3.10 -lpugixml
+echo "Directory for bamr:"
+echo UTKNA_EOS_DIR: 
+echo "Directory for eos:"
+echo UTKNA_BAMR_DIR: /home/anik/bamr
+echo "Python library flags:"
+echo UTKNA_PYTHON_LDFLAGS: -L/usr/lib/python3.10/config-3.10-x86_64-linux-gnu -L/usr/lib/x86_64-linux-gnu  -lcrypt -ldl  -lm -lm 
+echo "Python includes:"
+echo UTKNA_PYTHON_INCLUDES: -I/usr/include/python3.10 -I/usr/include/python3.10
+echo "Directory for libcubature:"
+echo UTKNA_CUBATURE: 
+make: Leaving directory '/home/anik/bamr'
+ 

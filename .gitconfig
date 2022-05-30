@@ -1,0 +1,8 @@
+[user]
+	name = M. H. Anik
+	email = anik@vols.utk.edu
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
