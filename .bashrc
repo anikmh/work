@@ -16,8 +16,8 @@ HISTCONTROL=ignoreboth
 shopt -s histappend
 
 # for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
-HISTSIZE=1000
-HISTFILESIZE=2000
+HISTSIZE=5000
+HISTFILESIZE=10000
 
 # check the window size after each command and, if necessary,
 # update the values of LINES and COLUMNS.
@@ -119,8 +119,11 @@ if ! shopt -oq posix; then
   fi
 fi
 
-# Set VPN variable
-export PATH=$PATH:/usr/sbin/openconnect
+# Set Jupyter Notebook variable
+export PATH=$PATH:/home/anik/.local/bin
+
+# Set annoying GTK library warnings off
+export NO_AT_BRIDGE=1
 
 # Set o2scl variables: 
 export MACHINE=anikxpc 
