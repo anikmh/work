@@ -93,7 +93,7 @@ alias la='ls -A'
 alias l='ls -CF'
 
 # Set alias for VPN 
-alias ocp='sudo openconnect-pulse-gui access.utk.edu'
+alias vpn='sudo openconnect-pulse-gui access.utk.edu'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
