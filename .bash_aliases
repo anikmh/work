@@ -1,3 +1,6 @@
+# Add SSH key when necessary
+alias ssha='eval `ssh-agent -s` ssh-add ~/.ssh/id_rsa'
+
 # Launch VPN OpenConnect
 alias vpn='sudo openconnect-pulse-gui access.utk.edu'
 
