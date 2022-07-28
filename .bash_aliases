@@ -4,10 +4,14 @@ alias ssha='eval `ssh-agent -s` ssh-add ~/.ssh/id_rsa'
 # Launch VPN PulseSecure
 alias ocp='sudo openconnect-pulse-gui access.utk.edu'
 
-# Launch ExpressVPN
+# VPN commands for ExpressVPN
 alias xv='expressvpn'
-alias xv1='expressvpn connect'
-alias xv0='expressvpn disconnect'
+alias xvls='expressvpn list all'
+alias xvst='expressvpn status'
+alias xvcn='expressvpn connect'
+alias xvdc='expressvpn disconnect'
+alias xvdc='expressvpn refresh'
+alias xvpf='expressvpn preferences'
 
 # Activate/deactivate Anaconda virtual environment
 alias nv0='conda deactivate'
