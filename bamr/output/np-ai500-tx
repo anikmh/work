@@ -1,0 +1,967 @@
+nohup: ignoring input
+Initial points: Finding best 315 unique points from file named guess using threshold 1.000000e-06 and offset 5
+Initial point 0 at row 14 has log_weight= -3.070060e+01
+Initial point 1 at row 156 has log_weight= -3.075950e+01
+Initial point 2 at row 105 has log_weight= -3.094818e+01
+Initial point 3 at row 16 has log_weight= -3.096211e+01
+Initial point 4 at row 181 has log_weight= -3.097520e+01
+Initial point 5 at row 108 has log_weight= -3.108153e+01
+Initial point 6 at row 164 has log_weight= -3.108743e+01
+Initial point 7 at row 11 has log_weight= -3.119704e+01
+Initial point 8 at row 171 has log_weight= -3.120679e+01
+Initial point 9 at row 246 has log_weight= -3.131931e+01
+Initial point 10 at row 396 has log_weight= -3.134617e+01
+Initial point 11 at row 165 has log_weight= -3.138957e+01
+Initial point 12 at row 449 has log_weight= -3.142451e+01
+Initial point 13 at row 18 has log_weight= -3.144242e+01
+Initial point 14 at row 37 has log_weight= -3.144338e+01
+Initial point 15 at row 84 has log_weight= -3.144972e+01
+Initial point 16 at row 158 has log_weight= -3.145265e+01
+Initial point 17 at row 157 has log_weight= -3.146375e+01
+Initial point 18 at row 196 has log_weight= -3.146447e+01
+Initial point 19 at row 173 has log_weight= -3.147131e+01
+Initial point 20 at row 448 has log_weight= -3.147409e+01
+Initial point 21 at row 17 has log_weight= -3.148987e+01
+Initial point 22 at row 177 has log_weight= -3.150114e+01
+Initial point 23 at row 186 has log_weight= -3.150910e+01
+Initial point 24 at row 96 has log_weight= -3.151290e+01
+Initial point 25 at row 114 has log_weight= -3.154429e+01
+Initial point 26 at row 416 has log_weight= -3.155547e+01
+Initial point 27 at row 104 has log_weight= -3.156654e+01
+Initial point 28 at row 194 has log_weight= -3.160533e+01
+Initial point 29 at row 20 has log_weight= -3.161136e+01
+Initial point 30 at row 6 has log_weight= -3.161184e+01
+Initial point 31 at row 12 has log_weight= -3.161584e+01
+Initial point 32 at row 13 has log_weight= -3.162902e+01
+Initial point 33 at row 394 has log_weight= -3.164647e+01
+Initial point 34 at row 244 has log_weight= -3.164729e+01
+Initial point 35 at row 153 has log_weight= -3.166284e+01
+Initial point 36 at row 163 has log_weight= -3.167593e+01
+Initial point 37 at row 161 has log_weight= -3.173424e+01
+Initial point 38 at row 245 has log_weight= -3.175645e+01
+Initial point 39 at row 193 has log_weight= -3.176691e+01
+Initial point 40 at row 232 has log_weight= -3.178918e+01
+Initial point 41 at row 7 has log_weight= -3.180163e+01
+Initial point 42 at row 65 has log_weight= -3.180500e+01
+Initial point 43 at row 175 has log_weight= -3.181214e+01
+Initial point 44 at row 241 has log_weight= -3.182020e+01
+Initial point 45 at row 430 has log_weight= -3.183051e+01
+Initial point 46 at row 415 has log_weight= -3.183780e+01
+Initial point 47 at row 102 has log_weight= -3.183817e+01
+Initial point 48 at row 427 has log_weight= -3.185121e+01
+Initial point 49 at row 88 has log_weight= -3.185222e+01
+Initial point 50 at row 54 has log_weight= -3.185706e+01
+Initial point 51 at row 19 has log_weight= -3.186333e+01
+Initial point 52 at row 53 has log_weight= -3.188219e+01
+Initial point 53 at row 21 has log_weight= -3.188669e+01
+Initial point 54 at row 97 has log_weight= -3.188706e+01
+Initial point 55 at row 106 has log_weight= -3.189787e+01
+Initial point 56 at row 15 has log_weight= -3.191027e+01
+Initial point 57 at row 447 has log_weight= -3.191855e+01
+Initial point 58 at row 9 has log_weight= -3.192396e+01
+Initial point 59 at row 176 has log_weight= -3.193033e+01
+Initial point 60 at row 395 has log_weight= -3.193653e+01
+Initial point 61 at row 389 has log_weight= -3.194209e+01
+Initial point 62 at row 255 has log_weight= -3.194543e+01
+Initial point 63 at row 233 has log_weight= -3.194575e+01
+Initial point 64 at row 426 has log_weight= -3.195053e+01
+Initial point 65 at row 391 has log_weight= -3.196146e+01
+Initial point 66 at row 170 has log_weight= -3.196972e+01
+Initial point 67 at row 113 has log_weight= -3.198104e+01
+Initial point 68 at row 414 has log_weight= -3.201090e+01
+Initial point 69 at row 234 has log_weight= -3.201217e+01
+Initial point 70 at row 107 has log_weight= -3.202431e+01
+Initial point 71 at row 58 has log_weight= -3.202555e+01
+Initial point 72 at row 439 has log_weight= -3.203224e+01
+Initial point 73 at row 174 has log_weight= -3.204337e+01
+Initial point 74 at row 160 has log_weight= -3.204423e+01
+Initial point 75 at row 183 has log_weight= -3.207554e+01
+Initial point 76 at row 429 has log_weight= -3.207718e+01
+Initial point 77 at row 36 has log_weight= -3.207754e+01
+Initial point 78 at row 198 has log_weight= -3.207989e+01
+Initial point 79 at row 83 has log_weight= -3.209208e+01
+Initial point 80 at row 238 has log_weight= -3.210182e+01
+Initial point 81 at row 155 has log_weight= -3.211854e+01
+Initial point 82 at row 372 has log_weight= -3.213550e+01
+Initial point 83 at row 371 has log_weight= -3.214027e+01
+Initial point 84 at row 159 has log_weight= -3.214417e+01
+Initial point 85 at row 172 has log_weight= -3.214891e+01
+Initial point 86 at row 239 has log_weight= -3.215006e+01
+Initial point 87 at row 154 has log_weight= -3.216175e+01
+Initial point 88 at row 407 has log_weight= -3.217144e+01
+Initial point 89 at row 35 has log_weight= -3.219100e+01
+Initial point 90 at row 199 has log_weight= -3.219654e+01
+Initial point 91 at row 428 has log_weight= -3.220405e+01
+Initial point 92 at row 236 has log_weight= -3.220762e+01
+Initial point 93 at row 8 has log_weight= -3.221549e+01
+Initial point 94 at row 141 has log_weight= -3.222220e+01
+Initial point 95 at row 81 has log_weight= -3.222388e+01
+Initial point 96 at row 182 has log_weight= -3.222657e+01
+Initial point 97 at row 438 has log_weight= -3.223938e+01
+Initial point 98 at row 59 has log_weight= -3.224302e+01
+Initial point 99 at row 195 has log_weight= -3.225203e+01
+Initial point 100 at row 103 has log_weight= -3.226288e+01
+Initial point 101 at row 129 has log_weight= -3.227238e+01
+Initial point 102 at row 420 has log_weight= -3.228450e+01
+Initial point 103 at row 166 has log_weight= -3.228640e+01
+Initial point 104 at row 229 has log_weight= -3.230630e+01
+Initial point 105 at row 242 has log_weight= -3.234937e+01
+Initial point 106 at row 249 has log_weight= -3.235239e+01
+Initial point 107 at row 115 has log_weight= -3.236427e+01
+Initial point 108 at row 99 has log_weight= -3.236876e+01
+Initial point 109 at row 67 has log_weight= -3.237636e+01
+Initial point 110 at row 60 has log_weight= -3.240314e+01
+Initial point 111 at row 366 has log_weight= -3.240530e+01
+Initial point 112 at row 240 has log_weight= -3.244439e+01
+Initial point 113 at row 254 has log_weight= -3.245188e+01
+Initial point 114 at row 109 has log_weight= -3.246858e+01
+Initial point 115 at row 418 has log_weight= -3.246984e+01
+Initial point 116 at row 392 has log_weight= -3.247819e+01
+Initial point 117 at row 139 has log_weight= -3.248629e+01
+Initial point 118 at row 252 has log_weight= -3.249341e+01
+Initial point 119 at row 419 has log_weight= -3.249875e+01
+Initial point 120 at row 66 has log_weight= -3.249879e+01
+Initial point 121 at row 237 has log_weight= -3.252474e+01
+Initial point 122 at row 398 has log_weight= -3.252513e+01
+Initial point 123 at row 253 has log_weight= -3.252956e+01
+Initial point 124 at row 192 has log_weight= -3.253083e+01
+Initial point 125 at row 251 has log_weight= -3.253123e+01
+Initial point 126 at row 417 has log_weight= -3.253385e+01
+Initial point 127 at row 250 has log_weight= -3.253550e+01
+Initial point 128 at row 397 has log_weight= -3.254298e+01
+Initial point 129 at row 226 has log_weight= -3.256031e+01
+Initial point 130 at row 142 has log_weight= -3.256640e+01
+Initial point 131 at row 203 has log_weight= -3.257483e+01
+Initial point 132 at row 440 has log_weight= -3.258145e+01
+Initial point 133 at row 34 has log_weight= -3.259297e+01
+Initial point 134 at row 169 has log_weight= -3.259609e+01
+Initial point 135 at row 370 has log_weight= -3.259673e+01
+Initial point 136 at row 247 has log_weight= -3.260814e+01
+Initial point 137 at row 80 has log_weight= -3.263082e+01
+Initial point 138 at row 55 has log_weight= -3.263702e+01
+Initial point 139 at row 184 has log_weight= -3.264457e+01
+Initial point 140 at row 225 has log_weight= -3.265017e+01
+Initial point 141 at row 185 has log_weight= -3.266435e+01
+Initial point 142 at row 248 has log_weight= -3.266469e+01
+Initial point 143 at row 130 has log_weight= -3.266665e+01
+Initial point 144 at row 403 has log_weight= -3.267584e+01
+Initial point 145 at row 433 has log_weight= -3.267672e+01
+Initial point 146 at row 369 has log_weight= -3.269138e+01
+Initial point 147 at row 61 has log_weight= -3.270915e+01
+Initial point 148 at row 187 has log_weight= -3.272574e+01
+Initial point 149 at row 132 has log_weight= -3.274748e+01
+Initial point 150 at row 72 has log_weight= -3.274804e+01
+Initial point 151 at row 89 has log_weight= -3.275056e+01
+Initial point 152 at row 111 has log_weight= -3.275124e+01
+Initial point 153 at row 62 has log_weight= -3.275982e+01
+Initial point 154 at row 231 has log_weight= -3.276071e+01
+Initial point 155 at row 390 has log_weight= -3.276114e+01
+Initial point 156 at row 179 has log_weight= -3.276590e+01
+Initial point 157 at row 100 has log_weight= -3.276639e+01
+Initial point 158 at row 95 has log_weight= -3.277664e+01
+Initial point 159 at row 243 has log_weight= -3.278439e+01
+Initial point 160 at row 101 has log_weight= -3.279214e+01
+Initial point 161 at row 50 has log_weight= -3.279787e+01
+Initial point 162 at row 197 has log_weight= -3.279831e+01
+Initial point 163 at row 388 has log_weight= -3.279835e+01
+Initial point 164 at row 368 has log_weight= -3.279919e+01
+Initial point 165 at row 273 has log_weight= -3.280197e+01
+Initial point 166 at row 162 has log_weight= -3.282395e+01
+Initial point 167 at row 112 has log_weight= -3.283300e+01
+Initial point 168 at row 85 has log_weight= -3.284580e+01
+Initial point 169 at row 52 has log_weight= -3.285986e+01
+Initial point 170 at row 118 has log_weight= -3.287536e+01
+Initial point 171 at row 57 has log_weight= -3.288219e+01
+Initial point 172 at row 90 has log_weight= -3.288497e+01
+Initial point 173 at row 10 has log_weight= -3.289579e+01
+Initial point 174 at row 91 has log_weight= -3.291211e+01
+Initial point 175 at row 393 has log_weight= -3.291389e+01
+Initial point 176 at row 137 has log_weight= -3.291830e+01
+Initial point 177 at row 98 has log_weight= -3.293145e+01
+Initial point 178 at row 131 has log_weight= -3.293253e+01
+Initial point 179 at row 324 has log_weight= -3.297102e+01
+Initial point 180 at row 51 has log_weight= -3.297194e+01
+Initial point 181 at row 200 has log_weight= -3.297518e+01
+Initial point 182 at row 230 has log_weight= -3.298797e+01
+Initial point 183 at row 116 has log_weight= -3.299409e+01
+Initial point 184 at row 258 has log_weight= -3.300916e+01
+Initial point 185 at row 110 has log_weight= -3.301584e+01
+Initial point 186 at row 399 has log_weight= -3.301662e+01
+Initial point 187 at row 434 has log_weight= -3.301906e+01
+Initial point 188 at row 201 has log_weight= -3.304088e+01
+Initial point 189 at row 135 has log_weight= -3.304570e+01
+Initial point 190 at row 119 has log_weight= -3.304972e+01
+Initial point 191 at row 422 has log_weight= -3.305281e+01
+Initial point 192 at row 202 has log_weight= -3.305463e+01
+Initial point 193 at row 63 has log_weight= -3.305917e+01
+Initial point 194 at row 69 has log_weight= -3.306561e+01
+Initial point 195 at row 133 has log_weight= -3.308033e+01
+Initial point 196 at row 134 has log_weight= -3.308499e+01
+Initial point 197 at row 270 has log_weight= -3.308552e+01
+Initial point 198 at row 64 has log_weight= -3.308580e+01
+Initial point 199 at row 329 has log_weight= -3.311520e+01
+Initial point 200 at row 68 has log_weight= -3.312795e+01
+Initial point 201 at row 224 has log_weight= -3.313258e+01
+Initial point 202 at row 441 has log_weight= -3.314118e+01
+Initial point 203 at row 73 has log_weight= -3.314317e+01
+Initial point 204 at row 337 has log_weight= -3.314474e+01
+Initial point 205 at row 86 has log_weight= -3.315050e+01
+Initial point 206 at row 168 has log_weight= -3.315580e+01
+Initial point 207 at row 330 has log_weight= -3.315916e+01
+Initial point 208 at row 357 has log_weight= -3.316381e+01
+Initial point 209 at row 367 has log_weight= -3.319387e+01
+Initial point 210 at row 228 has log_weight= -3.320247e+01
+Initial point 211 at row 268 has log_weight= -3.321000e+01
+Initial point 212 at row 265 has log_weight= -3.321059e+01
+Initial point 213 at row 431 has log_weight= -3.321993e+01
+Initial point 214 at row 269 has log_weight= -3.322766e+01
+Initial point 215 at row 289 has log_weight= -3.324376e+01
+Initial point 216 at row 410 has log_weight= -3.328465e+01
+Initial point 217 at row 178 has log_weight= -3.328833e+01
+Initial point 218 at row 87 has log_weight= -3.331511e+01
+Initial point 219 at row 227 has log_weight= -3.331714e+01
+Initial point 220 at row 421 has log_weight= -3.333411e+01
+Initial point 221 at row 355 has log_weight= -3.333510e+01
+Initial point 222 at row 331 has log_weight= -3.335569e+01
+Initial point 223 at row 404 has log_weight= -3.336310e+01
+Initial point 224 at row 74 has log_weight= -3.337279e+01
+Initial point 225 at row 271 has log_weight= -3.337321e+01
+Initial point 226 at row 78 has log_weight= -3.337853e+01
+Initial point 227 at row 423 has log_weight= -3.340390e+01
+Initial point 228 at row 117 has log_weight= -3.341316e+01
+Initial point 229 at row 425 has log_weight= -3.343341e+01
+Initial point 230 at row 424 has log_weight= -3.345060e+01
+Initial point 231 at row 411 has log_weight= -3.345518e+01
+Initial point 232 at row 257 has log_weight= -3.346651e+01
+Initial point 233 at row 235 has log_weight= -3.347818e+01
+Initial point 234 at row 437 has log_weight= -3.348020e+01
+Initial point 235 at row 327 has log_weight= -3.350322e+01
+Initial point 236 at row 82 has log_weight= -3.350736e+01
+Initial point 237 at row 70 has log_weight= -3.350909e+01
+Initial point 238 at row 320 has log_weight= -3.351679e+01
+Initial point 239 at row 143 has log_weight= -3.352162e+01
+Initial point 240 at row 432 has log_weight= -3.353138e+01
+Initial point 241 at row 144 has log_weight= -3.354265e+01
+Initial point 242 at row 365 has log_weight= -3.354449e+01
+Initial point 243 at row 290 has log_weight= -3.355443e+01
+Initial point 244 at row 272 has log_weight= -3.356032e+01
+Initial point 245 at row 167 has log_weight= -3.356302e+01
+Initial point 246 at row 38 has log_weight= -3.356562e+01
+Initial point 247 at row 138 has log_weight= -3.356585e+01
+Initial point 248 at row 344 has log_weight= -3.357507e+01
+Initial point 249 at row 339 has log_weight= -3.359653e+01
+Initial point 250 at row 325 has log_weight= -3.360962e+01
+Initial point 251 at row 402 has log_weight= -3.365043e+01
+Initial point 252 at row 291 has log_weight= -3.366078e+01
+Initial point 253 at row 76 has log_weight= -3.366689e+01
+Initial point 254 at row 297 has log_weight= -3.367090e+01
+Initial point 255 at row 336 has log_weight= -3.367453e+01
+Initial point 256 at row 406 has log_weight= -3.367852e+01
+Initial point 257 at row 56 has log_weight= -3.370055e+01
+Initial point 258 at row 260 has log_weight= -3.372085e+01
+Initial point 259 at row 323 has log_weight= -3.374194e+01
+Initial point 260 at row 334 has log_weight= -3.375622e+01
+Initial point 261 at row 140 has log_weight= -3.376541e+01
+Initial point 262 at row 146 has log_weight= -3.377021e+01
+Initial point 263 at row 328 has log_weight= -3.377808e+01
+Initial point 264 at row 190 has log_weight= -3.379035e+01
+Initial point 265 at row 319 has log_weight= -3.379158e+01
+Initial point 266 at row 436 has log_weight= -3.380823e+01
+Initial point 267 at row 409 has log_weight= -3.382243e+01
+Initial point 268 at row 256 has log_weight= -3.385157e+01
+Initial point 269 at row 71 has log_weight= -3.385182e+01
+Initial point 270 at row 145 has log_weight= -3.385723e+01
+Initial point 271 at row 435 has log_weight= -3.390275e+01
+Initial point 272 at row 345 has log_weight= -3.393403e+01
+Initial point 273 at row 332 has log_weight= -3.394026e+01
+Initial point 274 at row 322 has log_weight= -3.394169e+01
+Initial point 275 at row 296 has log_weight= -3.394690e+01
+Initial point 276 at row 326 has log_weight= -3.395171e+01
+Initial point 277 at row 364 has log_weight= -3.395409e+01
+Initial point 278 at row 400 has log_weight= -3.395870e+01
+Initial point 279 at row 318 has log_weight= -3.398174e+01
+Initial point 280 at row 120 has log_weight= -3.398619e+01
+Initial point 281 at row 79 has log_weight= -3.399558e+01
+Initial point 282 at row 264 has log_weight= -3.402895e+01
+Initial point 283 at row 413 has log_weight= -3.404634e+01
+Initial point 284 at row 147 has log_weight= -3.407035e+01
+Initial point 285 at row 40 has log_weight= -3.407174e+01
+Initial point 286 at row 222 has log_weight= -3.409325e+01
+Initial point 287 at row 150 has log_weight= -3.409335e+01
+Initial point 288 at row 353 has log_weight= -3.411680e+01
+Initial point 289 at row 263 has log_weight= -3.412117e+01
+Initial point 290 at row 295 has log_weight= -3.412292e+01
+Initial point 291 at row 354 has log_weight= -3.412310e+01
+Initial point 292 at row 333 has log_weight= -3.412718e+01
+Initial point 293 at row 136 has log_weight= -3.416209e+01
+Initial point 294 at row 401 has log_weight= -3.418740e+01
+Initial point 295 at row 351 has log_weight= -3.421099e+01
+Initial point 296 at row 216 has log_weight= -3.421841e+01
+Initial point 297 at row 343 has log_weight= -3.422815e+01
+Initial point 298 at row 350 has log_weight= -3.423801e+01
+Initial point 299 at row 356 has log_weight= -3.424740e+01
+Initial point 300 at row 412 has log_weight= -3.427272e+01
+Initial point 301 at row 121 has log_weight= -3.427281e+01
+Initial point 302 at row 294 has log_weight= -3.427632e+01
+Initial point 303 at row 149 has log_weight= -3.427694e+01
+Initial point 304 at row 259 has log_weight= -3.428075e+01
+Initial point 305 at row 352 has log_weight= -3.430177e+01
+Initial point 306 at row 363 has log_weight= -3.430201e+01
+Initial point 307 at row 321 has log_weight= -3.430630e+01
+Initial point 308 at row 298 has log_weight= -3.436897e+01
+Initial point 309 at row 346 has log_weight= -3.437209e+01
+Initial point 310 at row 405 has log_weight= -3.437591e+01
+Initial point 311 at row 223 has log_weight= -3.437932e+01
+Initial point 312 at row 347 has log_weight= -3.439250e+01
+Initial point 313 at row 408 has log_weight= -3.442431e+01
+Initial point 314 at row 39 has log_weight= -3.442879e+01
+Parameters index, name, unit, low, high: 
+0 a MeV 1.250000e+01 1.350000e+01
+1 alpha  4.700000e-01 5.300000e-01
+2 param_S MeV 2.950000e+01 3.610000e+01
+3 param_L MeV 3.000000e+01 7.000000e+01
+4 exp1  1.000000e-06 1.000000e+01
+5 trans1 1/fm^4 7.500000e-01 8.000000e+00
+6 exp2  1.000000e-06 1.000000e+01
+7 trans2 1/fm^4 7.500000e-01 8.000000e+00
+8 exp3  1.000000e-06 1.000000e+01
+9 M_chirp_det Msun 1.197100e+00 1.197900e+00
+10 q  0.000000e+00 1.000000e+00
+11 z_cdf  0.000000e+00 1.000000e+00
+12 mf_6304  0.000000e+00 1.000000e+00
+13 mf_6397  0.000000e+00 1.000000e+00
+14 mf_M13  0.000000e+00 1.000000e+00
+15 mf_M28  0.000000e+00 1.000000e+00
+16 mf_M30  0.000000e+00 1.000000e+00
+17 mf_wCen  0.000000e+00 1.000000e+00
+18 mf_X7  0.000000e+00 1.000000e+00
+19 mf_1810b  0.000000e+00 1.000000e+00
+20 mf_1724b  0.000000e+00 1.000000e+00
+21 mf_1702  0.000000e+00 1.000000e+00
+22 mf_0030  0.000000e+00 1.000000e+00
+23 mean_NS Msun 5.000000e-01 2.500000e+00
+24 log10_width_NS  -4.000000e+00 0.000000e+00
+25 skewness_NS  -1.000000e+00 1.000000e+00
+26 mean_WD Msun 5.000000e-01 2.500000e+00
+27 log10_width_WD  -4.000000e+00 0.000000e+00
+28 skewness_WD  -1.000000e+00 1.000000e+00
+29 mean_HMS Msun 5.000000e-01 2.500000e+00
+30 log10_width_HMS  -4.000000e+00 0.000000e+00
+31 skewness_HMS  -1.000000e+00 1.000000e+00
+32 mean_LMS Msun 5.000000e-01 2.500000e+00
+33 log10_width_LMS  -4.000000e+00 0.000000e+00
+34 skewness_LMS  -1.000000e+00 1.000000e+00
+35 M_J0453p Msun 1.000000e+00 2.400000e+00
+36 M_J0453c Msun 1.000000e+00 2.400000e+00
+37 M_J1906p Msun 1.000000e+00 2.400000e+00
+38 M_J1906c Msun 1.000000e+00 2.400000e+00
+39 M_B1534p Msun 1.000000e+00 2.400000e+00
+40 M_B1534c Msun 1.000000e+00 2.400000e+00
+41 M_B1913p Msun 1.000000e+00 2.400000e+00
+42 M_B1913c Msun 1.000000e+00 2.400000e+00
+43 M_B2127p Msun 1.000000e+00 2.400000e+00
+44 M_B2127c Msun 1.000000e+00 2.400000e+00
+45 M_J0737A Msun 1.000000e+00 2.400000e+00
+46 M_J0737B Msun 1.000000e+00 2.400000e+00
+47 M_J1756p Msun 1.000000e+00 2.400000e+00
+48 M_J1756c Msun 1.000000e+00 2.400000e+00
+49 M_J1807p Msun 1.000000e+00 2.400000e+00
+50 M_J1807c Msun 1.000000e+00 2.400000e+00
+51 M_J1518p Msun 1.000000e+00 2.400000e+00
+52 M_J1518c Msun 1.000000e+00 2.400000e+00
+53 M_J1811p Msun 1.000000e+00 2.400000e+00
+54 M_J1811c Msun 1.000000e+00 2.400000e+00
+55 M_J1829p Msun 1.000000e+00 2.400000e+00
+56 M_J1829c Msun 1.000000e+00 2.400000e+00
+57 M_J2045 Msun 1.000000e+00 2.400000e+00
+58 M_J2053 Msun 1.000000e+00 2.400000e+00
+59 M_J1713 Msun 1.000000e+00 2.400000e+00
+60 M_B1855 Msun 1.000000e+00 2.400000e+00
+61 M_J0751 Msun 1.000000e+00 2.400000e+00
+62 M_J1141 Msun 1.000000e+00 2.400000e+00
+63 M_J1738 Msun 1.000000e+00 2.400000e+00
+64 M_J1614 Msun 1.000000e+00 2.400000e+00
+65 M_J0348 Msun 1.000000e+00 2.400000e+00
+66 M_J2222 Msun 1.000000e+00 2.400000e+00
+67 M_J2234 Msun 1.000000e+00 2.400000e+00
+68 M_J1949 Msun 1.000000e+00 2.400000e+00
+69 M_J1012 Msun 1.000000e+00 2.400000e+00
+70 M_J0437 Msun 1.000000e+00 2.400000e+00
+71 M_J1909 Msun 1.000000e+00 2.400000e+00
+72 M_J1802 Msun 1.000000e+00 2.400000e+00
+73 M_J1911 Msun 1.000000e+00 2.400000e+00
+74 M_J2043 Msun 1.000000e+00 2.400000e+00
+75 M_J0337 Msun 1.000000e+00 2.400000e+00
+76 M_J1946 Msun 1.000000e+00 2.400000e+00
+77 M_J1918 Msun 1.000000e+00 2.400000e+00
+78 M_J1600 Msun 1.000000e+00 2.400000e+00
+79 M_J0621 Msun 1.000000e+00 2.400000e+00
+80 M_B2303 Msun 1.000000e+00 2.400000e+00
+81 M_J0024 Msun 1.000000e+00 2.400000e+00
+82 M_J0514 Msun 1.000000e+00 2.400000e+00
+83 M_B1516 Msun 1.000000e+00 2.400000e+00
+84 M_J1748I Msun 1.000000e+00 2.400000e+00
+85 M_J1748J Msun 1.000000e+00 2.400000e+00
+86 M_B1802 Msun 1.000000e+00 2.400000e+00
+87 M_B1911 Msun 1.000000e+00 2.400000e+00
+88 M_J0740 Msun 1.000000e+00 2.400000e+00
+89 M_4U1700 Msun 1.000000e+00 2.400000e+00
+90 M_SMCX1 Msun 1.000000e+00 2.400000e+00
+91 M_CenX3 Msun 1.000000e+00 2.400000e+00
+92 M_OAO1657 Msun 1.000000e+00 2.400000e+00
+93 M_J013236 Msun 1.000000e+00 2.400000e+00
+94 M_VelaX1 Msun 1.000000e+00 2.400000e+00
+95 M_4U1538 Msun 1.000000e+00 2.400000e+00
+96 M_LMCX4 Msun 1.000000e+00 2.400000e+00
+97 M_EXO1722 Msun 1.000000e+00 2.400000e+00
+98 M_SAXJ1802 Msun 1.000000e+00 2.400000e+00
+99 M_XTEJ1855 Msun 1.000000e+00 2.400000e+00
+100 M_CygX2 Msun 1.000000e+00 2.400000e+00
+101 M_XTEJ2123 Msun 1.000000e+00 2.400000e+00
+102 M_4U1822 Msun 1.000000e+00 2.400000e+00
+103 M_HerX1 Msun 1.000000e+00 2.400000e+00
+104 M_2S0921 Msun 1.000000e+00 2.400000e+00
+(rank 0) Start mcmc_bamr::mcmc_init().
+Prefix is: out/np
+(rank 0) End mcmc_bamr::mcmc_init().
+NS: 9.227875e+01, WD: 4.072376e+01, HM: 2.516298e+00, LM: 1.098901e+00, All: 1.366177e+02
+NS: 9.135471e+01, WD: 4.065987e+01, HM: 2.535011e+00, LM: 1.102901e+00, All: 1.356525e+02
+NS: 9.143447e+01, WD: 4.047323e+01, HM: 2.537080e+00, LM: 1.102981e+00, All: 1.355478e+02
+NS: 9.204723e+01, WD: 4.070830e+01, HM: 2.515034e+00, LM: 1.098430e+00, All: 1.363690e+02
+NS: 9.137167e+01, WD: 4.060060e+01, HM: 2.521482e+00, LM: 1.108186e+00, All: 1.356019e+02
+NS: 9.123234e+01, WD: 4.046872e+01, HM: 2.537776e+00, LM: 1.103791e+00, All: 1.353426e+02
+NS: 9.118942e+01, WD: 4.065602e+01, HM: 2.539814e+00, LM: 1.103752e+00, All: 1.354890e+02
+NS: 9.158322e+01, WD: 4.074222e+01, HM: 2.516567e+00, LM: 1.099320e+00, All: 1.359413e+02
+NS: 9.107612e+01, WD: 4.061613e+01, HM: 2.532817e+00, LM: 1.105126e+00, All: 1.353302e+02
+NS: 9.002944e+01, WD: 4.054617e+01, HM: 2.499230e+00, LM: 1.116029e+00, All: 1.341909e+02
+NS: 9.066308e+01, WD: 3.996884e+01, HM: 2.530844e+00, LM: 1.109004e+00, All: 1.342718e+02
+NS: 9.092595e+01, WD: 4.069782e+01, HM: 2.534505e+00, LM: 1.104596e+00, All: 1.352629e+02
+NS: 8.992607e+01, WD: 4.043135e+01, HM: 2.523883e+00, LM: 1.103978e+00, All: 1.339853e+02
+NS: 9.232101e+01, WD: 4.071907e+01, HM: 2.517453e+00, LM: 1.099409e+00, All: 1.366569e+02
+NS: 9.134738e+01, WD: 4.071122e+01, HM: 2.499982e+00, LM: 1.101412e+00, All: 1.356600e+02
+NS: 9.107387e+01, WD: 4.051080e+01, HM: 2.537277e+00, LM: 1.099810e+00, All: 1.352218e+02
+NS: 9.086206e+01, WD: 4.066114e+01, HM: 2.534835e+00, LM: 1.103021e+00, All: 1.351611e+02
+NS: 9.088205e+01, WD: 4.064786e+01, HM: 2.537837e+00, LM: 1.103002e+00, All: 1.351707e+02
+NS: 9.089726e+01, WD: 4.076099e+01, HM: 2.508190e+00, LM: 1.112033e+00, All: 1.352785e+02
+NS: 9.091257e+01, WD: 4.067730e+01, HM: 2.533695e+00, LM: 1.105935e+00, All: 1.352295e+02
+NS: 8.985101e+01, WD: 4.036281e+01, HM: 2.528309e+00, LM: 1.103570e+00, All: 1.338457e+02
+NS: 9.225877e+01, WD: 4.071398e+01, HM: 2.512965e+00, LM: 1.098468e+00, All: 1.365842e+02
+NS: 9.089360e+01, WD: 4.059140e+01, HM: 2.528655e+00, LM: 1.108194e+00, All: 1.351219e+02
+NS: 9.109939e+01, WD: 4.055769e+01, HM: 2.511531e+00, LM: 1.107413e+00, All: 1.352760e+02
+NS: 9.100746e+01, WD: 4.049749e+01, HM: 2.537520e+00, LM: 1.099075e+00, All: 1.351415e+02
+NS: 9.084281e+01, WD: 4.044998e+01, HM: 2.541077e+00, LM: 1.100920e+00, All: 1.349348e+02
+NS: 9.019698e+01, WD: 4.016622e+01, HM: 2.529842e+00, LM: 1.107550e+00, All: 1.340006e+02
+NS: 9.069287e+01, WD: 4.040660e+01, HM: 2.539775e+00, LM: 1.102656e+00, All: 1.347419e+02
+NS: 9.064251e+01, WD: 4.077667e+01, HM: 2.511340e+00, LM: 1.110302e+00, All: 1.350408e+02
+NS: 9.221989e+01, WD: 4.071531e+01, HM: 2.514438e+00, LM: 1.100801e+00, All: 1.365504e+02
+NS: 9.204801e+01, WD: 4.075797e+01, HM: 2.509234e+00, LM: 1.100858e+00, All: 1.364161e+02
+NS: 9.126193e+01, WD: 4.072809e+01, HM: 2.518224e+00, LM: 1.098961e+00, All: 1.356072e+02
+NS: 9.197014e+01, WD: 4.073485e+01, HM: 2.515721e+00, LM: 1.098163e+00, All: 1.363189e+02
+NS: 9.008582e+01, WD: 3.998772e+01, HM: 2.527057e+00, LM: 1.110610e+00, All: 1.337112e+02
+NS: 8.989145e+01, WD: 4.059886e+01, HM: 2.500449e+00, LM: 1.116836e+00, All: 1.341076e+02
+NS: 9.061165e+01, WD: 4.064537e+01, HM: 2.535533e+00, LM: 1.102770e+00, All: 1.348953e+02
+NS: 9.087972e+01, WD: 4.067396e+01, HM: 2.537152e+00, LM: 1.102831e+00, All: 1.351937e+02
+NS: 9.087038e+01, WD: 4.060556e+01, HM: 2.535329e+00, LM: 1.103852e+00, All: 1.351151e+02
+NS: 8.977409e+01, WD: 4.059052e+01, HM: 2.499095e+00, LM: 1.116638e+00, All: 1.339803e+02
+NS: 9.055005e+01, WD: 4.077289e+01, HM: 2.512837e+00, LM: 1.110005e+00, All: 1.349458e+02
+NS: 8.988765e+01, WD: 4.055144e+01, HM: 2.503849e+00, LM: 1.116459e+00, All: 1.340594e+02
+NS: 9.121801e+01, WD: 4.075549e+01, HM: 2.513641e+00, LM: 1.099997e+00, All: 1.355871e+02
+NS: 9.143241e+01, WD: 4.052862e+01, HM: 2.521773e+00, LM: 1.100487e+00, All: 1.355833e+02
+NS: 9.162056e+01, WD: 4.061247e+01, HM: 2.531547e+00, LM: 1.107202e+00, All: 1.358718e+02
+NS: 8.956218e+01, WD: 4.064708e+01, HM: 2.496031e+00, LM: 1.115087e+00, All: 1.338204e+02
+NS: 8.959501e+01, WD: 4.019451e+01, HM: 2.536686e+00, LM: 1.102621e+00, All: 1.334288e+02
+NS: 8.985337e+01, WD: 4.021323e+01, HM: 2.532297e+00, LM: 1.108699e+00, All: 1.337076e+02
+NS: 9.053428e+01, WD: 4.045363e+01, HM: 2.541385e+00, LM: 1.102490e+00, All: 1.346318e+02
+NS: 8.975763e+01, WD: 4.021513e+01, HM: 2.539658e+00, LM: 1.103199e+00, All: 1.336156e+02
+NS: 9.050557e+01, WD: 4.044129e+01, HM: 2.540499e+00, LM: 1.100650e+00, All: 1.345880e+02
+NS: 9.111619e+01, WD: 4.057584e+01, HM: 2.519920e+00, LM: 1.099002e+00, All: 1.353109e+02
+NS: 9.213413e+01, WD: 4.070732e+01, HM: 2.514588e+00, LM: 1.100198e+00, All: 1.364562e+02
+NS: 9.095160e+01, WD: 4.061704e+01, HM: 2.523180e+00, LM: 1.098869e+00, All: 1.351907e+02
+NS: 9.204577e+01, WD: 4.071414e+01, HM: 2.515016e+00, LM: 1.100672e+00, All: 1.363756e+02
+NS: 9.082139e+01, WD: 4.041722e+01, HM: 2.536283e+00, LM: 1.099059e+00, All: 1.348740e+02
+NS: 9.144095e+01, WD: 4.055414e+01, HM: 2.538629e+00, LM: 1.103182e+00, All: 1.356369e+02
+NS: 9.199263e+01, WD: 4.072325e+01, HM: 2.516800e+00, LM: 1.098551e+00, All: 1.363312e+02
+NS: 8.939493e+01, WD: 4.037321e+01, HM: 2.528779e+00, LM: 1.103882e+00, All: 1.334008e+02
+NS: 9.183346e+01, WD: 4.074470e+01, HM: 2.512664e+00, LM: 1.100501e+00, All: 1.361913e+02
+NS: 9.123846e+01, WD: 4.056528e+01, HM: 2.528573e+00, LM: 1.106938e+00, All: 1.354392e+02
+NS: 8.973319e+01, WD: 4.005978e+01, HM: 2.529960e+00, LM: 1.109591e+00, All: 1.334325e+02
+NS: 9.008921e+01, WD: 3.977446e+01, HM: 2.525879e+00, LM: 1.109062e+00, All: 1.334986e+02
+NS: 8.956632e+01, WD: 4.038145e+01, HM: 2.502375e+00, LM: 1.113843e+00, All: 1.335640e+02
+NS: 8.998490e+01, WD: 4.055002e+01, HM: 2.499290e+00, LM: 1.116067e+00, All: 1.341503e+02
+NS: 8.967191e+01, WD: 4.019393e+01, HM: 2.540886e+00, LM: 1.104500e+00, All: 1.335112e+02
+NS: 9.015024e+01, WD: 3.988893e+01, HM: 2.525785e+00, LM: 1.109517e+00, All: 1.336745e+02
+NS: 9.050824e+01, WD: 4.056274e+01, HM: 2.531043e+00, LM: 1.104426e+00, All: 1.347065e+02
+NS: 9.052237e+01, WD: 4.036909e+01, HM: 2.540314e+00, LM: 1.101352e+00, All: 1.345331e+02
+NS: 8.979454e+01, WD: 4.012092e+01, HM: 2.535863e+00, LM: 1.108258e+00, All: 1.335596e+02
+NS: 8.973945e+01, WD: 4.059959e+01, HM: 2.498458e+00, LM: 1.116507e+00, All: 1.339540e+02
+NS: 9.134714e+01, WD: 4.050971e+01, HM: 2.536062e+00, LM: 1.102861e+00, All: 1.354958e+02
+NS: 9.112158e+01, WD: 4.056569e+01, HM: 2.523943e+00, LM: 1.099487e+00, All: 1.353107e+02
+NS: 8.968937e+01, WD: 4.014775e+01, HM: 2.534588e+00, LM: 1.102059e+00, All: 1.334738e+02
+NS: 9.147982e+01, WD: 4.063821e+01, HM: 2.533793e+00, LM: 1.106279e+00, All: 1.357581e+02
+NS: 9.131083e+01, WD: 4.061617e+01, HM: 2.535535e+00, LM: 1.104331e+00, All: 1.355669e+02
+NS: 9.109458e+01, WD: 4.055985e+01, HM: 2.517856e+00, LM: 1.107557e+00, All: 1.352798e+02
+NS: 8.955850e+01, WD: 4.017974e+01, HM: 2.535000e+00, LM: 1.101981e+00, All: 1.333752e+02
+NS: 9.186733e+01, WD: 4.068842e+01, HM: 2.494624e+00, LM: 1.101043e+00, All: 1.361514e+02
+NS: 9.019196e+01, WD: 4.074783e+01, HM: 2.503738e+00, LM: 1.110168e+00, All: 1.345537e+02
+NS: 9.076142e+01, WD: 4.044294e+01, HM: 2.537034e+00, LM: 1.099832e+00, All: 1.348412e+02
+NS: 8.940498e+01, WD: 4.062318e+01, HM: 2.501456e+00, LM: 1.114989e+00, All: 1.336446e+02
+NS: 9.129137e+01, WD: 4.065219e+01, HM: 2.537084e+00, LM: 1.103090e+00, All: 1.355837e+02
+NS: 8.995852e+01, WD: 3.975040e+01, HM: 2.498385e+00, LM: 1.109063e+00, All: 1.333164e+02
+NS: 8.981463e+01, WD: 3.983186e+01, HM: 2.500459e+00, LM: 1.109261e+00, All: 1.332562e+02
+NS: 9.084639e+01, WD: 4.067654e+01, HM: 2.537543e+00, LM: 1.103278e+00, All: 1.351637e+02
+NS: 9.121425e+01, WD: 4.066965e+01, HM: 2.532050e+00, LM: 1.105107e+00, All: 1.355211e+02
+NS: 8.943638e+01, WD: 4.064380e+01, HM: 2.497612e+00, LM: 1.115726e+00, All: 1.336935e+02
+NS: 9.103229e+01, WD: 4.065191e+01, HM: 2.532084e+00, LM: 1.103020e+00, All: 1.353193e+02
+NS: 8.954214e+01, WD: 4.020899e+01, HM: 2.540865e+00, LM: 1.105045e+00, All: 1.333970e+02
+NS: 9.183826e+01, WD: 4.069177e+01, HM: 2.496313e+00, LM: 1.101494e+00, All: 1.361278e+02
+NS: 9.015354e+01, WD: 4.074437e+01, HM: 2.501086e+00, LM: 1.110646e+00, All: 1.345096e+02
+NS: 8.951161e+01, WD: 4.016640e+01, HM: 2.538151e+00, LM: 1.101715e+00, All: 1.333179e+02
+NS: 8.956057e+01, WD: 4.064975e+01, HM: 2.500856e+00, LM: 1.116117e+00, All: 1.338273e+02
+NS: 9.143414e+01, WD: 4.073535e+01, HM: 2.513931e+00, LM: 1.099752e+00, All: 1.357832e+02
+NS: 9.036761e+01, WD: 4.020629e+01, HM: 2.529818e+00, LM: 1.103064e+00, All: 1.342068e+02
+NS: 9.065956e+01, WD: 4.048248e+01, HM: 2.531787e+00, LM: 1.100748e+00, All: 1.347746e+02
+NS: 9.110531e+01, WD: 4.059912e+01, HM: 2.518664e+00, LM: 1.107559e+00, All: 1.353307e+02
+NS: 8.943220e+01, WD: 4.017806e+01, HM: 2.528819e+00, LM: 1.102645e+00, All: 1.332417e+02
+NS: 9.082010e+01, WD: 4.050895e+01, HM: 2.521891e+00, LM: 1.100215e+00, All: 1.349512e+02
+NS: 9.093091e+01, WD: 4.076399e+01, HM: 2.507763e+00, LM: 1.111156e+00, All: 1.353138e+02
+NS: 9.011153e+01, WD: 4.041088e+01, HM: 2.539756e+00, LM: 1.102020e+00, All: 1.341642e+02
+NS: 9.101564e+01, WD: 4.050817e+01, HM: 2.528368e+00, LM: 1.102997e+00, All: 1.351552e+02
+NS: 8.945680e+01, WD: 4.015098e+01, HM: 2.535816e+00, LM: 1.106414e+00, All: 1.332500e+02
+NS: 8.995758e+01, WD: 4.071009e+01, HM: 2.535741e+00, LM: 1.103711e+00, All: 1.343071e+02
+NS: 8.950822e+01, WD: 4.048231e+01, HM: 2.513364e+00, LM: 1.116417e+00, All: 1.336203e+02
+NS: 9.014663e+01, WD: 4.062498e+01, HM: 2.500903e+00, LM: 1.115292e+00, All: 1.343878e+02
+NS: 9.023458e+01, WD: 4.044200e+01, HM: 2.496532e+00, LM: 1.115547e+00, All: 1.342887e+02
+NS: 9.102705e+01, WD: 4.039348e+01, HM: 2.536476e+00, LM: 1.100527e+00, All: 1.350575e+02
+NS: 9.013367e+01, WD: 4.035447e+01, HM: 2.541300e+00, LM: 1.101582e+00, All: 1.341310e+02
+NS: 9.110583e+01, WD: 4.047273e+01, HM: 2.523210e+00, LM: 1.099337e+00, All: 1.352011e+02
+NS: 9.169390e+01, WD: 4.049529e+01, HM: 2.523504e+00, LM: 1.099984e+00, All: 1.358127e+02
+NS: 8.969715e+01, WD: 3.989705e+01, HM: 2.507264e+00, LM: 1.110679e+00, All: 1.332121e+02
+NS: 9.010305e+01, WD: 4.064816e+01, HM: 2.496502e+00, LM: 1.115504e+00, All: 1.343632e+02
+NS: 9.006989e+01, WD: 4.040065e+01, HM: 2.501659e+00, LM: 1.114349e+00, All: 1.340865e+02
+NS: 9.068138e+01, WD: 4.038327e+01, HM: 2.539583e+00, LM: 1.104243e+00, All: 1.347085e+02
+NS: 9.032195e+01, WD: 4.018764e+01, HM: 2.530489e+00, LM: 1.106776e+00, All: 1.341469e+02
+NS: 8.949660e+01, WD: 3.995321e+01, HM: 2.529241e+00, LM: 1.108716e+00, All: 1.330878e+02
+NS: 9.027751e+01, WD: 4.004903e+01, HM: 2.528010e+00, LM: 1.102104e+00, All: 1.339567e+02
+NS: 9.019100e+01, WD: 4.043989e+01, HM: 2.501071e+00, LM: 1.115487e+00, All: 1.342474e+02
+NS: 9.025947e+01, WD: 4.014004e+01, HM: 2.533771e+00, LM: 1.106687e+00, All: 1.340400e+02
+NS: 9.102737e+01, WD: 4.052052e+01, HM: 2.524104e+00, LM: 1.099634e+00, All: 1.351716e+02
+NS: 8.918618e+01, WD: 4.064879e+01, HM: 2.498826e+00, LM: 1.115945e+00, All: 1.334497e+02
+NS: 9.017349e+01, WD: 4.014499e+01, HM: 2.533338e+00, LM: 1.107262e+00, All: 1.339591e+02
+NS: 9.003959e+01, WD: 4.035453e+01, HM: 2.497311e+00, LM: 1.115001e+00, All: 1.340064e+02
+NS: 8.989039e+01, WD: 4.075090e+01, HM: 2.514078e+00, LM: 1.110175e+00, All: 1.342655e+02
+NS: 9.009136e+01, WD: 4.047125e+01, HM: 2.495491e+00, LM: 1.115575e+00, All: 1.341737e+02
+NS: 9.007138e+01, WD: 4.016490e+01, HM: 2.530826e+00, LM: 1.107851e+00, All: 1.338749e+02
+NS: 9.017330e+01, WD: 4.040006e+01, HM: 2.495017e+00, LM: 1.115524e+00, All: 1.341839e+02
+NS: 9.038828e+01, WD: 4.004431e+01, HM: 2.530826e+00, LM: 1.108039e+00, All: 1.340714e+02
+NS: 8.927230e+01, WD: 4.050853e+01, HM: 2.516720e+00, LM: 1.115887e+00, All: 1.334134e+02
+NS: 8.987979e+01, WD: 4.028273e+01, HM: 2.528520e+00, LM: 1.102984e+00, All: 1.337940e+02
+NS: 8.977691e+01, WD: 4.071719e+01, HM: 2.506591e+00, LM: 1.110111e+00, All: 1.341108e+02
+NS: 9.018000e+01, WD: 4.021865e+01, HM: 2.534620e+00, LM: 1.102394e+00, All: 1.340357e+02
+NS: 9.129334e+01, WD: 4.071396e+01, HM: 2.499283e+00, LM: 1.101569e+00, All: 1.356081e+02
+NS: 8.987789e+01, WD: 4.061114e+01, HM: 2.533688e+00, LM: 1.104103e+00, All: 1.341268e+02
+NS: 8.964222e+01, WD: 3.979649e+01, HM: 2.501933e+00, LM: 1.109365e+00, All: 1.330500e+02
+NS: 8.982449e+01, WD: 4.049444e+01, HM: 2.497478e+00, LM: 1.114765e+00, All: 1.339312e+02
+NS: 9.020770e+01, WD: 4.043972e+01, HM: 2.534716e+00, LM: 1.101298e+00, All: 1.342834e+02
+NS: 9.127554e+01, WD: 4.055036e+01, HM: 2.524981e+00, LM: 1.098963e+00, All: 1.354498e+02
+NS: 9.089883e+01, WD: 4.050296e+01, HM: 2.515055e+00, LM: 1.107976e+00, All: 1.350248e+02
+NS: 8.892482e+01, WD: 4.053478e+01, HM: 2.511332e+00, LM: 1.114695e+00, All: 1.330856e+02
+NS: 9.085398e+01, WD: 4.052460e+01, HM: 2.514531e+00, LM: 1.107572e+00, All: 1.350007e+02
+NS: 9.000822e+01, WD: 4.043646e+01, HM: 2.498703e+00, LM: 1.114800e+00, All: 1.340582e+02
+NS: 9.064617e+01, WD: 4.043907e+01, HM: 2.528440e+00, LM: 1.102806e+00, All: 1.347165e+02
+NS: 9.013368e+01, WD: 4.018333e+01, HM: 2.533032e+00, LM: 1.107676e+00, All: 1.339577e+02
+NS: 8.903492e+01, WD: 4.010912e+01, HM: 2.532416e+00, LM: 1.101897e+00, All: 1.327784e+02
+NS: 8.924782e+01, WD: 3.981843e+01, HM: 2.502707e+00, LM: 1.109121e+00, All: 1.326781e+02
+NS: 9.160553e+01, WD: 4.056148e+01, HM: 2.524404e+00, LM: 1.100321e+00, All: 1.357917e+02
+NS: 9.077009e+01, WD: 4.060681e+01, HM: 2.511539e+00, LM: 1.108054e+00, All: 1.349965e+02
+NS: 9.068067e+01, WD: 4.028645e+01, HM: 2.529191e+00, LM: 1.102489e+00, All: 1.345988e+02
+NS: 9.050014e+01, WD: 4.055867e+01, HM: 2.528335e+00, LM: 1.098718e+00, All: 1.346859e+02
+NS: 9.059437e+01, WD: 4.048240e+01, HM: 2.537717e+00, LM: 1.100413e+00, All: 1.347149e+02
+NS: 9.089750e+01, WD: 4.023196e+01, HM: 2.535886e+00, LM: 1.102279e+00, All: 1.347676e+02
+NS: 9.149494e+01, WD: 4.058780e+01, HM: 2.522554e+00, LM: 1.100260e+00, All: 1.357056e+02
+NS: 9.009419e+01, WD: 4.051843e+01, HM: 2.504364e+00, LM: 1.115071e+00, All: 1.342321e+02
+NS: 9.022358e+01, WD: 3.983602e+01, HM: 2.527455e+00, LM: 1.109219e+00, All: 1.336963e+02
+NS: 9.071358e+01, WD: 4.056502e+01, HM: 2.526431e+00, LM: 1.107629e+00, All: 1.349127e+02
+NS: 9.081472e+01, WD: 4.041108e+01, HM: 2.542151e+00, LM: 1.102151e+00, All: 1.348701e+02
+NS: 9.092791e+01, WD: 4.040186e+01, HM: 2.535038e+00, LM: 1.100091e+00, All: 1.349649e+02
+NS: 8.950338e+01, WD: 4.064192e+01, HM: 2.499705e+00, LM: 1.116480e+00, All: 1.337615e+02
+NS: 9.073754e+01, WD: 4.043593e+01, HM: 2.541197e+00, LM: 1.102594e+00, All: 1.348173e+02
+NS: 9.034454e+01, WD: 4.060190e+01, HM: 2.519860e+00, LM: 1.099486e+00, All: 1.345658e+02
+NS: 9.047430e+01, WD: 4.074917e+01, HM: 2.505278e+00, LM: 1.111200e+00, All: 1.348399e+02
+NS: 9.057238e+01, WD: 3.967990e+01, HM: 2.525708e+00, LM: 1.109740e+00, All: 1.338877e+02
+NS: 9.002453e+01, WD: 3.994714e+01, HM: 2.507195e+00, LM: 1.109252e+00, All: 1.335881e+02
+NS: 8.930473e+01, WD: 4.005350e+01, HM: 2.495258e+00, LM: 1.114912e+00, All: 1.329684e+02
+NS: 9.054753e+01, WD: 4.063031e+01, HM: 2.532911e+00, LM: 1.102873e+00, All: 1.348136e+02
+NS: 9.066161e+01, WD: 4.029003e+01, HM: 2.538989e+00, LM: 1.102586e+00, All: 1.345932e+02
+NS: 9.086875e+01, WD: 4.050978e+01, HM: 2.538515e+00, LM: 1.099978e+00, All: 1.350170e+02
+NS: 9.031611e+01, WD: 4.063802e+01, HM: 2.525018e+00, LM: 1.098360e+00, All: 1.345775e+02
+NS: 8.949039e+01, WD: 4.041952e+01, HM: 2.537440e+00, LM: 1.099639e+00, All: 1.335470e+02
+NS: 9.019916e+01, WD: 4.056929e+01, HM: 2.525916e+00, LM: 1.099516e+00, All: 1.343939e+02
+NS: 9.046650e+01, WD: 4.051314e+01, HM: 2.538904e+00, LM: 1.099348e+00, All: 1.346179e+02
+NS: 9.073938e+01, WD: 4.074968e+01, HM: 2.511848e+00, LM: 1.099897e+00, All: 1.351008e+02
+NS: 9.052635e+01, WD: 4.054964e+01, HM: 2.541475e+00, LM: 1.099503e+00, All: 1.347170e+02
+NS: 8.911356e+01, WD: 3.988215e+01, HM: 2.533282e+00, LM: 1.109476e+00, All: 1.326385e+02
+NS: 8.997323e+01, WD: 4.017295e+01, HM: 2.534803e+00, LM: 1.102038e+00, All: 1.337830e+02
+NS: 8.987416e+01, WD: 4.036504e+01, HM: 2.539620e+00, LM: 1.100294e+00, All: 1.338791e+02
+NS: 9.026054e+01, WD: 4.034804e+01, HM: 2.529334e+00, LM: 1.103299e+00, All: 1.342412e+02
+NS: 8.960336e+01, WD: 3.949466e+01, HM: 2.496166e+00, LM: 1.115739e+00, All: 1.327099e+02
+NS: 9.106464e+01, WD: 4.062494e+01, HM: 2.524201e+00, LM: 1.098734e+00, All: 1.353125e+02
+NS: 9.043465e+01, WD: 4.075890e+01, HM: 2.504505e+00, LM: 1.109918e+00, All: 1.348080e+02
+NS: 8.991170e+01, WD: 4.048482e+01, HM: 2.509172e+00, LM: 1.116556e+00, All: 1.340222e+02
+NS: 9.033589e+01, WD: 4.033246e+01, HM: 2.534059e+00, LM: 1.100461e+00, All: 1.343029e+02
+NS: 8.882917e+01, WD: 4.024284e+01, HM: 2.502270e+00, LM: 1.114334e+00, All: 1.326886e+02
+NS: 9.036257e+01, WD: 4.029979e+01, HM: 2.539337e+00, LM: 1.102248e+00, All: 1.343039e+02
+NS: 8.992453e+01, WD: 4.002298e+01, HM: 2.533389e+00, LM: 1.107365e+00, All: 1.335883e+02
+NS: 8.950353e+01, WD: 4.016891e+01, HM: 2.529469e+00, LM: 1.100992e+00, All: 1.333029e+02
+NS: 9.006292e+01, WD: 4.074231e+01, HM: 2.506663e+00, LM: 1.109306e+00, All: 1.344212e+02
+NS: 8.960709e+01, WD: 4.012241e+01, HM: 2.532523e+00, LM: 1.101947e+00, All: 1.333640e+02
+NS: 8.933150e+01, WD: 4.047513e+01, HM: 2.536100e+00, LM: 1.100917e+00, All: 1.334436e+02
+NS: 8.864130e+01, WD: 4.018871e+01, HM: 2.535183e+00, LM: 1.105683e+00, All: 1.324709e+02
+NS: 9.008627e+01, WD: 4.072656e+01, HM: 2.506333e+00, LM: 1.109557e+00, All: 1.344287e+02
+NS: 9.130133e+01, WD: 4.055887e+01, HM: 2.522684e+00, LM: 1.100110e+00, All: 1.354830e+02
+NS: 9.128707e+01, WD: 4.048367e+01, HM: 2.528917e+00, LM: 1.098527e+00, All: 1.353982e+02
+NS: 9.060432e+01, WD: 4.019051e+01, HM: 2.530366e+00, LM: 1.102875e+00, All: 1.344281e+02
+NS: 9.051812e+01, WD: 4.022290e+01, HM: 2.535782e+00, LM: 1.102075e+00, All: 1.343789e+02
+NS: 8.873678e+01, WD: 4.009807e+01, HM: 2.510241e+00, LM: 1.113876e+00, All: 1.324590e+02
+NS: 9.129422e+01, WD: 4.048465e+01, HM: 2.523105e+00, LM: 1.100318e+00, All: 1.354023e+02
+NS: 8.928044e+01, WD: 3.964598e+01, HM: 2.495817e+00, LM: 1.115787e+00, All: 1.325380e+02
+NS: 9.130343e+01, WD: 4.051056e+01, HM: 2.524172e+00, LM: 1.099659e+00, All: 1.354378e+02
+NS: 8.978098e+01, WD: 4.053497e+01, HM: 2.510834e+00, LM: 1.115198e+00, All: 1.339420e+02
+NS: 8.962395e+01, WD: 4.023976e+01, HM: 2.532867e+00, LM: 1.102946e+00, All: 1.334995e+02
+NS: 8.997165e+01, WD: 4.060916e+01, HM: 2.527336e+00, LM: 1.098954e+00, All: 1.342071e+02
+NS: 8.899222e+01, WD: 3.967333e+01, HM: 2.505145e+00, LM: 1.113584e+00, All: 1.322843e+02
+NS: 9.029569e+01, WD: 4.045974e+01, HM: 2.537282e+00, LM: 1.099552e+00, All: 1.343923e+02
+NS: 8.926561e+01, WD: 4.064667e+01, HM: 2.534737e+00, LM: 1.103705e+00, All: 1.335507e+02
+NS: 8.937509e+01, WD: 3.950011e+01, HM: 2.494241e+00, LM: 1.115404e+00, All: 1.324848e+02
+NS: 8.898254e+01, WD: 3.985327e+01, HM: 2.508076e+00, LM: 1.111070e+00, All: 1.324550e+02
+NS: 8.985446e+01, WD: 3.996814e+01, HM: 2.507543e+00, LM: 1.110448e+00, All: 1.334406e+02
+NS: 8.966925e+01, WD: 4.051652e+01, HM: 2.513708e+00, LM: 1.116751e+00, All: 1.338162e+02
+NS: 8.858626e+01, WD: 4.014903e+01, HM: 2.512852e+00, LM: 1.114297e+00, All: 1.323624e+02
+NS: 8.883223e+01, WD: 4.000906e+01, HM: 2.511595e+00, LM: 1.113148e+00, All: 1.324660e+02
+NS: 8.947648e+01, WD: 4.027375e+01, HM: 2.532353e+00, LM: 1.102586e+00, All: 1.333852e+02
+NS: 8.878922e+01, WD: 4.004068e+01, HM: 2.511280e+00, LM: 1.114139e+00, All: 1.324553e+02
+NS: 8.967820e+01, WD: 3.923267e+01, HM: 2.492226e+00, LM: 1.114840e+00, All: 1.325179e+02
+NS: 8.925911e+01, WD: 4.023385e+01, HM: 2.541916e+00, LM: 1.108078e+00, All: 1.331430e+02
+NS: 9.005347e+01, WD: 4.056223e+01, HM: 2.526545e+00, LM: 1.106778e+00, All: 1.342490e+02
+NS: 9.033340e+01, WD: 4.044738e+01, HM: 2.538934e+00, LM: 1.099549e+00, All: 1.344193e+02
+NS: 8.928895e+01, WD: 4.052537e+01, HM: 2.514072e+00, LM: 1.116635e+00, All: 1.334450e+02
+NS: 8.946919e+01, WD: 4.013517e+01, HM: 2.535071e+00, LM: 1.105108e+00, All: 1.332445e+02
+NS: 8.875703e+01, WD: 3.982042e+01, HM: 2.509259e+00, LM: 1.110383e+00, All: 1.321971e+02
+NS: 8.917016e+01, WD: 3.949116e+01, HM: 2.495060e+00, LM: 1.114870e+00, All: 1.322712e+02
+NS: 8.954729e+01, WD: 4.010149e+01, HM: 2.534552e+00, LM: 1.106709e+00, All: 1.332900e+02
+NS: 8.965897e+01, WD: 4.064449e+01, HM: 2.527671e+00, LM: 1.098533e+00, All: 1.339297e+02
+NS: 8.860052e+01, WD: 4.015376e+01, HM: 2.505441e+00, LM: 1.114091e+00, All: 1.323738e+02
+NS: 8.947254e+01, WD: 4.054561e+01, HM: 2.531294e+00, LM: 1.100460e+00, All: 1.336499e+02
+NS: 8.907782e+01, WD: 4.024383e+01, HM: 2.538032e+00, LM: 1.104929e+00, All: 1.329646e+02
+NS: 8.996866e+01, WD: 4.035292e+01, HM: 2.534665e+00, LM: 1.099752e+00, All: 1.339560e+02
+NS: 8.937985e+01, WD: 4.012701e+01, HM: 2.537260e+00, LM: 1.104261e+00, All: 1.331484e+02
+NS: 8.816284e+01, WD: 4.019017e+01, HM: 2.541990e+00, LM: 1.104447e+00, All: 1.319994e+02
+NS: 8.925773e+01, WD: 4.019768e+01, HM: 2.540045e+00, LM: 1.107779e+00, All: 1.331032e+02
+NS: 8.933193e+01, WD: 4.032612e+01, HM: 2.498760e+00, LM: 1.114428e+00, All: 1.332712e+02
+NS: 8.938438e+01, WD: 4.062608e+01, HM: 2.500232e+00, LM: 1.117131e+00, All: 1.336278e+02
+NS: 8.914480e+01, WD: 4.027218e+01, HM: 2.533535e+00, LM: 1.102105e+00, All: 1.330526e+02
+NS: 8.977266e+01, WD: 3.958249e+01, HM: 2.499360e+00, LM: 1.115447e+00, All: 1.329700e+02
+NS: 9.014649e+01, WD: 4.044674e+01, HM: 2.533669e+00, LM: 1.100396e+00, All: 1.342273e+02
+NS: 8.983905e+01, WD: 4.056175e+01, HM: 2.531683e+00, LM: 1.099425e+00, All: 1.340319e+02
+NS: 8.890976e+01, WD: 3.973722e+01, HM: 2.493207e+00, LM: 1.115097e+00, All: 1.322553e+02
+NS: 8.877486e+01, WD: 4.031210e+01, HM: 2.528811e+00, LM: 1.102450e+00, All: 1.327182e+02
+NS: 8.915006e+01, WD: 4.019628e+01, HM: 2.537195e+00, LM: 1.102731e+00, All: 1.329863e+02
+NS: 8.977137e+01, WD: 4.034170e+01, HM: 2.528649e+00, LM: 1.103190e+00, All: 1.337449e+02
+NS: 8.967031e+01, WD: 3.978109e+01, HM: 2.512789e+00, LM: 1.111587e+00, All: 1.330758e+02
+NS: 8.934859e+01, WD: 3.920449e+01, HM: 2.493210e+00, LM: 1.114594e+00, All: 1.321609e+02
+NS: 8.948572e+01, WD: 4.007315e+01, HM: 2.502814e+00, LM: 1.114075e+00, All: 1.331758e+02
+NS: 8.975646e+01, WD: 4.067939e+01, HM: 2.534583e+00, LM: 1.104324e+00, All: 1.340748e+02
+NS: 9.039704e+01, WD: 4.072756e+01, HM: 2.501513e+00, LM: 1.102753e+00, All: 1.347289e+02
+NS: 9.035943e+01, WD: 4.006130e+01, HM: 2.533408e+00, LM: 1.101799e+00, All: 1.340559e+02
+NS: 8.835156e+01, WD: 3.995386e+01, HM: 2.503987e+00, LM: 1.111732e+00, All: 1.319211e+02
+NS: 8.886943e+01, WD: 3.963226e+01, HM: 2.504502e+00, LM: 1.111441e+00, All: 1.321176e+02
+NS: 8.975479e+01, WD: 3.943682e+01, HM: 2.501218e+00, LM: 1.114915e+00, All: 1.328077e+02
+NS: 8.926530e+01, WD: 4.008364e+01, HM: 2.535648e+00, LM: 1.106660e+00, All: 1.329913e+02
+NS: 8.911289e+01, WD: 3.912463e+01, HM: 2.495465e+00, LM: 1.114118e+00, All: 1.318471e+02
+NS: 8.932310e+01, WD: 4.060034e+01, HM: 2.527720e+00, LM: 1.098370e+00, All: 1.335495e+02
+NS: 8.931319e+01, WD: 3.915517e+01, HM: 2.502576e+00, LM: 1.114169e+00, All: 1.320851e+02
+NS: 8.952355e+01, WD: 3.963722e+01, HM: 2.503188e+00, LM: 1.113778e+00, All: 1.327777e+02
+NS: 8.894679e+01, WD: 4.012982e+01, HM: 2.538564e+00, LM: 1.106425e+00, All: 1.327216e+02
+NS: 9.030998e+01, WD: 4.053351e+01, HM: 2.525421e+00, LM: 1.099693e+00, All: 1.344686e+02
+NS: 8.907799e+01, WD: 4.014478e+01, HM: 2.500316e+00, LM: 1.115249e+00, All: 1.328383e+02
+NS: 8.869138e+01, WD: 3.965179e+01, HM: 2.495113e+00, LM: 1.115474e+00, All: 1.319537e+02
+NS: 8.952644e+01, WD: 3.955841e+01, HM: 2.502259e+00, LM: 1.112002e+00, All: 1.326991e+02
+NS: 9.011890e+01, WD: 4.014221e+01, HM: 2.530728e+00, LM: 1.103181e+00, All: 1.338950e+02
+NS: 8.827136e+01, WD: 4.050764e+01, HM: 2.527055e+00, LM: 1.102616e+00, All: 1.324087e+02
+NS: 8.974817e+01, WD: 3.953475e+01, HM: 2.498130e+00, LM: 1.115391e+00, All: 1.328964e+02
+NS: 8.981599e+01, WD: 4.069050e+01, HM: 2.517321e+00, LM: 1.108783e+00, All: 1.341326e+02
+NS: 8.853825e+01, WD: 3.965510e+01, HM: 2.495821e+00, LM: 1.114559e+00, All: 1.318037e+02
+NS: 8.888078e+01, WD: 4.020677e+01, HM: 2.532717e+00, LM: 1.101420e+00, All: 1.327217e+02
+NS: 8.886769e+01, WD: 4.028261e+01, HM: 2.541693e+00, LM: 1.106432e+00, All: 1.327984e+02
+NS: 8.896589e+01, WD: 4.028703e+01, HM: 2.499325e+00, LM: 1.114006e+00, All: 1.328663e+02
+NS: 9.039997e+01, WD: 4.055481e+01, HM: 2.531313e+00, LM: 1.099083e+00, All: 1.345852e+02
+NS: 8.852496e+01, WD: 4.042791e+01, HM: 2.526732e+00, LM: 1.102586e+00, All: 1.325822e+02
+NS: 8.893429e+01, WD: 4.011051e+01, HM: 2.530206e+00, LM: 1.101377e+00, All: 1.326764e+02
+NS: 8.898341e+01, WD: 3.993788e+01, HM: 2.506964e+00, LM: 1.110415e+00, All: 1.325387e+02
+NS: 8.847109e+01, WD: 3.958384e+01, HM: 2.494117e+00, LM: 1.114525e+00, All: 1.316636e+02
+NS: 8.926466e+01, WD: 3.969594e+01, HM: 2.496119e+00, LM: 1.114441e+00, All: 1.325712e+02
+NS: 8.881187e+01, WD: 3.920694e+01, HM: 2.503434e+00, LM: 1.113414e+00, All: 1.316357e+02
+NS: 8.968383e+01, WD: 3.942059e+01, HM: 2.501235e+00, LM: 1.114384e+00, All: 1.327200e+02
+NS: 8.919579e+01, WD: 3.978610e+01, HM: 2.513428e+00, LM: 1.112270e+00, All: 1.326076e+02
+NS: 8.894182e+01, WD: 4.010772e+01, HM: 2.531801e+00, LM: 1.108092e+00, All: 1.326894e+02
+NS: 8.869132e+01, WD: 3.949172e+01, HM: 2.498550e+00, LM: 1.114543e+00, All: 1.317961e+02
+NS: 8.847179e+01, WD: 4.046718e+01, HM: 2.537287e+00, LM: 1.101210e+00, All: 1.325775e+02
+NS: 8.986434e+01, WD: 4.049952e+01, HM: 2.529574e+00, LM: 1.101050e+00, All: 1.339945e+02
+NS: 8.890670e+01, WD: 4.003663e+01, HM: 2.507402e+00, LM: 1.114227e+00, All: 1.325650e+02
+NS: 8.867958e+01, WD: 4.004930e+01, HM: 2.537515e+00, LM: 1.108070e+00, All: 1.323745e+02
+NS: 8.787386e+01, WD: 4.052152e+01, HM: 2.531242e+00, LM: 1.101880e+00, All: 1.320285e+02
+NS: 8.914220e+01, WD: 4.070971e+01, HM: 2.503028e+00, LM: 1.103501e+00, All: 1.334584e+02
+NS: 8.791853e+01, WD: 4.051120e+01, HM: 2.517007e+00, LM: 1.113814e+00, All: 1.320606e+02
+NS: 8.915452e+01, WD: 4.053685e+01, HM: 2.537166e+00, LM: 1.101080e+00, All: 1.333296e+02
+NS: 8.905155e+01, WD: 3.975863e+01, HM: 2.503239e+00, LM: 1.111691e+00, All: 1.324251e+02
+NS: 8.882808e+01, WD: 4.012711e+01, HM: 2.503860e+00, LM: 1.114518e+00, All: 1.325736e+02
+NS: 8.943263e+01, WD: 3.934909e+01, HM: 2.500358e+00, LM: 1.112507e+00, All: 1.323946e+02
+NS: 8.885340e+01, WD: 3.979070e+01, HM: 2.505335e+00, LM: 1.111206e+00, All: 1.322606e+02
+NS: 8.899320e+01, WD: 3.962812e+01, HM: 2.498146e+00, LM: 1.113434e+00, All: 1.322329e+02
+NS: 8.939668e+01, WD: 4.018005e+01, HM: 2.534369e+00, LM: 1.101148e+00, All: 1.332122e+02
+NS: 8.874282e+01, WD: 4.007587e+01, HM: 2.530191e+00, LM: 1.107516e+00, All: 1.324564e+02
+NS: 8.873336e+01, WD: 3.993635e+01, HM: 2.501765e+00, LM: 1.111725e+00, All: 1.322832e+02
+NS: 8.770690e+01, WD: 4.062019e+01, HM: 2.513846e+00, LM: 1.111679e+00, All: 1.319526e+02
+NS: 8.792160e+01, WD: 3.990956e+01, HM: 2.505706e+00, LM: 1.112237e+00, All: 1.314491e+02
+NS: 8.898446e+01, WD: 3.996922e+01, HM: 2.501637e+00, LM: 1.110680e+00, All: 1.325660e+02
+NS: 8.859927e+01, WD: 3.994152e+01, HM: 2.511716e+00, LM: 1.109975e+00, All: 1.321625e+02
+NS: 8.857377e+01, WD: 4.014225e+01, HM: 2.537111e+00, LM: 1.107222e+00, All: 1.323604e+02
+NS: 8.911529e+01, WD: 4.039526e+01, HM: 2.534384e+00, LM: 1.100099e+00, All: 1.331450e+02
+NS: 8.945400e+01, WD: 3.923333e+01, HM: 2.496458e+00, LM: 1.113479e+00, All: 1.322973e+02
+NS: 8.795042e+01, WD: 4.051318e+01, HM: 2.536989e+00, LM: 1.100769e+00, All: 1.321014e+02
+NS: 8.853561e+01, WD: 4.024193e+01, HM: 2.499221e+00, LM: 1.113992e+00, All: 1.323907e+02
+NS: 8.888032e+01, WD: 3.983187e+01, HM: 2.505248e+00, LM: 1.110774e+00, All: 1.323282e+02
+NS: 8.795547e+01, WD: 3.971615e+01, HM: 2.515600e+00, LM: 1.111833e+00, All: 1.312991e+02
+NS: 8.888538e+01, WD: 3.975472e+01, HM: 2.493326e+00, LM: 1.114461e+00, All: 1.322479e+02
+NS: 8.852479e+01, WD: 3.907537e+01, HM: 2.497770e+00, LM: 1.113596e+00, All: 1.312115e+02
+NS: 8.867317e+01, WD: 3.985446e+01, HM: 2.505233e+00, LM: 1.109505e+00, All: 1.321424e+02
+NS: 8.849957e+01, WD: 4.012875e+01, HM: 2.537413e+00, LM: 1.106474e+00, All: 1.322722e+02
+NS: 8.840926e+01, WD: 4.055707e+01, HM: 2.511552e+00, LM: 1.114208e+00, All: 1.325921e+02
+NS: 8.885475e+01, WD: 3.997359e+01, HM: 2.504122e+00, LM: 1.110772e+00, All: 1.324432e+02
+NS: 8.825875e+01, WD: 4.025143e+01, HM: 2.542794e+00, LM: 1.106105e+00, All: 1.321591e+02
+NS: 8.865073e+01, WD: 4.073010e+01, HM: 2.503342e+00, LM: 1.104094e+00, All: 1.329883e+02
+NS: 8.980007e+01, WD: 4.053357e+01, HM: 2.514192e+00, LM: 1.110898e+00, All: 1.339587e+02
+NS: 6.745485e+01, WD: 4.099310e+01, HM: 2.551045e+00, LM: 1.135403e+00, All: 1.121344e+02
+NS: 8.902005e+01, WD: 4.030845e+01, HM: 2.540911e+00, LM: 1.106226e+00, All: 1.329756e+02
+NS: -1.281531e+01, WD: 2.207606e+01, HM: 2.308402e+00, LM: 1.184997e+00, All: 1.275415e+01
+trans2, c_ed: 4.111909e+00 4.054450e+00
+NS: 8.306560e+01, WD: 3.130637e+01, HM: 2.600086e+00, LM: 1.081394e+00, All: 1.180534e+02
+NS: -1.498240e+03, WD: 1.219749e+01, HM: 2.821019e+00, LM: 2.019887e-01, All: -1.483019e+03
+trans2, c_ed: 4.071847e+00 3.937399e+00
+NS: 7.029326e+01, WD: 3.787333e+01, HM: 2.405671e+00, LM: 1.064442e+00, All: 1.116367e+02
+NS: 5.587227e+01, WD: 4.034952e+01, HM: 2.509089e+00, LM: 1.089722e+00, All: 9.982060e+01
+NS: -6.082145e+02, WD: -1.594289e+02, HM: 2.712491e+00, LM: 9.390706e-01, All: -7.639918e+02
+NS: -4.955225e+02, WD: 4.029996e+01, HM: 2.630499e+00, LM: 1.056095e+00, All: -4.515359e+02
+NS: -4.230358e+02, WD: -2.015849e+02, HM: 1.770957e+00, LM: 1.275033e+00, All: -6.215747e+02
+NS: 8.837237e+01, WD: 4.055936e+01, HM: 2.488832e+00, LM: 1.116824e+00, All: 1.325374e+02
+NS: -2.286695e+02, WD: -2.630878e+02, HM: 2.118654e+00, LM: 1.149500e+00, All: -4.884892e+02
+NS: 9.030671e+01, WD: 3.931394e+01, HM: 2.528527e+00, LM: 1.102223e+00, All: 1.332514e+02
+NS: 3.378111e+01, WD: 3.768212e+01, HM: 2.604335e+00, LM: 1.092068e+00, All: 7.515963e+01
+NS: 5.676721e+01, WD: 3.981818e+01, HM: 2.550469e+00, LM: 1.052520e+00, All: 1.001884e+02
+trans2, c_ed: 4.258639e+00 3.685136e+00
+NS: -1.536882e+01, WD: -1.344375e+01, HM: 2.469219e+00, LM: 1.070190e+00, All: -2.527316e+01
+trans2, c_ed: 4.028994e+00 3.984227e+00
+NS: -5.158430e+02, WD: 1.823652e+01, HM: 1.745853e+00, LM: 1.035302e+00, All: -4.948253e+02
+NS: -2.734748e+02, WD: -1.569743e+00, HM: 2.703626e+00, LM: 9.215262e-01, All: -2.714194e+02
+NS: 4.662157e+01, WD: 3.327991e+01, HM: 2.401000e+00, LM: 1.141648e+00, All: 8.344412e+01
+trans2, c_ed: 4.037384e+00 3.863257e+00
+trans2, c_ed: 4.114674e+00 4.048844e+00
+NS: 8.788946e+01, WD: 3.949060e+01, HM: 2.485135e+00, LM: 1.118726e+00, All: 1.309839e+02
+NS: -2.372036e+02, WD: -1.601618e+02, HM: 2.472064e+00, LM: 1.028897e+00, All: -3.938645e+02
+NS: -1.021232e+03, WD: -9.189222e+01, HM: 2.408122e+00, LM: 9.590193e-01, All: -1.109757e+03
+NS: -2.870664e+02, WD: -8.546636e+01, HM: 2.585819e+00, LM: 1.098392e+00, All: -3.688485e+02
+NS: 9.027859e+01, WD: 4.065715e+01, HM: 2.532437e+00, LM: 1.102938e+00, All: 1.345711e+02
+NS: 3.023967e+01, WD: 3.909957e+01, HM: 2.632681e+00, LM: 1.080535e+00, All: 7.305246e+01
+NS: 8.859875e+01, WD: 4.015037e+01, HM: 2.512864e+00, LM: 1.114302e+00, All: 1.323763e+02
+NS: 2.876469e+01, WD: 2.739852e+01, HM: 2.292875e+00, LM: 1.062786e+00, All: 5.951887e+01
+NS: 6.944316e+00, WD: 2.935600e+01, HM: 2.463995e+00, LM: 1.079549e+00, All: 3.984386e+01
+NS: 2.722959e+01, WD: 1.376738e+01, HM: 2.608046e+00, LM: 1.051887e+00, All: 4.465691e+01
+NS: -9.212797e+02, WD: 1.840946e+01, HM: 2.131852e+00, LM: 1.058498e+00, All: -8.996799e+02
+NS: -5.187242e+02, WD: -1.559620e+02, HM: 2.678538e+00, LM: 1.110362e+00, All: -6.708973e+02
+NS: 1.116035e+01, WD: 3.278647e+01, HM: 2.452757e+00, LM: 1.165313e+00, All: 4.756489e+01
+NS: 8.765642e+01, WD: 3.750057e+01, HM: 2.563993e+00, LM: 1.095174e+00, All: 1.288162e+02
+NS: 8.859130e+01, WD: 4.005721e+01, HM: 2.531297e+00, LM: 1.100927e+00, All: 1.322807e+02
+NS: 9.071531e+01, WD: 4.057957e+01, HM: 2.525716e+00, LM: 1.107692e+00, All: 1.349283e+02
+trans2, c_ed: 3.929155e+00 3.459266e+00
+NS: 8.999445e+01, WD: 4.050297e+01, HM: 2.529198e+00, LM: 1.101001e+00, All: 1.341276e+02
+NS: 2.201796e+01, WD: 3.809854e+01, HM: 2.553534e+00, LM: 1.040442e+00, All: 6.371047e+01
+NS: 7.631689e+01, WD: 3.960031e+01, HM: 2.544959e+00, LM: 1.112424e+00, All: 1.195746e+02
+trans2, c_ed: 3.809357e+00 3.732009e+00
+NS: 8.205848e+01, WD: 3.941720e+01, HM: 2.560279e+00, LM: 1.112773e+00, All: 1.251487e+02
+trans2, c_ed: 4.104114e+00 3.937834e+00
+NS: 9.148663e+01, WD: 4.060968e+01, HM: 2.536695e+00, LM: 1.103741e+00, All: 1.357367e+02
+NS: -3.394684e+02, WD: -5.818584e+01, HM: 2.317554e+00, LM: 1.190704e+00, All: -3.941460e+02
+NS: 9.037549e+01, WD: 3.986194e+01, HM: 2.508677e+00, LM: 1.107834e+00, All: 1.338539e+02
+NS: 9.028954e+01, WD: 4.029856e+01, HM: 2.535339e+00, LM: 1.102222e+00, All: 1.342257e+02
+trans2, c_ed: 3.674032e+00 3.453546e+00
+NS: -1.561495e+02, WD: -1.331180e+02, HM: 2.674755e+00, LM: 9.549526e-01, All: -2.856377e+02
+NS: -6.511608e+01, WD: 3.869138e+01, HM: 2.295283e+00, LM: 1.185032e+00, All: -2.294439e+01
+NS: 3.108622e+01, WD: 3.549843e+00, HM: 2.648974e+00, LM: 1.054175e+00, All: 3.833921e+01
+NS: 9.116951e+01, WD: 4.070930e+01, HM: 2.522066e+00, LM: 1.103661e+00, All: 1.355045e+02
+NS: 4.088392e+01, WD: 3.037152e+01, HM: 2.459687e+00, LM: 1.112130e+00, All: 7.482725e+01
+NS: 8.965586e+01, WD: 3.962448e+01, HM: 2.505805e+00, LM: 1.111473e+00, All: 1.328976e+02
+NS: 6.449530e+01, WD: 3.025272e+01, HM: 2.513225e+00, LM: 1.123685e+00, All: 9.838493e+01
+NS: -4.035483e+02, WD: 1.068833e-02, HM: 2.635554e+00, LM: 9.800478e-01, All: -3.999220e+02
+NS: 9.087257e+01, WD: 4.058605e+01, HM: 2.529242e+00, LM: 1.099002e+00, All: 1.350869e+02
+NS: -8.460524e+02, WD: 2.942582e+01, HM: 2.824904e+00, LM: 8.498454e-01, All: -8.129518e+02
+NS: 8.979129e+01, WD: 4.020054e+01, HM: 2.533400e+00, LM: 1.106012e+00, All: 1.336312e+02
+NS: -2.651215e+02, WD: 2.467924e+00, HM: 2.110180e+00, LM: 9.312149e-01, All: -2.596121e+02
+NS: 2.530951e+01, WD: 1.933419e+01, HM: 2.615277e+00, LM: 1.087571e+00, All: 4.834655e+01
+NS: 8.481175e+01, WD: 4.001626e+01, HM: 2.519393e+00, LM: 1.106474e+00, All: 1.284539e+02
+trans2, c_ed: 4.176814e+00 4.085200e+00
+NS: 8.895681e+01, WD: 3.913271e+01, HM: 2.498439e+00, LM: 1.113083e+00, All: 1.317010e+02
+NS: 5.607014e+01, WD: 3.822827e+01, HM: 2.453486e+00, LM: 1.125876e+00, All: 9.787777e+01
+trans2, c_ed: 4.119521e+00 3.960158e+00
+trans2, c_ed: 4.336407e+00 3.850333e+00
+NS: 8.855940e+01, WD: 4.023527e+01, HM: 2.499129e+00, LM: 1.114001e+00, All: 1.324078e+02
+NS: 3.367507e+01, WD: 9.426666e+00, HM: 2.387213e+00, LM: 1.133876e+00, All: 4.662283e+01
+NS: -3.500080e+01, WD: 3.825396e+01, HM: 2.604759e+00, LM: 1.097334e+00, All: 6.955246e+00
+NS: 9.129786e+01, WD: 4.024255e+01, HM: 2.527330e+00, LM: 1.106947e+00, All: 1.351747e+02
+NS: -1.275560e+02, WD: 2.289645e+01, HM: 2.481346e+00, LM: 9.478080e-01, All: -1.012304e+02
+NS: 5.956676e+01, WD: 4.049318e+01, HM: 2.451777e+00, LM: 1.119549e+00, All: 1.036313e+02
+NS: 8.364020e+01, WD: 4.059553e+01, HM: 2.457543e+00, LM: 1.122886e+00, All: 1.278162e+02
+NS: 8.819346e+01, WD: 4.046149e+01, HM: 2.513864e+00, LM: 1.103650e+00, All: 1.322725e+02
+NS: 8.851533e+01, WD: 4.049466e+01, HM: 2.494810e+00, LM: 1.119351e+00, All: 1.326242e+02
+NS: -3.155865e+02, WD: -8.297517e+00, HM: 2.439244e+00, LM: 8.142618e-01, All: -3.206306e+02
+NS: -2.038057e+02, WD: -3.235879e+01, HM: 2.523717e+00, LM: 9.560259e-01, All: -2.326848e+02
+NS: 9.188176e+01, WD: 4.063506e+01, HM: 2.511778e+00, LM: 1.103841e+00, All: 1.361324e+02
+NS: 9.183861e+01, WD: 4.058511e+01, HM: 2.520422e+00, LM: 1.103729e+00, All: 1.360479e+02
+NS: 9.061280e+01, WD: 4.043839e+01, HM: 2.530515e+00, LM: 1.109025e+00, All: 1.346907e+02
+NS: -9.862341e+01, WD: 2.385560e+01, HM: 2.394468e+00, LM: 1.133604e+00, All: -7.123974e+01
+NS: 9.140625e+01, WD: 4.068623e+01, HM: 2.535082e+00, LM: 1.106305e+00, All: 1.357339e+02
+NS: 9.090695e+01, WD: 4.071710e+01, HM: 2.507822e+00, LM: 1.112392e+00, All: 1.352443e+02
+NS: -3.174687e+02, WD: 1.917590e+01, HM: 1.977874e+00, LM: 1.157821e+00, All: -2.951571e+02
+trans2, c_ed: 4.102655e+00 4.025305e+00
+NS: -3.622915e+01, WD: 4.059367e+01, HM: 2.426293e+00, LM: 1.129922e+00, All: 7.920735e+00
+NS: 6.424628e+01, WD: 2.853690e+01, HM: 2.502173e+00, LM: 1.109329e+00, All: 9.639468e+01
+trans2, c_ed: 4.049616e+00 3.810853e+00
+NS: -3.571543e+02, WD: 1.987887e+01, HM: 2.444237e+00, LM: 9.051814e-01, All: -3.339260e+02
+NS: -6.643526e+01, WD: 3.686639e+01, HM: 2.245995e+00, LM: 1.041846e+00, All: -2.628103e+01
+trans2, c_ed: 4.238001e+00 3.923342e+00
+trans2, c_ed: 3.970499e+00 3.730870e+00
+NS: 2.940465e+01, WD: 1.707815e+01, HM: 2.574467e+00, LM: 1.044412e+00, All: 5.010169e+01
+NS: 7.945871e+01, WD: 3.922028e+01, HM: 2.522381e+00, LM: 1.110363e+00, All: 1.223117e+02
+trans2, c_ed: 4.152622e+00 3.746903e+00
+NS: 6.817994e+01, WD: 3.827626e+01, HM: 2.478675e+00, LM: 1.128818e+00, All: 1.100637e+02
+NS: 9.070224e+01, WD: 4.044068e+01, HM: 2.528326e+00, LM: 1.102774e+00, All: 1.347740e+02
+NS: 5.813648e+01, WD: 2.646142e+01, HM: 2.559438e+00, LM: 1.104108e+00, All: 8.826145e+01
+NS: 9.064415e+01, WD: 4.013608e+01, HM: 2.525871e+00, LM: 1.107192e+00, All: 1.344133e+02
+NS: 4.446818e+01, WD: 1.722063e+01, HM: 2.524593e+00, LM: 1.077296e+00, All: 6.529070e+01
+NS: -3.846665e+02, WD: 2.602471e+01, HM: 2.110400e+00, LM: 1.265552e+00, All: -3.552658e+02
+NS: 8.361786e+01, WD: 3.441379e+01, HM: 2.588038e+00, LM: 1.086066e+00, All: 1.217058e+02
+NS: 9.127604e+01, WD: 4.042700e+01, HM: 2.530535e+00, LM: 1.100598e+00, All: 1.353342e+02
+NS: 9.047989e+01, WD: 4.049592e+01, HM: 2.533671e+00, LM: 1.108309e+00, All: 1.346178e+02
+NS: -1.303498e+03, WD: -2.830731e+01, HM: 2.425742e+00, LM: 8.200721e-01, All: -1.328559e+03
+trans2, c_ed: 3.964355e+00 3.793885e+00
+NS: -9.883701e+02, WD: -1.166182e+02, HM: 7.987331e-01, LM: 1.169681e+00, All: -1.103020e+03
+NS: -1.740959e+02, WD: -3.371463e+02, HM: 1.595198e+00, LM: 1.230318e+00, All: -5.084166e+02
+NS: 9.155362e+01, WD: 4.070548e+01, HM: 2.514126e+00, LM: 1.107692e+00, All: 1.358809e+02
+NS: -1.452471e+02, WD: 3.999801e+01, HM: 2.400703e+00, LM: 1.127874e+00, All: -1.017206e+02
+NS: 8.884828e+01, WD: 4.022151e+01, HM: 2.513661e+00, LM: 1.113780e+00, All: 1.326972e+02
+NS: 8.969883e+01, WD: 4.003874e+01, HM: 2.531146e+00, LM: 1.109722e+00, All: 1.333784e+02
+NS: 9.024045e+01, WD: 4.043847e+01, HM: 2.539069e+00, LM: 1.099417e+00, All: 1.343174e+02
+NS: -2.614627e+02, WD: 3.911263e+01, HM: 2.733094e+00, LM: 1.050507e+00, All: -2.185665e+02
+NS: 5.230079e+01, WD: 3.511107e+01, HM: 2.583784e+00, LM: 1.108001e+00, All: 9.110364e+01
+NS: -1.630722e+02, WD: 3.059365e+01, HM: 2.691659e+00, LM: 1.105866e+00, All: -1.286810e+02
+NS: -8.409038e+01, WD: -5.267101e+00, HM: 2.448508e+00, LM: 1.088039e+00, All: -8.582093e+01
+NS: -3.373515e+01, WD: -1.798412e+02, HM: 2.327846e+00, LM: 1.165125e+00, All: -2.100834e+02
+NS: 9.031996e+01, WD: 4.063381e+01, HM: 2.529955e+00, LM: 1.099916e+00, All: 1.345836e+02
+NS: 7.557219e+01, WD: 4.047669e+01, HM: 2.514387e+00, LM: 1.100681e+00, All: 1.196640e+02
+trans2, c_ed: 4.276764e+00 4.238992e+00
+NS: -3.554892e+00, WD: -7.083782e+01, HM: 2.160315e+00, LM: 1.180533e+00, All: -7.105187e+01
+NS: 8.683005e+01, WD: 3.965658e+01, HM: 2.503260e+00, LM: 1.108300e+00, All: 1.300982e+02
+NS: -9.118485e+02, WD: -2.751984e+02, HM: 1.837045e+00, LM: 1.162232e+00, All: -1.184048e+03
+NS: 8.949729e+01, WD: 3.979724e+01, HM: 2.499319e+00, LM: 1.114398e+00, All: 1.329082e+02
+NS: 9.077691e+01, WD: 4.041159e+01, HM: 2.525458e+00, LM: 1.106314e+00, All: 1.348203e+02
+trans2, c_ed: 4.344054e+00 4.033379e+00
+NS: 2.613864e+01, WD: 2.271718e+01, HM: 2.493261e+00, LM: 1.116686e+00, All: 5.246577e+01
+NS: 2.700954e+01, WD: 3.451063e+01, HM: 2.456336e+00, LM: 1.145407e+00, All: 6.512192e+01
+NS: 8.960262e+01, WD: 4.047648e+01, HM: 2.515937e+00, LM: 1.115643e+00, All: 1.337107e+02
+trans2, c_ed: 4.134709e+00 4.049015e+00
+NS: -8.325025e+01, WD: -2.932003e+01, HM: 2.562437e+00, LM: 9.960495e-01, All: -1.090118e+02
+NS: 6.529374e+01, WD: 3.720118e+01, HM: 2.496171e+00, LM: 1.100048e+00, All: 1.060911e+02
+trans2, c_ed: 3.980216e+00 3.710286e+00
+NS: -7.927048e+01, WD: 4.026016e+01, HM: 2.307766e+00, LM: 1.143708e+00, All: -3.555884e+01
+trans2, c_ed: 4.756684e+00 4.030668e+00
+NS: 8.915430e+01, WD: 3.999960e+01, HM: 2.506414e+00, LM: 1.108989e+00, All: 1.327693e+02
+NS: 8.829694e+01, WD: 4.009699e+01, HM: 2.538350e+00, LM: 1.106359e+00, All: 1.320386e+02
+NS: 8.947200e+01, WD: 4.010934e+01, HM: 2.496651e+00, LM: 1.114858e+00, All: 1.331928e+02
+NS: 8.886757e+01, WD: 3.980641e+01, HM: 2.505239e+00, LM: 1.111172e+00, All: 1.322904e+02
+trans2, c_ed: 3.899692e+00 3.891109e+00
+NS: 8.756214e+01, WD: 4.062398e+01, HM: 2.537149e+00, LM: 1.100484e+00, All: 1.318238e+02
+NS: 8.864997e+01, WD: 3.887602e+01, HM: 2.523939e+00, LM: 1.110125e+00, All: 1.311601e+02
+NS: 9.067308e+01, WD: 3.986666e+01, HM: 2.522864e+00, LM: 1.104626e+00, All: 1.341672e+02
+NS: 6.017540e+01, WD: 2.365736e+01, HM: 2.525374e+00, LM: 1.109389e+00, All: 8.746753e+01
+NS: 2.210709e+01, WD: 3.782047e+01, HM: 2.567682e+00, LM: 1.077057e+00, All: 6.357230e+01
+NS: 9.000250e+01, WD: 4.023608e+01, HM: 2.536626e+00, LM: 1.104091e+00, All: 1.338793e+02
+NS: 9.209253e+01, WD: 4.070728e+01, HM: 2.508944e+00, LM: 1.107435e+00, All: 1.364162e+02
+NS: 9.064214e+01, WD: 4.067551e+01, HM: 2.504951e+00, LM: 1.098119e+00, All: 1.349207e+02
+NS: 8.365301e+01, WD: 3.337185e+01, HM: 2.578899e+00, LM: 1.089305e+00, All: 1.206931e+02
+NS: 9.015215e+01, WD: 4.072650e+01, HM: 2.534181e+00, LM: 1.103822e+00, All: 1.345167e+02
+NS: -5.828984e+02, WD: -8.466232e+00, HM: 2.386417e+00, LM: 1.166961e+00, All: -5.878113e+02
+trans2, c_ed: 4.646210e+00 4.140344e+00
+NS: -3.678261e+01, WD: -3.011111e+01, HM: 2.461347e+00, LM: 1.125832e+00, All: -6.330653e+01
+NS: 2.064173e+00, WD: -6.569292e+01, HM: 2.135680e+00, LM: 1.133936e+00, All: -6.035913e+01
+NS: 4.752477e+01, WD: 3.341243e+01, HM: 2.402466e+00, LM: 1.141320e+00, All: 8.448099e+01
+NS: -2.254933e+02, WD: 2.960982e+01, HM: 9.389008e-01, LM: 1.132796e+00, All: -1.938117e+02
+trans2, c_ed: 3.993587e+00 3.861418e+00
+NS: 8.351132e+01, WD: 4.063469e+01, HM: 2.465306e+00, LM: 1.117007e+00, All: 1.277283e+02
+NS: 1.605927e+01, WD: 3.632798e+01, HM: 2.565006e+00, LM: 1.063617e+00, All: 5.601587e+01
+trans2, c_ed: 4.090611e+00 3.135985e+00
+NS: -1.640037e+01, WD: 3.177214e+00, HM: 2.528842e+00, LM: 1.109054e+00, All: -9.585262e+00
+NS: -7.788114e+01, WD: -7.562613e+01, HM: 2.105014e+00, LM: 1.205389e+00, All: -1.501969e+02
+NS: -8.364623e+01, WD: -7.456813e+00, HM: 2.590601e+00, LM: 1.049039e+00, All: -8.746340e+01
+NS: 8.791524e+01, WD: 3.937916e+01, HM: 2.498250e+00, LM: 1.110686e+00, All: 1.309033e+02
+NS: -8.794090e+01, WD: 4.066704e+01, HM: 2.362488e+00, LM: 1.106602e+00, All: -4.380477e+01
+trans2, c_ed: 4.512192e+00 3.547469e+00
+NS: 9.062350e+01, WD: 4.011598e+01, HM: 2.535958e+00, LM: 1.105062e+00, All: 1.343805e+02
+NS: -5.564652e+02, WD: 3.711397e+01, HM: 2.575486e+00, LM: 1.057149e+00, All: -5.157186e+02
+NS: -1.506505e+02, WD: -2.686507e+01, HM: 2.646812e+00, LM: 1.018774e+00, All: -1.738500e+02
+NS: -2.825169e+02, WD: -3.385468e+02, HM: 1.924254e+00, LM: 1.250751e+00, All: -6.178887e+02
+NS: 9.046491e+01, WD: 4.007646e+01, HM: 2.544694e+00, LM: 1.100659e+00, All: 1.341867e+02
+NS: -5.210900e+02, WD: -7.555281e+01, HM: 2.775698e+00, LM: 9.621547e-01, All: -5.929050e+02
+trans2, c_ed: 4.030141e+00 3.908290e+00
+NS: -9.032950e+02, WD: -5.240456e+02, HM: 2.189158e+00, LM: 1.150420e+00, All: -1.424001e+03
+NS: -1.241528e+03, WD: -4.827831e+01, HM: 2.739823e+00, LM: 1.085062e+00, All: -1.285981e+03
+trans2, c_ed: 4.905916e+00 3.455422e+00
+NS: 9.036017e+01, WD: 4.068357e+01, HM: 2.523513e+00, LM: 1.109224e+00, All: 1.346765e+02
+NS: 6.739246e+01, WD: 2.974574e+01, HM: 2.523226e+00, LM: 1.108859e+00, All: 1.007703e+02
+NS: 2.515045e+01, WD: 3.699214e+01, HM: 2.478699e+00, LM: 1.100357e+00, All: 6.572165e+01
+NS: -7.165881e+02, WD: 3.685583e+01, HM: 2.635399e+00, LM: 1.146264e+00, All: -6.759506e+02
+NS: 3.822079e+01, WD: 5.733829e+00, HM: 2.420068e+00, LM: 1.144663e+00, All: 4.751935e+01
+NS: 5.264978e+01, WD: 3.945165e+01, HM: 2.389996e+00, LM: 1.153624e+00, All: 9.564505e+01
+trans2, c_ed: 4.079239e+00 3.924768e+00
+NS: 8.938371e+01, WD: 3.931792e+01, HM: 2.495861e+00, LM: 1.116411e+00, All: 1.323139e+02
+NS: 9.029738e+01, WD: 4.066498e+01, HM: 2.509010e+00, LM: 1.110831e+00, All: 1.345822e+02
+trans2, c_ed: 4.482745e+00 3.735123e+00
+NS: -6.855979e+01, WD: -1.122852e+02, HM: 2.509826e+00, LM: 1.171392e+00, All: -1.771638e+02
+NS: -1.135799e+03, WD: 3.494726e+01, HM: 2.730619e+00, LM: 9.628043e-01, All: -1.097158e+03
+trans2, c_ed: 4.373143e+00 3.860813e+00
+NS: -3.491678e+02, WD: 2.768335e+01, HM: 2.150405e+00, LM: 1.143336e+00, All: -3.181907e+02
+NS: -2.851710e+02, WD: 1.038091e+01, HM: 2.344400e+00, LM: 1.173026e+00, All: -2.712727e+02
+NS: 9.084031e+01, WD: 4.069321e+01, HM: 2.520955e+00, LM: 1.103496e+00, All: 1.351580e+02
+NS: 8.935759e+01, WD: 4.069878e+01, HM: 2.534411e+00, LM: 1.101743e+00, All: 1.336925e+02
+trans2, c_ed: 4.162933e+00 4.062183e+00
+NS: 8.196858e+01, WD: 4.006285e+01, HM: 2.518868e+00, LM: 1.117960e+00, All: 1.256683e+02
+NS: -3.027145e+01, WD: 2.689971e+01, HM: 2.644189e+00, LM: 1.122266e+00, All: 3.947201e-01
+NS: 1.001325e+01, WD: 2.687946e+01, HM: 2.416470e+00, LM: 1.043993e+00, All: 4.035317e+01
+NS: 9.138434e+01, WD: 4.065464e+01, HM: 2.530289e+00, LM: 1.104315e+00, All: 1.356736e+02
+NS: 5.091278e+01, WD: -4.675345e+01, HM: 2.690108e+00, LM: 1.033142e+00, All: 7.882585e+00
+trans2, c_ed: 4.204543e+00 4.026754e+00
+NS: 1.021877e+01, WD: 3.634244e+01, HM: 2.492990e+00, LM: 1.055923e+00, All: 5.011012e+01
+NS: 8.143270e+01, WD: 4.067797e+01, HM: 2.483958e+00, LM: 1.121949e+00, All: 1.257166e+02
+NS: 9.083952e+01, WD: 4.070688e+01, HM: 2.532207e+00, LM: 1.105307e+00, All: 1.351839e+02
+NS: -2.516898e+02, WD: -1.567224e+02, HM: 2.738301e+00, LM: 1.028718e+00, All: -4.046452e+02
+NS: 7.203391e+01, WD: 3.295708e+01, HM: 2.533808e+00, LM: 1.080869e+00, All: 1.086057e+02
+NS: 7.477253e+01, WD: 3.387864e+01, HM: 2.514785e+00, LM: 1.120748e+00, All: 1.122867e+02
+NS: -1.400601e+02, WD: 3.497740e+01, HM: 2.510361e+00, LM: 1.146593e+00, All: -1.014257e+02
+NS: 8.597502e+01, WD: 4.025338e+01, HM: 2.470963e+00, LM: 1.088568e+00, All: 1.297879e+02
+NS: -2.364473e+01, WD: 1.340597e+01, HM: 2.192222e+00, LM: 1.243801e+00, All: -6.802734e+00
+NS: -2.897189e+02, WD: 4.536661e+00, HM: 2.222114e+00, LM: 1.227807e+00, All: -2.817324e+02
+NS: -1.102498e+03, WD: -1.586920e+01, HM: 2.867972e+00, LM: 7.251410e-01, All: -1.114774e+03
+NS: -1.401683e+02, WD: 3.671040e+01, HM: 2.686809e+00, LM: 9.919080e-01, All: -9.977920e+01
+NS: 9.094962e+01, WD: 4.056832e+01, HM: 2.527148e+00, LM: 1.107334e+00, All: 1.351524e+02
+NS: -1.364597e+03, WD: 3.619676e+01, HM: 1.569330e+00, LM: 1.178160e+00, All: -1.325653e+03
+NS: 8.715793e+01, WD: 4.004796e+01, HM: 2.488962e+00, LM: 1.124114e+00, All: 1.308190e+02
+trans2, c_ed: 4.102969e+00 3.991191e+00
+NS: -9.445493e+01, WD: -2.666205e+01, HM: 2.504176e+00, LM: 1.117523e+00, All: -1.174953e+02
+trans2, c_ed: 3.683775e+00 3.472729e+00
