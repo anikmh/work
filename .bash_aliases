@@ -6,12 +6,15 @@ alias ocp='sudo openconnect-pulse-gui access.utk.edu'
 
 # VPN commands for ExpressVPN
 alias xv='expressvpn'
-alias xvls='expressvpn list all'
+alias xvls='expressvpn list'
+alias xvla='expressvpn list all'
 alias xvst='expressvpn status'
 alias xvcn='expressvpn connect'
+alias xvcs='expressvpn connect smart'
 alias xvdc='expressvpn disconnect'
-alias xvdc='expressvpn refresh'
+alias xvrf='expressvpn refresh'
 alias xvpf='expressvpn preferences'
+alias xvdg='expressvpn diagnostics'
 
 # Activate/deactivate Anaconda virtual environment
 alias nv0='conda deactivate'
@@ -24,4 +27,5 @@ alias jn='jupyter-notebook'
 alias jl='jupyter-lab'
 
 # APT autoclean/update/upgrade/autoremove
-alias refresh='sudo apt autoclean &&sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y && sudo apt update'
+alias refresh='sudo apt autoclean && sudo apt update && \
+    sudo apt upgrade -y && sudo apt autoremove -y && sudo apt update'
