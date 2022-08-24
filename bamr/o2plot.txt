@@ -1,0 +1,190 @@
+# Trace plots:
+o2graph -read np_0_out markov_chain_0 -plot1 a -show &
+o2graph -read np_0_out markov_chain_0 -plot1 alpha -show &
+o2graph -read np_0_out markov_chain_0 -plot1 param_S -show &
+o2graph -read np_0_out markov_chain_0 -plot1 param_L -show &
+o2graph -read np_0_out markov_chain_0 -plot1 exp1 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 trans1 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 exp2 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 trans2 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 exp3 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_chirp_det -show &
+o2graph -read np_0_out markov_chain_0 -plot1 q -show &
+o2graph -read np_0_out markov_chain_0 -plot1 z_cdf -show &
+o2graph -read np_0_out markov_chain_0 -plot1 mean_NS -show &
+o2graph -read np_0_out markov_chain_0 -plot1 log10_width_NS -show &
+o2graph -read np_0_out markov_chain_0 -plot1 skewness_NS -show &
+o2graph -read np_0_out markov_chain_0 -plot1 mean_WD -show &
+o2graph -read np_0_out markov_chain_0 -plot1 log10_width_WD -show &
+o2graph -read np_0_out markov_chain_0 -plot1 skewness_WD -show &
+o2graph -read np_0_out markov_chain_0 -plot1 mean_HMS -show &
+o2graph -read np_0_out markov_chain_0 -plot1 log10_width_HMS -show &
+o2graph -read np_0_out markov_chain_0 -plot1 skewness_HMS -show &
+o2graph -read np_0_out markov_chain_0 -plot1 mean_LMS -show &
+o2graph -read np_0_out markov_chain_0 -plot1 log10_width_LMS -show &
+o2graph -read np_0_out markov_chain_0 -plot1 skewness_LMS -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J0453p -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J0453c -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1906p -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1906c -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_B1534p -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_B1534c -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_B1913p -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_B1913c -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_B2127p -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_B2127c -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J0737A -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J0737B -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1756p -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1756c -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1807p -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1807c -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1518p -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1518c -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1811p -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1811c -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1829p -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1829c -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J2045 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J2053 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1713 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_B1855 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J0751 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1141 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1738 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1614 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J0348 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J2222 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J2234 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1949 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1012 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J0437 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1909 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1802 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1911 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J2043 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J0337 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1946 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1918 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1600 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J0621 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_B2303 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J0024 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J0514 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_B1516 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1748I -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J1748J -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_B1802 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_B1911 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J0740 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_4U1700 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_SMCX1 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_CenX3 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_OAO1657 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_J013236 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_VelaX1 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_4U1538 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_LMCX4 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_EXO1722 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_SAXJ1802 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_XTEJ1855 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_CygX2 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_XTEJ2123 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_4U1822 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_HerX1 -show &
+o2graph -read np_0_out markov_chain_0 -plot1 M_2S0921 -show &
+# Posterior plots:
+o2graph -read np_0_out markov_chain_0 -to-hist a 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist alpha 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist param_S 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist param_L 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist exp1 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist trans1 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist exp2 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist trans2 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist exp3 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_chirp_det 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist q 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist z_cdf 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist mean_NS 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist log10_width_NS 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist skewness_NS 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist mean_WD 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist log10_width_WD 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist skewness_WD 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist mean_HMS 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist log10_width_HMS 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist skewness_HMS 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist mean_LMS 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist log10_width_LMS 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist skewness_LMS 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J0453p 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J0453c 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1906p 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1906c 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_B1534p 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_B1534c 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_B1913p 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_B1913c 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_B2127p 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_B2127c 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J0737A 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J0737B 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1756p 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1756c 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1807p 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1807c 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1518p 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1518c 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1811p 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1811c 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1829p 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1829c 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J2045 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J2053 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1713 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_B1855 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J0751 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1141 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1738 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1614 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J0348 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J2222 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J2234 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1949 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1012 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J0437 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1909 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1802 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1911 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J2043 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J0337 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1946 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1918 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1600 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J0621 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_B2303 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J0024 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J0514 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_B1516 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1748I 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J1748J 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_B1802 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_B1911 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J0740 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_4U1700 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_SMCX1 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_CenX3 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_OAO1657 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_J013236 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_VelaX1 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_4U1538 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_LMCX4 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_EXO1722 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_SAXJ1802 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_XTEJ1855 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_CygX2 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_XTEJ2123 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_4U1822 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_HerX1 40 -plot -show &
+o2graph -read np_0_out markov_chain_0 -to-hist M_2S0921 40 -plot -show &

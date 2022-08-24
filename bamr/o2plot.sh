@@ -14,5 +14,4 @@ o2graph -read np_0_out markov_chain_0 -plot1 log_wgt_LMS \
     -xtitle "Steps" -ytitle "log_wgt_LMS" -show & \
 o2graph -read np_0_out markov_chain_0 -function mean_NS x -xtitle \
     "Mean ($ \mu$)" -function log_wgt_NS y -ytitle \
-    "$ \log{\mathcal{L}}$" -plot x y marker=. -ttext \ 
-    0.5 0.95 NS-NS -show &
+    "$ \log{\mathcal{L}}$" -plot x y -ttext 0.5 0.95 NS-NS -show &
