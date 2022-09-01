@@ -1,0 +1,67 @@
+conky.config = {
+	update_interval = 1,
+	cpu_avg_samples = 2,
+	net_avg_samples = 2,
+	out_to_console = false,
+	override_utf8_locale = true,
+	double_buffer = true,
+	no_buffers = true,
+	text_buffer_size = 32768,
+	imlib_cache_size = 0,
+	own_window = true,
+	own_window_type = 'desktop',
+	own_window_transparent = true,
+	own_window_argb_visual = true,
+	own_window_argb_value = 50,
+	own_window_hints = 'undecorated,below,sticky,skip_taskbar,skip_pager',
+	border_inner_margin = 5,
+	border_outer_margin = 0,
+	xinerama_head = 1,
+	draw_shades = false,
+	draw_outline = false,
+	draw_borders = false,
+	draw_graph_borders = false,
+	use_xft = true,
+	font = 'Ubuntu Mono:size=12',
+    font2 = 'Consolas:bold:size=10',
+    font3 = 'Consolas:normal:size=8',
+	xftalpha = 0.8,
+	uppercase = false,
+	default_color = 'gray',
+	own_window_colour = '#000000',
+	minimum_width = 300, minimum_height = 0,
+	alignment = 'top_right',
+};
+
+conky.text = [[
+	
+${voffset -16} ${font Consolas:bold:size=18} ${alignc} ${time %r} ${font}
+${voffset 4} ${alignc} ${time %A %B %d, %Y}
+${font} ${voffset -4}
+${font2}SYSTEM ${hr 0.5}
+${font3}$sysname $kernel $alignr $machine
+Host: $alignr $nodename
+Uptime: $alignr $uptime
+Processes: $alignr ${execi 1000 ps aux | wc -l}
+Load: $alignr $loadavg
+
+${font2}CPU ${hr 0.5}
+${font3}${execi 1000 grep model /proc/cpuinfo | cut -d : -f2 | tail -1 | sed 's/\s//'}
+Overall Usage: $cpu% ${cpubar}
+
+${font2}MEMORY ${hr 0.5}
+${font3}RAM $alignc $mem / $memmax $alignr $memperc%
+${membar 4}
+Swap $alignc ${swap} / ${swapmax} $alignr ${swapperc}%
+${swapbar 4}
+
+${font2}DISK ${hr 0.5}
+${font3}File System: $alignr${fs_type}
+${font3}/ $alignc ${fs_used /} / ${fs_size /} $alignr ${fs_used_perc /}%
+${fs_bar 4/}
+
+${font2}NETWORK ${hr 0.5}
+${font3}Local IPs:${alignr}External IP:
+${execi 1000 ip a | grep inet | grep -vw lo | grep -v inet6 | cut -d \/ -f1 | sed 's/[^0-9\.]*//g'}  ${alignr}${execi 1000  wget -q -O- http://ipecho.net/plain; echo}
+${font3}Down: ${downspeed enx00e04c724755}  ${alignr}Up: ${upspeed enx00e04c724755} 
+]];
