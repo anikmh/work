@@ -1,10 +1,10 @@
-# Add SSH key when necessary
+# Add SSH key (used only if/when necessary)
 alias ssha='eval `ssh-agent -s` ssh-add ~/.ssh/id_rsa'
 
 # Launch VPN PulseSecure
 alias ocp='sudo openconnect-pulse-gui access.utk.edu'
 
-# VPN commands for ExpressVPN
+# ExpressVPN commands 
 alias xv='expressvpn'
 alias xvls='expressvpn list'
 alias xvla='expressvpn list all'
@@ -25,6 +25,9 @@ alias tfg='conda activate tf-gpu'
 alias jn='jupyter-notebook'
 alias jl='jupyter-lab'
 
+# Aptitude (package manager)
+alias apd='aptitude'
+
 # APT autoclean/update/upgrade/autoremove
-alias refresh='sudo apt autoclean && sudo apt update && \
-    sudo apt upgrade -y && sudo apt autoremove -y && sudo apt update'
+alias refresh='sudo aptitude autoclean && sudo aptitude update && \
+    sudo aptitude safe-upgrade -y && sudo aptitude update'
