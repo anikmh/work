@@ -127,6 +127,14 @@ export MACHINE=anikxpc
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib 
 export UTKNA_MAKEFILE=/home/anik/shared/Makefile.inc 
 
+# Set lib and inc variables
+export EIGEN_INC=/usr/include/eigen3
+export GSL_LIB=/usr/lib/x86_64-linux-gnu
+export GSL_INC=/usr/include/gsl
+export HDF5_LIB=/usr/lib/x86_64-linux-gnu/hdf5/serial
+export HDF5_INC=/usr/lib/x86_64-linux-gnu/hdf5/serial/include
+export PYTHON_INC=/usr/include/python3.10
+
 # Set o2sclpy variables 
 export O2SCL_CPP_LIB=/usr/lib 
 export O2SCL_LIB_DIR=/usr/local/lib 

@@ -1,6 +1,9 @@
 # Add SSH key (used only if/when necessary)
 alias ssha='eval `ssh-agent -s` ssh-add ~/.ssh/id_rsa'
 
+# Launch o2graph
+alias o2='o2graph'
+
 # Launch VPN PulseSecure
 alias ocp='sudo openconnect-pulse-gui access.utk.edu'
 
@@ -17,17 +20,18 @@ alias xvpf='expressvpn preferences'
 alias xvdg='expressvpn diagnostics'
 
 # Activate/deactivate Anaconda virtual environment
-alias nv0='conda deactivate'
+alias nvo='conda deactivate'
 alias bnv='conda activate base'
-alias tfg='conda activate tf-gpu'
+alias tnv='conda activate tf-gpu'
 
 # Launch Jupyter packages in a Conda environment
 alias jn='jupyter-notebook'
 alias jl='jupyter-lab'
 
-# Aptitude (package manager)
+# Aptitude commands
 alias apd='aptitude'
-
-# APT autoclean/update/upgrade/autoremove
-alias refresh='sudo aptitude autoclean && sudo aptitude update && \
-    sudo aptitude safe-upgrade -y && sudo aptitude update'
+alias arm='sudo aptitude -o Aptitude::Delete-Unused=1 install'
+alias refresh='sudo aptitude autoclean && \
+	       sudo aptitude update && \
+	       sudo aptitude safe-upgrade -y && \
+	       sudo aptitude update'
