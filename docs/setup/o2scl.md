@@ -15,8 +15,10 @@ ___
 ## Setup
 For `acol` CLI, use `$LD_LIBRARY_PATH` to link `o2scl` library
  - Append the following lines to `~/.bashrc`:
-    \# Link o2scl for acol 
-    `export LD_LIBRARY_PATH=/usr/local/lib` 
+	```
+	# Set o2scl library for acol 
+	export LD_LIBRARY_PATH=/usr/local/lib
+	```
  - `source ~/.bashrc` 
 ___
 ### Test installation (optional)
