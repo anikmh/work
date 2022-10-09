@@ -8,4 +8,5 @@ ___
  - Recommends: `texlive-plain-generic`, `texlive-fonts-recommended` 
 ___ 
 ## Installation 
-`sudo apt install texlive-latex-extra` 
+ 1. LaTeX package: `sudo apt install texlive-latex-extra` 
+ 2. Editor - TeXstudio: `sudo apt install texstudio` 

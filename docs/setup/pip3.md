@@ -1,4 +1,4 @@
-## Info
+## About
 Package manager for user-specific Python libraries. 
 ___
 ## Prerequisite  
