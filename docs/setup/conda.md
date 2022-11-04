@@ -25,7 +25,8 @@ ___
  3. Install Matplotlib for plotting: `conda install -c conda-forge matplotlib` 
  4. Install JupyterLab for notebook: `conda install -c conda-forge jupyterlab` 
  5. Install Keras Tuner for tuning: `conda install -c conda-forge keras-tuner` 
- 6. Deactivate environment: `conda deactivate` 
+ 6. Intall Pandas to process data files: `conda install -c anaconda pandas` 
+ 7. Deactivate environment: `conda deactivate` 
 ___
 ## Upgrade 
  - Check version: `conda --version` 

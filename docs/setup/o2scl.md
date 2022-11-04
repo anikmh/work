@@ -1,5 +1,5 @@
 ## Requisites
-- Dependencies: `g++ make automake autoconf libtool libeigen3-dev libmpfr-dev libpython3-all-dev libfftw3-dev libcubature-dev libopenmpi-dev libgsl-dev libboost-all-dev libreadline-dev libncurses-dev libhdf5-dev` 
+- Dependencies: `g++ make automake autoconf libtool libeigen3-dev libmpfr-dev libpython3-all-dev libfftw3-dev libopenmpi-dev libgsl-dev libboost-all-dev libreadline-dev libncurses-dev libhdf5-dev` 
 - Repository: [GitHub](./github.md)
 ___
 ## Installation 
@@ -9,7 +9,7 @@ ___
  4. To see list of configurable options: `./configure --help` 
  5. Configure options: `sudo CXXFLAGS="-DO2SCL_HDF5_PRE_1_12" ./configure --enable-mpfr --enable-cubature --enable-python --enable-fftw --enable-eigen --enable-openmp` 
  6. Create empty documentation: `make blank-doc` 
- 7. Build using optional n-cores: `sudo -j n make` 
+ 7. Build using optional n-cores: `sudo make -j n` 
  8. Install in `/usr/local/lib/` by default: `sudo make install` 
 ___
 ## Setup
@@ -25,15 +25,15 @@ ___
  - Check o2scl configuration and version: `acol -v` 
  - Test installation with n-cores (optional)
    - Automatic - test all classes recursively
-     `cd ~/o2scl; sudo make -j n o2scl-test` 
+     `cd ~/o2scl; sudo make o2scl-test -j n` 
    - Manual - test individual classes
-     `cd ~/o2scl/src/<class>/; sudo make -j n o2scl-test` ...
+     `cd ~/o2scl/src/<class>/; sudo make o2scl-test -j n` ...
 ___
 ## Update 
 ```
 cd ~/o2scl
 git pull
-sudo make -j n install .
+sudo make install -j n.
 ```
 ___
 ## Usage
