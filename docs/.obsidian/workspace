@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "221e62d754d8221f",
+    "type": "split",
+    "children": [
+      {
+        "id": "001436d3d9869b83",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "setup/conda.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03401a9ecd5bc891",
+    "type": "split",
+    "children": [
+      {
+        "id": "591709756821934d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "175bf4fad23e2e12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3fc59c5ab6bed367",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fbd06b66d03fcd7d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210.5
+  },
+  "right": {
+    "id": "2b2be98b965cfb20",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef7169b4aa71b5bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "253c2e9d156c4c73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "setup/conda.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d0c9e7c334a6318",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "setup/conda.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "611b9b5c697b59bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bca55ee73fea31f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "setup/conda.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "001436d3d9869b83",
+  "lastOpenFiles": [
+    "codes/obsidian.md",
+    "setup/ssh.md",
+    "log/Untitled.md",
+    "log/22-10-10.md",
+    "setup/apps.md",
+    "setup/utvpn.md",
+    "setup/conda.md",
+    "setup/nvidia.md",
+    "setup/o2graph.md",
+    "setup/github.md"
+  ]
+}
