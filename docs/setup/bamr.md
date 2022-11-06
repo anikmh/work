@@ -1,7 +1,7 @@
 ## Requisites
- - Base: [`o2scl`](./o2scl.md) with OpenMP
- - Building: [`Makefile.inc`](./svn.md) 
- - Plotting: [`o2graph`](./o2graph.md) 
+ - Base: [`o2scl`](./o2scl.md) with OpenMP support
+ - Building: [`Makefile.inc`](./svn.md) (makefile)
+ - Plotting: [`o2graph`](./o2graph.md) (from `o2sclpy`)
 ___
 ## Installation 
 Clone [repository](https://github.com/awsteiner/bamr) (SSH): `git clone git@github.com:awsteiner/bamr.git` 

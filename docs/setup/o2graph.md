@@ -6,10 +6,10 @@
 ___
 ## Installation 
  1. Package `requests`: part of system-python - installed
- 2. Other packages: `sudo pip install numpy h5py matplotlib` 
+ 2. Other packages: `pip install numpy h5py matplotlib` 
  3. Additional `LaTeX` packages: `sudo apt install dvipng cm-super` 
  4. Clone [repository](https://github.com/awsteiner/o2sclpy): `git clone https://github.com/awsteiner/o2sclpy.git` 
- 5. Install: `cd ~/o2sclpy`, `sudo pip install .` 
+ 5. Install: `cd ~/o2sclpy`, `pip install .` 
 ___
 ## Setup 
 To run `o2graph`, linking with `o2scl` and other libraries is required. If `o2scl` is installed with OpenMP support, then the location of the library `libgomp.1.so` needs to be specified in addition to dynamic linking.
@@ -53,7 +53,3 @@ cd ~/o2sclpy/
 git pull
 sudo pip install .
 ```
-<font color="red">check it out!</font> 
-<span class="purple">This note will be purple </span> 
-
-> <font color="red">check it out!</font> 

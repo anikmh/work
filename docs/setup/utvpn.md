@@ -7,7 +7,7 @@ ___
 ## Installation 
  1. Install OpenConnect: `sudo apt install openconnect` 
  2. Clone [repository](https://github.com/utknoxville/openconnect-pulse-gui): `git clone https://github.com/utknoxville/openconnect-pulse-gui.git` 
- 3. Rename and goto: `mv openconnect-pulse-gui utkvpn`, `cd utkvpn/` 
+ 3. Rename and goto: `mv openconnect-pulse-gui utvpn`, `cd utvpn/` 
  4. Install VPN: `sudo pip install .` 
 ___
 ## Usage 

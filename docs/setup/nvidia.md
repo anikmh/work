@@ -5,7 +5,7 @@ ___
 None - Nvidia repository is automatically added during system setup.
 ___
 ## Installation 
- 1. Detect GPU model and list of drivers: `ubuntu-drivers devices` 
+ 1. Detect GPU model and list of drivers: `nvidia-detector` 
  2. Identify recommended driver `nvidia-driver-xxx` from list
  3. Install default driver: `sudo apt install nvidia-driver-xxx` 
  4. Reboot the system: `sudo reboot` 

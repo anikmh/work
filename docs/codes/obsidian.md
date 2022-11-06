@@ -52,4 +52,8 @@
 #🕑 meeting 
 #🔧 setup
 #❌ no/stop
-# 
+
+# Font colors
+Two ways to use different font colors:
+<font color="red">check it out!</font> 
+<span class="purple">This note will be purple </span> 

@@ -10,7 +10,7 @@ ___
 ___
 ## Usage 
  - Install `<pkg>` in
-    - (`/usr/local/lib/`): `sudo pip install <pkg>` 
+    - (`/usr/local/lib/`): `sudo pip install <pkg>`  (not recommended)
     - (`~/.local/lib/`): `pip install <pkg>` 
  - List packages
     - Installed 
@@ -19,5 +19,5 @@ ___
     - Outdated: `pip list --outdated` 
 ___
 ## Upgrade 
- 1. `sudo pip install --upgrade pip` 
- 2. `sudo pip install --upgrade <pkg>` 
+ 1. `pip install --upgrade pip` 
+ 2. `pip install --upgrade <pkg>` 

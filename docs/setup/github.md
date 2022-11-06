@@ -17,5 +17,5 @@ ___
    `git config --global alias.df diff` 
    `git config --global alias.dfs 'diff --staged'` 
    `git config --global pull.rebase false` 
- - `WD` (SSH): `git clone git@github.com:anikmh/wd.git` 
- - `ML` (SSH): `git clone git@github.com:anikmh/eosmr.git` 
+ - `work` (SSH): `git clone git@github.com:anikmh/work.git` 
+ - `eosmr` (SSH): `git clone git@github.com:anikmh/eosmr.git` 

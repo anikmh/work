@@ -9,4 +9,4 @@ ___
 ___ 
 ## Installation 
  1. LaTeX package: `sudo apt install texlive-latex-extra` 
- 2. Editor - TeXstudio: `sudo apt install texstudio` 
+ 2. LaTeX editor - TeXstudio: `sudo apt install texstudio` 

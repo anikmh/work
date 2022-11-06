@@ -9,9 +9,9 @@ Check and see explanations here: <span class="purple">Software & Updates</span> 
 ___
 ## Download softwares
 For the following apps, get `.deb` files from official websites:
- - [Edge](https://www.microsoft.com/en-us/edge?form=MA13FJ#evergreen) 
+ - [Edge](https://www.microsoft.com/en-us/edge?form=MA13FJ#evergreen) (default)
  - [Chrome](https://www.google.com/chrome/) 
  - [Code](https://code.visualstudio.com/Download) 
- - [Slack](https://slack.com/downloads/linux) 
- - [Zoom](https://zoom.us/support/download) 
+ - [Slack](https://slack.com/downloads/linux) (see troubleshooting)
+ - [Zoom](https://zoom.us/support/download) (requires manual update)
  - [Discord](https://discord.com/download) 
