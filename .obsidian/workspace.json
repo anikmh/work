@@ -1,69 +1,49 @@
 {
   "main": {
-    "id": "221e62d754d8221f",
+    "id": "d7f250dcc4f18f07",
     "type": "split",
     "children": [
       {
-        "id": "17d51654a55a6c8c",
+        "id": "3ed0fe6defa04ecd",
         "type": "tabs",
         "children": [
           {
-            "id": "001436d3d9869b83",
+            "id": "36678923a60bc94c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "codes/obsidian/tags.md",
-=======
-                "file": "setup/apps.md",
->>>>>>> 1276d8a6f722b79ee4e8ff24caf3683bd8fe6dd7
+                "file": "docs/setup/conda.md",
                 "mode": "source",
                 "source": false
               }
             }
-<<<<<<< HEAD
-          },
-          {
-            "id": "2ac5e022c7e0c775",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "codes/obsidian/css.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-=======
->>>>>>> 1276d8a6f722b79ee4e8ff24caf3683bd8fe6dd7
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "03401a9ecd5bc891",
+    "id": "48aa39d9b27be9ca",
     "type": "split",
     "children": [
       {
-        "id": "591709756821934d",
+        "id": "1d34ea78731d9191",
         "type": "tabs",
         "children": [
           {
-            "id": "175bf4fad23e2e12",
+            "id": "0934808f90121db9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "3fc59c5ab6bed367",
+            "id": "3ddd38b2b827023d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +58,7 @@
             }
           },
           {
-            "id": "fbd06b66d03fcd7d",
+            "id": "7506973e9a6ceb50",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -89,27 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 300
   },
   "right": {
-    "id": "2b2be98b965cfb20",
+    "id": "19d2e9209a0ff224",
     "type": "split",
     "children": [
       {
-        "id": "ef7169b4aa71b5bd",
+        "id": "2c177ba2e1a36428",
         "type": "tabs",
         "children": [
           {
-            "id": "253c2e9d156c4c73",
+            "id": "f5f4aa5471681099",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "codes/obsidian/css.md",
-=======
-                "file": "setup/apps.md",
->>>>>>> 1276d8a6f722b79ee4e8ff24caf3683bd8fe6dd7
+                "file": "docs/setup/conda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,23 +97,19 @@
             }
           },
           {
-            "id": "8d0c9e7c334a6318",
+            "id": "68d173c96839f2f3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "codes/obsidian/css.md",
-=======
-                "file": "setup/apps.md",
->>>>>>> 1276d8a6f722b79ee4e8ff24caf3683bd8fe6dd7
+                "file": "docs/setup/conda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "611b9b5c697b59bb",
+            "id": "02a85332f9825e3b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,16 +120,12 @@
             }
           },
           {
-            "id": "bca55ee73fea31f2",
+            "id": "1e6a2225e264090c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "codes/obsidian/css.md"
-=======
-                "file": "setup/apps.md"
->>>>>>> 1276d8a6f722b79ee4e8ff24caf3683bd8fe6dd7
+                "file": "docs/setup/conda.md"
               }
             }
           }
@@ -168,31 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2ac5e022c7e0c775",
+  "active": "36678923a60bc94c",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "codes/obsidian/tags.md",
-    "codes/obsidian/obsidian.md",
-    "setup/apps.md",
-    "setup/utvpn.md",
-    "setup/conda.md",
-    "setup/nvidia.md",
-    "setup/bamr.md",
-=======
->>>>>>> 1276d8a6f722b79ee4e8ff24caf3683bd8fe6dd7
-    "setup/o2graph.md",
-    "setup/apps.md",
-    "setup/utvpn.md",
-    "setup/conda.md",
-    "setup/nvidia.md",
-    "setup/bamr.md",
-    "codes/obsidian.md",
-    "setup/pip3.md",
-<<<<<<< HEAD
-    "setup/latex.md"
-=======
-    "setup/latex.md",
-    "setup/svn.md"
->>>>>>> 1276d8a6f722b79ee4e8ff24caf3683bd8fe6dd7
+    "docs/setup/bamr.md",
+    "docs/setup/apps.md"
   ]
 }

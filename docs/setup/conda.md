@@ -22,8 +22,8 @@ ___
  1. Install `tensorflow-gpu` in a virtual environment: 
     `conda create -n tf-gpu tensorflow-gpu` 
  2. Activate `tf-gpu` environment: `conda activate tf-gpu` 
- 3. Install Matplotlib for plotting: `conda install -c conda-forge matplotlib` 
- 4. Install JupyterLab for notebook: `conda install -c conda-forge jupyterlab` 
+ 3. Install Matplotlib for plotting: `conda install matplotlib` 
+ 4. Install JupyterLab for notebook: `conda install jupyterlab` 
  5. Install Keras Tuner for tuning: `conda install -c conda-forge keras-tuner` 
  6. Intall Pandas to process data files: `conda install -c anaconda pandas` 
  7. Deactivate environment: `conda deactivate` 

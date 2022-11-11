@@ -1,5 +1,6 @@
 ## Requisites
 - Dependencies: `g++ make automake autoconf libtool libeigen3-dev libmpfr-dev libpython3-all-dev libfftw3-dev libopenmpi-dev libgsl-dev libboost-all-dev libreadline-dev libncurses-dev libhdf5-dev` 
+- Optional: `libcubature-dev` 
 - Repository: [GitHub](./github.md)
 ___
 ## Installation 
@@ -7,7 +8,7 @@ ___
  2. Clone [repository](https://github.com/awsteiner/o2scl): `git clone https://github.com/awsteiner/o2scl` 
  3. `cd ~/o2scl/` and make config files: `autoreconf –i` 
  4. To see list of configurable options: `./configure --help` 
- 5. Configure options: `sudo CXXFLAGS="-DO2SCL_HDF5_PRE_1_12" ./configure --enable-mpfr --enable-cubature --enable-python --enable-fftw --enable-eigen --enable-openmp` 
+ 5. Configure options: `sudo CXXFLAGS="-DO2SCL_HDF5_PRE_1_12" ./configure --enable-mpfr --enable-python --enable-fftw --enable-eigen --enable-openmp` 
  6. Create empty documentation: `make blank-doc` 
  7. Build using optional n-cores: `sudo make -j n` 
  8. Install in `/usr/local/lib/` by default: `sudo make install` 
