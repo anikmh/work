@@ -13,33 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "setup/conda.md",
-                "mode": "preview",
+                "file": "codes/obsidian/tags.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2805f53ae6cc84ac",
+            "id": "2ac5e022c7e0c775",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
-          },
-          {
-            "id": "b01a6fc6d4976c1d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
+                "file": "codes/obsidian/css.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "setup/conda.md",
+                "file": "codes/obsidian/css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "setup/conda.md",
+                "file": "codes/obsidian/css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "setup/conda.md"
+                "file": "codes/obsidian/css.md"
               }
             }
           }
@@ -156,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "001436d3d9869b83",
+  "active": "2ac5e022c7e0c775",
   "lastOpenFiles": [
-    "setup/nvidia.md",
+    "codes/obsidian/tags.md",
+    "codes/obsidian/obsidian.md",
     "setup/apps.md",
+    "setup/utvpn.md",
+    "setup/conda.md",
+    "setup/nvidia.md",
     "setup/bamr.md",
     "setup/o2graph.md",
     "setup/pip3.md",
-    "setup/latex.md",
-    "setup/svn.md",
-    "setup/o2scl.md",
-    "setup/github.md",
-    "setup/ssh.md"
+    "setup/latex.md"
   ]
 }
