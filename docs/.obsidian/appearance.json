@@ -4,8 +4,13 @@
   "interfaceFontFamily": "Ubuntu",
   "cssTheme": "Atom",
   "enabledCssSnippets": [
-    "notation-colour-blocks",
-    "checkbox"
+    "checkbox",
+    "bigger-link-popup-preview",
+    "inline-block-embeds",
+    "realistic-highlight",
+    "alerts",
+    "bootstrap-alert",
+    "notation-colour-blocks"
   ],
   "accentColor": ""
 }
