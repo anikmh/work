@@ -4,13 +4,13 @@
   "interfaceFontFamily": "Ubuntu",
   "cssTheme": "Atom",
   "enabledCssSnippets": [
-    "checkbox",
     "bigger-link-popup-preview",
-    "inline-block-embeds",
     "realistic-highlight",
     "alerts",
-    "bootstrap-alert",
-    "notation-colour-blocks"
+    "notation-colour-blocks",
+    "notation-color-blocks",
+    "tag-pills",
+    "checkbox"
   ],
   "accentColor": ""
 }
