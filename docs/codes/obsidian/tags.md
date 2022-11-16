@@ -52,3 +52,8 @@
 #🕑 meeting 
 #🔧 setup
 #❌ no/stop
+#complete
+#important
+#inprogress
+#normal
+#obsidian

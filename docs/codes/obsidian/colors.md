@@ -109,14 +109,3 @@ Pink
 ```note-red-background
 Red
 ```
----
-## Checkboxes
----
-- [ ] Unchecked
-- [x] Checked
-- [>] Scheduled
-- [-] Cencelled 
-- [?] Need more info
-- [!] Important
-
-
