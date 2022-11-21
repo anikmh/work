@@ -25,8 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codes/obsidian/colors.md",
-                "mode": "source",
+                "file": "codes/obsidian/tags.md",
+                "mode": "preview",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -61,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codes/obsidian/colors.md",
+                "file": "codes/obsidian/tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "codes/obsidian/colors.md",
+                "file": "codes/obsidian/tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "codes/obsidian/colors.md"
+                "file": "codes/obsidian/tags.md"
               }
             }
           }
@@ -152,15 +153,15 @@
   },
   "active": "34cf6b562a177324",
   "lastOpenFiles": [
-    "codes/obsidian/tags.md",
-    "codes/obsidian/css.md",
     "codes/obsidian/colors.md",
-    "setup/ssh.md",
-    "setup/svn.md",
+    "setup/bamr.md",
+    "2022-11-15.md",
+    "codes/obsidian/tags.md",
     "setup/o2scl.md",
-    "setup/github.md",
-    "codes/obsidian/obsidian.md",
-    "setup/apps.md",
-    "setup/utvpn.md"
+    "setup/utvpn.md",
+    "setup/o2graph.md",
+    "setup/pip3.md",
+    "setup/nvidia.md",
+    "setup/latex.md"
   ]
 }
