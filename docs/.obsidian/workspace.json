@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codes/obsidian/tags.md",
+                "file": "setup/o2scl.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codes/obsidian/tags.md",
+                "file": "setup/o2scl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "codes/obsidian/tags.md",
+                "file": "setup/o2scl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "codes/obsidian/tags.md"
+                "file": "setup/o2scl.md"
               }
             }
           }
@@ -153,10 +153,10 @@
   },
   "active": "34cf6b562a177324",
   "lastOpenFiles": [
+    "codes/obsidian/tags.md",
     "codes/obsidian/colors.md",
     "setup/bamr.md",
     "2022-11-15.md",
-    "codes/obsidian/tags.md",
     "setup/o2scl.md",
     "setup/utvpn.md",
     "setup/o2graph.md",

@@ -9,7 +9,7 @@ ___
  3. `cd ~/o2scl/` and make config files: `autoreconf –i` 
  4. To see list of configurable options: `./configure --help` 
  5. Configure options: `sudo CXXFLAGS="-DO2SCL_HDF5_PRE_1_12" ./configure --enable-mpfr --enable-python --enable-fftw --enable-eigen --enable-openmp` 
- 6. Create empty documentation: `make blank-doc` 
+ 6. Create empty documentation: `sudo make blank-doc` 
  7. Build using optional n-cores: `sudo make -j n` 
  8. Install in `/usr/local/lib/` by default: `sudo make install` 
 ___
