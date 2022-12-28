@@ -10,5 +10,6 @@
     "notation-color-blocks",
     "custom-icons-differing-files-and-folders"
   ],
-  "accentColor": "#5165fb"
+  "accentColor": "#5165fb",
+  "baseFontSize": 20
 }

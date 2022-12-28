@@ -16,9 +16,9 @@
  - ✅ bigger-link-popup-preview.css
  - ❌ bullet-point-relationship-lines.css 
  - ❌ collapsing-sidebar.css
- - 🚩 custom-icons-differing-files-and-folders.css
- - 🚩 custom-icons-for-frontmatter-tags.css
- - 🚩 custom-icons-for-specific-folders.css
+ - ✅ custom-icons-differing-files-and-folders.css
+ - ✅ custom-icons-for-frontmatter-tags.css
+ - ✅ custom-icons-for-specific-folders.css
  - ✅ enlarge-image-on-hover.css
  - ❌ hyphenation-and-justification.css
  - ❌ image-cards.css

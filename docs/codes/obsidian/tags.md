@@ -1,34 +1,30 @@
-# Tags 
 #🔔 remind
-#🔕 
-#❔ question
+#🔕 silence/quiet
+#❔❓ question
 #🖋️ answer
-#📓 note
-#📌 todo
+#📒📓 note/comment
+#📌 todo/task 
 #📋 list
 #📝 draft
 #🔖 bookmark
 #📔 definition
-#🗒️📄 
-#📒
-#📗📘📙📕
+#🗒️📄📑  
+#📗📘📙📕 key/point
 #📚 book/textbook
 #📖 read
 #⚠️ warning
 #☠️ danger
-#❕ 
-#❗ critical
+#❗❕ critical/important
 #📢 announce
-#❓ 
-#☑️✅✔️ done
-#📜 record
+#✅✔️ yes/done
+#📜 log 
 #📎 attach
 #🗓️ calendar
-#📆📅 date
+#📅 date
 #☎️ contact
-#🏠🏘️🏡 address
+#🏠 address
 #✉️ message
-#📨📧 email
+#📧 email
 #📩 inbox 
 #📫 mailbox
 #📥 download
@@ -38,20 +34,24 @@
 #📦 package
 #🛑 stop
 #💼 work
-#🏦 bank
+#🏦 finance
 #🏫 school
-#✏️🖊️ write
+#✏️ write
 #⭐ important
 #🌐 website 
 #🔑 password 
 #🔦 highlight
 #ℹ️ info
-#📑
 #🔍 search
 #⏰ reminder
-#🕑 meeting 
-#🔧 setup
+#🕑 meeting/appointment 
+#🔧 setup/settings
 #❌ no/stop
+#📷 photo
+#🎬 video
+#🎵 music
+#🎙️ audio
+#⌛ pending
 #complete
 #important
 #inprogress
