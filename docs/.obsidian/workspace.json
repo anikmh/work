@@ -4,51 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "17d51654a55a6c8c",
+        "id": "7b0259e8c2dba42a",
         "type": "tabs",
         "children": [
           {
-            "id": "eb60ddee869853cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "codes/bamr/settings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a27aa0524d4ea026",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "codes/bamr/nstar_cold2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e3ab85fefa027b3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "ae02b09ace2a643b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "41b9209e838e2ecc",
+            "id": "18bbc54b6d3cea21",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e44a161bc0884573",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "codes/bamr/ns_pop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56d95161ddd0d637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "codes/bamr/ns_data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "codes/bamr/models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "codes/bamr/models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "codes/bamr/models.md"
+              }
             }
           }
         ],
@@ -208,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae02b09ace2a643b",
+  "active": "18bbc54b6d3cea21",
   "lastOpenFiles": [
-    "codes/bamr/Untitled.canvas",
-    "codes/bamr/main.md",
-    "codes/bamr/models.md",
-    "codes/bamr/model_data.md",
-    "codes/bamr/nstar_cold2.md",
-    "codes/bamr/settings.md",
-    "codes/bamr/ns_data.md",
-    "codes/bamr/ns_pop.md",
     "codes/bamr/bamr_class.md",
-    "codes/bamr/mcmc_bamr.md"
+    "codes/bamr/mcmc_bamr.md",
+    "codes/bamr/main.md",
+    "codes/bamr/settings.md",
+    "codes/bamr/nstar_cold2.md",
+    "codes/bamr/models.md",
+    "codes/bamr/ns_pop.md",
+    "codes/bamr/ns_data.md",
+    "codes/bamr/Untitled.canvas",
+    "codes/bamr/model_data.md"
   ]
 }

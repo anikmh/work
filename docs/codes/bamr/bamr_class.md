@@ -8,6 +8,6 @@
 
 ## Functions
  - `bamr_class::setup_filters()` 
- - `bamr_class::fill()` 
- - `bamr_class::compute_point()` 
+ - `bamr_class::fill()`: Fills the vector `line` with data from current MC point
+ - `bamr_class::compute_point()`: Computes `log_wgt` for a given MC point
  
