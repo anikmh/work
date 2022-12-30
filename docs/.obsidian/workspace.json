@@ -8,19 +8,83 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34cf6b562a177324",
+            "id": "eb60ddee869853cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/22-10-10.md",
+                "file": "codes/bamr/settings.md",
                 "mode": "source",
-                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a27aa0524d4ea026",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "codes/bamr/nstar_cold2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e3ab85fefa027b3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae02b09ace2a643b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "41b9209e838e2ecc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "codes/bamr/models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e44a161bc0884573",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "codes/bamr/ns_pop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56d95161ddd0d637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "codes/bamr/ns_data.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/22-10-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/22-10-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "log/22-10-10.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -138,17 +198,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "34cf6b562a177324",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ae02b09ace2a643b",
   "lastOpenFiles": [
-    "codes/obsidian/tags.md",
-    "codes/obsidian/css.md",
-    "log/22-10-10.md",
-    "codes/obsidian/colors.md",
-    "setup/o2scl.md",
-    "setup/bamr.md",
-    "2022-11-15.md",
-    "setup/utvpn.md",
-    "setup/o2graph.md",
-    "setup/pip3.md"
+    "codes/bamr/Untitled.canvas",
+    "codes/bamr/main.md",
+    "codes/bamr/models.md",
+    "codes/bamr/model_data.md",
+    "codes/bamr/nstar_cold2.md",
+    "codes/bamr/settings.md",
+    "codes/bamr/ns_data.md",
+    "codes/bamr/ns_pop.md",
+    "codes/bamr/bamr_class.md",
+    "codes/bamr/mcmc_bamr.md"
   ]
 }
