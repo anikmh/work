@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codes/bamr/models.md",
+                "file": "log/22-10-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0f191741b277856",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "log/23-01-03.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codes/bamr/models.md",
+                "file": "log/23-01-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "codes/bamr/models.md",
+                "file": "log/23-01-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "codes/bamr/models.md"
+                "file": "log/23-01-03.md"
               }
             }
           }
@@ -147,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18bbc54b6d3cea21",
+  "active": "a0f191741b277856",
   "lastOpenFiles": [
-    "codes/bamr/bamr_class.md",
+    "log/22-10-10.md",
+    "codes/bamr/settings.md",
+    "codes/bamr/ns_data.md",
+    "codes/bamr/models.md",
+    "codes/bamr/model_data.md",
     "codes/bamr/mcmc_bamr.md",
     "codes/bamr/main.md",
-    "codes/bamr/settings.md",
+    "codes/bamr/bamr_class.md",
     "codes/bamr/nstar_cold2.md",
-    "codes/bamr/models.md",
-    "codes/bamr/ns_pop.md",
-    "codes/bamr/ns_data.md",
-    "codes/bamr/Untitled.canvas",
-    "codes/bamr/model_data.md"
+    "codes/bamr/ns_pop.md"
   ]
 }
