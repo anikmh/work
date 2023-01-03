@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/22-10-10.md",
+                "file": "log/23-01-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0f191741b277856",
+  "active": "18bbc54b6d3cea21",
   "lastOpenFiles": [
     "log/22-10-10.md",
+    "log/23-01-03.md",
+    "codes/obsidian/tags.md",
+    "codes/bamr/mcmc_bamr.md",
     "codes/bamr/settings.md",
     "codes/bamr/ns_data.md",
     "codes/bamr/models.md",
     "codes/bamr/model_data.md",
-    "codes/bamr/mcmc_bamr.md",
     "codes/bamr/main.md",
-    "codes/bamr/bamr_class.md",
-    "codes/bamr/nstar_cold2.md",
-    "codes/bamr/ns_pop.md"
+    "codes/bamr/bamr_class.md"
   ]
 }

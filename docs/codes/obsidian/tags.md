@@ -1,22 +1,22 @@
+#❓ question
+#✏️ answer 
+#📌 todo/task 
 #🔔 remind
 #🔕 silence/quiet
-#❔❓ question
-#🖋️ answer
-#📒📓 note/comment
-#📌 todo/task 
+#📓 note/comment
 #📋 list
 #📝 draft
 #🔖 bookmark
 #📔 definition
-#🗒️📄📑  
+#🗒️ file  
 #📗📘📙📕 key/point
 #📚 book/textbook
 #📖 read
 #⚠️ warning
 #☠️ danger
-#❗❕ critical/important
+#❗ critical/important
 #📢 announce
-#✅✔️ yes/done
+#✅ yes/done
 #📜 log 
 #📎 attach
 #🗓️ calendar
@@ -36,7 +36,7 @@
 #💼 work
 #🏦 finance
 #🏫 school
-#✏️ write
+#🖋️ write
 #⭐ important
 #🌐 website 
 #🔑 password 
