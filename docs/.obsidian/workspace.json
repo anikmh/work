@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "18bbc54b6d3cea21",
+            "id": "6c68c891122e7e48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/23-01-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0f191741b277856",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "log/23-01-03.md",
+                "file": "codes/obsidian/css.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/23-01-03.md",
+                "file": "codes/obsidian/css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/23-01-03.md",
+                "file": "codes/obsidian/css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/23-01-03.md"
+                "file": "codes/obsidian/css.md"
               }
             }
           }
@@ -159,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18bbc54b6d3cea21",
+  "active": "6c68c891122e7e48",
   "lastOpenFiles": [
-    "log/22-10-10.md",
-    "log/23-01-03.md",
+    "setup/github.md",
+    "codes/obsidian/css.md",
     "codes/obsidian/tags.md",
+    "codes/obsidian/colors.md",
+    "setup/nvidia.md",
+    "log/23-01-05.md",
+    "log/23-01-03.md",
     "codes/bamr/mcmc_bamr.md",
-    "codes/bamr/settings.md",
-    "codes/bamr/ns_data.md",
-    "codes/bamr/models.md",
-    "codes/bamr/model_data.md",
-    "codes/bamr/main.md",
+    "log/22-10-10.md",
     "codes/bamr/bamr_class.md"
   ]
 }

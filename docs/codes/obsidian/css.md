@@ -1,13 +1,13 @@
 [deathau](https://github.com/deathau/obsidian-snippets) provides:
  - center-images.css
- - checkbox.css
+ - ✅ checkbox.css
  - clutter-free-formatting.css
  - clutter-free-headings.css
- - inline-block-embeds.css
- - notation-colour-blocks.css
+ - ✅ inline-block-embeds.css
+ - ✅ notation-colour-blocks.css
  - obsidianite-fonts.css
  - omega-hr.css
- - realistic-highlight.css
+ - ✅ realistic-highlight.css
 
 
 [kmaasrud](https://github.com/kmaasrud/awesome-obsidian#collapsing-sidebar)
@@ -16,7 +16,7 @@
  - ✅ bigger-link-popup-preview.css
  - ❌ bullet-point-relationship-lines.css 
  - ❌ collapsing-sidebar.css
- - ✅ custom-icons-differing-files-and-folders.css
+ - ✅ custom-icons-differing-files-and-folders.css (Requires: https://icomoon.io/#icons-icomoon/liga-font)
  - ✅ custom-icons-for-frontmatter-tags.css
  - ✅ custom-icons-for-specific-folders.css
  - ✅ enlarge-image-on-hover.css
