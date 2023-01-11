@@ -29,4 +29,3 @@
  - ❌ stylish-blockquotes.css
  - ❌ subtler-folding-gutter-arrows.css
  - ✅ tag-pills.css
-
