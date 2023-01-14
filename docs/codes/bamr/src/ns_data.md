@@ -2,8 +2,8 @@
 
 ## Includes
  - `ns_data` 
- - [`settings`](./settings.md) 
- - [`ns_pop`](./ns_pop.md) 
+ - [`settings`](settings.md) 
+ - [`ns_pop`](ns_pop.md) 
 
 ## Functions
  - `ns_data::load_mc()` 

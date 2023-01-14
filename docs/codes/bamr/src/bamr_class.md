@@ -2,8 +2,8 @@
 
 ## Includes
  - `bamr_class` 
- - [`nstar_cold2`](./nstar_cold2.md) 
- - [`models`](./models.md) 
+ - [`nstar_cold2`](nstar_cold2.md) 
+ - [`models`](models.md) 
  - [`filters`](./filters.md) 
 
 ## Functions

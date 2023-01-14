@@ -13,12 +13,7 @@
     10. Code
     11. Discord
     12. Spotify
-___
-## Gnome Tweaks
- - Top Bar: Weekday, Date
- - Extension positions (top bar)
-    - Left side: OpenWeather, Application Menu
-    - Right side: Network Stats, Screenshot Tool, Lock Keys
+ - Customize extension positioning (see [Gnome](./gnome.md))
 ___
 ## System Tweaks
  - Enable 'New Document' option on context menu: 

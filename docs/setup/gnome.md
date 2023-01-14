@@ -26,4 +26,11 @@ Install the following extensions using manager:
      - Ubuntu AppIndicators
      - Ubuntu Dock
 
-Reboot system to take effects
+Reboot system to take effects.
+___
+
+## Gnome Tweaks
+ - Top Bar: Weekday, Date
+ - Extension positions (top bar)
+    - Left side: OpenWeather, Application Menu
+    - Right side: Network Stats, Screenshot Tool, Lock Keys

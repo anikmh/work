@@ -2,7 +2,7 @@
 
 ## Includes
  - `mcmc_bamr` 
- - [`bamr_class`](./bamr_class.md) 
+ - [`bamr_class`](bamr_class.md) 
  - [`mcmc_emu`](./mcmc_emu.md) 
 
 ## Functions

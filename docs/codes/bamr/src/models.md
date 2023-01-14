@@ -2,12 +2,12 @@
 
 ## Includes
  - `models` 
- - [`mcmc_bamr`](./mcmc_bamr.md) 
- - [`bamr_class`](./bamr_class.md) 
- - [`ns_data`](./ns_data.md) 
- - [`settings`](./settings.md) 
- - [`model_data`](./model_data.md) 
- - [`nstar_cold2`](./nstar_cold2.md) 
+ - [`mcmc_bamr`](mcmc_bamr.md) 
+ - [`bamr_class`](bamr_class.md) 
+ - [`ns_data`](ns_data.md) 
+ - [`settings`](settings.md) 
+ - [`model_data`](model_data.md) 
+ - [`nstar_cold2`](nstar_cold2.md) 
 
 ## Functions
  - `model::model()` 

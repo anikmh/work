@@ -1,7 +1,7 @@
 {
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "fileSortOrder": "byCreatedTimeReverse",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
