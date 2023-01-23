@@ -3,11 +3,11 @@
 #📌 todo/task 
 #🔔 remind
 #🔕 silence/quiet
-#📓 note/comment
+#📓 comment/note
+#📔 comment2
 #📋 list
 #📝 draft
 #🔖 bookmark
-#📔 definition
 #🗒️ file  
 #📗📘📙📕 key/point
 #📚 book/textbook

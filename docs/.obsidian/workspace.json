@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "dcb3a4e110a3fa9d",
+        "id": "31d3ea660b22bee5",
         "type": "tabs",
         "children": [
           {
-            "id": "4c1656bda016f7f8",
+            "id": "db9280b558f7dc66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "setup/apps.md",
+                "file": "log/23-01-17.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2e5a383c8a98f138",
+            "id": "01705c3b735e9eb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "setup/firefox.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "407088f434f7686c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "log/23-01-12.md",
+                "file": "codes/obsidian/tags.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/23-01-12.md",
+                "file": "codes/obsidian/tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/23-01-12.md",
+                "file": "codes/obsidian/tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/23-01-12.md"
+                "file": "codes/obsidian/tags.md"
               }
             }
           }
@@ -172,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "407088f434f7686c",
+  "active": "01705c3b735e9eb0",
   "lastOpenFiles": [
-    "log/23-01-05.md",
+    "log/23-01-20.md",
+    "log/23-01-17.md",
     "log/23-01-12.md",
+    "setup/firefox.md",
+    "setup/apps.md",
+    "setup/conda.md",
+    "log/23-01-05.md",
     "codes/bamr/src/ns_pop.md",
     "codes/bamr/src/ns_data.md",
-    "codes/bamr/src/mcmc_bamr.md",
-    "codes/bamr/data/threading.md",
-    "codes/bamr/data/table.md",
-    "setup/bamr.md",
-    "setup/nvidia.md",
-    "setup/apps.md"
+    "codes/bamr/src/mcmc_bamr.md"
   ]
 }
