@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db9280b558f7dc66",
+            "id": "01705c3b735e9eb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/23-01-17.md",
+                "file": "log/23-01-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "01705c3b735e9eb0",
+            "id": "1f081c7622e49b5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01705c3b735e9eb0",
+  "active": "1f081c7622e49b5d",
   "lastOpenFiles": [
+    "codes/obsidian/css.md",
+    "codes/obsidian/tags.md",
+    "log/23-01-24.md",
     "log/23-01-20.md",
     "log/23-01-17.md",
+    "codes/bamr/src/mcmc_bamr.md",
+    "codes/bamr/data/threading.md",
+    "codes/bamr/data/table.md",
     "log/23-01-12.md",
-    "setup/firefox.md",
-    "setup/apps.md",
-    "setup/conda.md",
-    "log/23-01-05.md",
-    "codes/bamr/src/ns_pop.md",
-    "codes/bamr/src/ns_data.md",
-    "codes/bamr/src/mcmc_bamr.md"
+    "setup/firefox.md"
   ]
 }

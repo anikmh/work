@@ -1,15 +1,19 @@
+### Applied
+#📙🔴🟥
+___
+
+### Temporary R&D
 #❓ question
 #✏️ answer 
 #📌 todo/task 
 #🔔 remind
 #🔕 silence/quiet
 #📓 comment/note
-#📔 comment2
 #📋 list
 #📝 draft
 #🔖 bookmark
 #🗒️ file  
-#📗📘📙📕 key/point
+#📗📘📙📕📒 key/point
 #📚 book/textbook
 #📖 read
 #⚠️ warning
@@ -52,7 +56,9 @@
 #🎵 music
 #🎙️ audio
 #⌛ pending
-#complete
+___
+
+### Test of [`tag-pills.css`](./css.md)
 #important
 #inprogress
 #normal
