@@ -1,65 +1,70 @@
-### Applied
-#📙🔴🟥
-___
-
-### Temporary R&D
+## Implemented
+<span class="gray">The following ones are customized and color-coded to be used in log</span>
 #❓ question
-#✏️ answer 
-#📌 todo/task 
+#📓 comment
+#📙 problem
+#📘 suggestion
+#📗 solution
+#📌 task 
+#🔖 to-do
 #🔔 remind
-#🔕 silence/quiet
-#📓 comment/note
-#📋 list
-#📝 draft
-#🔖 bookmark
-#🗒️ file  
-#📗📘📙📕📒 key/point
-#📚 book/textbook
-#📖 read
-#⚠️ warning
-#☠️ danger
-#❗ critical/important
-#📢 announce
-#✅ yes/done
-#📜 log 
-#📎 attach
-#🗓️ calendar
-#📅 date
-#☎️ contact
-#🏠 address
-#✉️ message
-#📧 email
-#📩 inbox 
-#📫 mailbox
-#📥 download
-#📤 upload
 #💡 idea
-#🎁 gift
-#📦 package
-#🛑 stop
-#💼 work
-#🏦 finance
-#🏫 school
-#🖋️ write
-#⭐ important
-#🌐 website 
-#🔑 password 
-#🔦 highlight
-#ℹ️ info
-#🔍 search
-#⏰ reminder
-#🕑 meeting/appointment 
-#🔧 setup/settings
-#❌ no/stop
-#📷 photo
-#🎬 video
-#🎵 music
-#🎙️ audio
-#⌛ pending
+#📢 announce
 ___
 
-### Test of [`tag-pills.css`](./css.md)
-#important
-#inprogress
-#normal
-#obsidian
+## Experimental
+❓ question
+✏️ answer 
+📌 todo/task 
+🔕 silence/quiet
+📋 list
+📝 draft
+🗒️ file  
+📚 book/textbook
+📖 read
+⚠️ warning
+☠️ danger
+❗ critical/important
+✅ yes/done
+📜 log 
+📎 attach
+🗓️ calendar
+📅 date
+☎️ contact
+🏠 address
+✉️ message
+📧 email
+📩 inbox 
+📫 mailbox
+📥 download
+📤 upload
+🎁 gift
+📦 package
+🛑 stop
+💼 work
+🏦 finance
+🏫 school
+🖋️ write
+⭐ important
+🌐 website 
+🔑 password 
+🔦 highlight
+ℹ️ info
+🔍 search
+⏰ reminder
+🕑 meeting/appointment 
+🔧 setup/settings
+❌ no/stop
+📷 photo
+🎬 video
+🎵 music
+🎙️ audio
+⌛ pending
+___
+
+## Test [`tag-pills.css`](./css.md)
+To see, uncomment `#` by removing `\` 
+\#important
+\#inprogress
+\#normal
+\#obsidian
