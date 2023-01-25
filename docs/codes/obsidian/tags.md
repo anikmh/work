@@ -10,12 +10,10 @@
 #🔔 remind
 #💡 idea
 #📢 announce
+#❗ critical
 ___
 
 ## Experimental
-❓ question
-✏️ answer 
-📌 todo/task 
 🔕 silence/quiet
 📋 list
 📝 draft
@@ -24,7 +22,6 @@ ___
 📖 read
 ⚠️ warning
 ☠️ danger
-❗ critical/important
 ✅ yes/done
 📜 log 
 📎 attach
