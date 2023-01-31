@@ -22,7 +22,7 @@ alias xvdg='expressvpn diagnostics'
 # Activate/deactivate Anaconda virtual environment
 alias nvo='conda deactivate'
 alias bnv='conda activate base'
-alias tnv='conda activate tf-gpu'
+alias tfg='conda activate tf-gpu'
 
 # Launch Jupyter packages in a Conda environment
 alias jn='jupyter-notebook'

@@ -16,8 +16,8 @@ HISTCONTROL=ignoreboth
 shopt -s histappend
 
 # for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
-HISTSIZE=5000
-HISTFILESIZE=10000
+HISTSIZE=1000
+HISTFILESIZE=2000
 
 # check the window size after each command and, if necessary,
 # update the values of LINES and COLUMNS.
@@ -88,8 +88,8 @@ fi
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
 # some more ls aliases
-alias ll='ls -lhAF'
-alias la='ls -A'
+alias ll='ls -lhF'
+alias la='ls -AF'
 alias l='ls -CF'
 
 # Add an "alert" alias for long running commands.  Use like so:
@@ -119,26 +119,14 @@ fi
 # Set path variable
 export PATH=$PATH:/home/anik/.local/bin
 
-# Set annoying GTK library warnings off
-export NO_AT_BRIDGE=1
-
 # Set o2scl variables: 
 export MACHINE=anikxpc 
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib 
 export UTKNA_MAKEFILE=/home/anik/shared/Makefile.inc 
 
-# Set lib and inc variables
-export EIGEN_INC=/usr/include/eigen3
-export GSL_LIB=/usr/lib/x86_64-linux-gnu
-export GSL_INC=/usr/include/gsl
-export HDF5_LIB=/usr/lib/x86_64-linux-gnu/hdf5/serial
-export HDF5_INC=/usr/lib/x86_64-linux-gnu/hdf5/serial/include
-export PYTHON_INC=/usr/include/python3.10
-
 # Set o2sclpy variables 
-export O2SCL_CPP_LIB=/usr/lib 
-export O2SCL_LIB_DIR=/usr/local/lib 
 export O2SCL_ADDL_LIBS=/usr/lib/x86_64-linux-gnu/libgomp.so.1 
+
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
