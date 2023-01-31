@@ -9,7 +9,7 @@
  - `emulator_bamr::emulator_bamr()` 
  - `emulator_bamr::train()`
  - `emulator_bamr::eval()`
- - `int emulator_bamr::eval_unc()`
+ - `emulator_bamr::eval_unc()`
  - `mcmc_bamr::mcmc_bamr()`
  - `mcmc_bamr::train()`
  - `mcmc_bamr::emu_train2()`
