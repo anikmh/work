@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codes/bamr/data/table.md",
-                "mode": "source",
+                "file": "setup/gnome.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codes/bamr/data/table.md",
+                "file": "setup/gnome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "codes/bamr/data/table.md",
+                "file": "setup/gnome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "codes/bamr/data/table.md"
+                "file": "setup/gnome.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "001436d3d9869b83",
   "lastOpenFiles": [
-    "codes/bamr/src/mcmc_bamr.md",
-    "setup/evolution.md",
     "setup/conda.md",
-    "codes/obsidian.md",
-    "setup/ssh.md",
-    "log/Untitled.md",
-    "log/22-10-10.md",
+    "setup/pip3.md",
+    "setup/o2scl.md",
+    "setup/o2graph.md",
+    "setup/gnome.md",
+    "setup/github.md",
+    "setup/bamr.md",
+    "setup/avro.md",
     "setup/apps.md",
-    "setup/utvpn.md",
-    "setup/nvidia.md"
+    "setup/grub.md"
   ]
 }

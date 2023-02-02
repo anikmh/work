@@ -5,7 +5,7 @@ ___
  - Tweaks: `sudo apt install gnome-tweaks` 
  - Clocks: `sudo apt install gnome-clocks` 
  - Screenshot: `sudo apt install gnome-screenshot` 
- - Shell Extension Manager: `sudo apt install gnome-shell-extensions  gnome-shell-extension-manager` [<span class="gray">Note: This also installs gnome-shell-extension-prefs)</span>] 
+ - Shell Extension Manager: `sudo apt install gnome-shell-extension-manager` [<span class="gray">Note: This may install gnome-shell-extension-prefs)</span>] 
 ___
 
 ## Setup
