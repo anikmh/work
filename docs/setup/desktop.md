@@ -20,7 +20,12 @@ ___
    `touch ~/Templates/Empty\ Document` 
  - Remove characters from search results: <span class="purple">Settings > Search > Characters</span> 
 ___
-## Firewall
+## Extension positioning
+ - Left side: OpenWeather, Application Menu
+ - Right side: Network Stats, Screenshot Tool, Lock Keys
+___
+
+## Firewall (untested)
  - Enable/disable Ubuntu firewall:
    `sudo ufw enable` 
    `sudo ufw disbale`

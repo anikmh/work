@@ -5,7 +5,7 @@ ___
  - Tweaks: `sudo apt install gnome-tweaks` 
  - Clocks: `sudo apt install gnome-clocks` 
  - Screenshot: `sudo apt install gnome-screenshot` 
- - Shell Extension Manager: `sudo apt install gnome-shell-extension-manager` [<span class="gray">Note: This may install gnome-shell-extension-prefs)</span>] 
+ - Shell Extension Manager: `sudo apt install gnome-shell-extension-manager`  
 ___
 
 ## Setup
@@ -16,7 +16,6 @@ Install the following extensions using manager:
      - Awesome Tiles
      - Coverflow Alt-Tab
      - Lock Keys
-     - Network Stats
      - OpenWeather
      - Screenshot Tool
      - User Themes
@@ -30,7 +29,8 @@ Reboot system to take effects.
 ___
 
 ## Gnome Tweaks
+ - Appearence: Shell > Yaru-dark
+ - Keyboard & Mouse: Touchpad > Disable While Typing > Disable
  - Top Bar: Weekday, Date
- - Extension positions (top bar)
-    - Left side: OpenWeather, Application Menu
-    - Right side: Network Stats, Screenshot Tool, Lock Keys
+
+ 

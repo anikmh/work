@@ -28,7 +28,7 @@ ___
     - `mlocate`: Find files more easily
     - `inxi`: Check system info
     - `curl`: Transfer data to/from servers
-    - `dbus-x11`: Support for `gedit` 
+    - `dbus-x11`: Support for `gedit` (unverified)
     - `libfuse2`: To run app images
 ___
 
@@ -46,15 +46,16 @@ ___
  - Click on "Integrate and Run"
 ___
 
-### Appendix: Troubleshooting Slack
+### Troubleshooting Slack
 To remove the warning "`W: https://packagecloud.io/slacktechnologies/slack/debian/dists/jessie/InRelease: Key is stored in legacy trusted.gpg keyring (/etc/apt/trusted.gpg), see the DEPRECATION section in apt-key(8) for details.`", 
 do the followings: 
  1. Find the deprecated key of Slack 
     `sudo apt-key list` 
- 2. Copy the last 8 characters from Slack's public key 
- 3. Convert key to gpg and export to trusted.gpg.d 
-    `sudo apt-key export xxxxxxxx | sudo gpg --dearmour -o /etc/apt/trusted.gpg.d/slacktechnologies_slack.gpg`
+ 2. There should be two public keys in `/etc/apt/trusted.gpg`. The expired key can be ignored.
+ 3. Copy the last 8 characters (038651BD) of the unexpired public key
+ 4. Convert and export key to `trusted.gpg.d` 
+    `sudo apt-key export 038651BD | sudo gpg --dearmour -o /etc/apt/trusted.gpg.d/slack.gpg`
  4. Delete the original key 
-    `sudo apt-key --keyring /etc/apt/trusted.gpg del xxxxxxxx` 
- 5. Run apt-update as usual - the warning should be gone 
+    `sudo apt-key --keyring /etc/apt/trusted.gpg del 038651BD` 
+ 5. Run `apt update` as usual and the warning should be gone 
 ___

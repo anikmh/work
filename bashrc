@@ -90,7 +90,6 @@ fi
 # some more ls aliases
 alias ll='ls -lhF'
 alias la='ls -AF'
-alias l='ls -CF'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
@@ -116,30 +115,28 @@ if ! shopt -oq posix; then
   fi
 fi
 
-# Set path variable
+# Set path for user-installed apps
 export PATH=$PATH:/home/anik/.local/bin
 
-# Set o2scl variables: 
-export MACHINE=anikxpc 
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib 
-export UTKNA_MAKEFILE=/home/anik/shared/Makefile.inc 
+# Set variables for o2scl:
+export MACHINE=anikxpc
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
+export UTKNA_MAKEFILE=/home/anik/shared/Makefile.inc
 
-# Set o2sclpy variables 
-export O2SCL_ADDL_LIBS=/usr/lib/x86_64-linux-gnu/libgomp.so.1 
-
+# Set variables for o2sclpy
+export O2SCL_ADDL_LIBS=/usr/lib/x86_64-linux-gnu/libgomp.so.1
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/home/anik/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+__conda_setup="$('/home/anik/mconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "/home/anik/anaconda3/etc/profile.d/conda.sh" ]; then
-        . "/home/anik/anaconda3/etc/profile.d/conda.sh"
+    if [ -f "/home/anik/mconda3/etc/profile.d/conda.sh" ]; then
+        . "/home/anik/mconda3/etc/profile.d/conda.sh"
     else
-        export PATH="/home/anik/anaconda3/bin:$PATH"
+        export PATH="/home/anik/mconda3/bin:$PATH"
     fi
 fi
 unset __conda_setup
 # <<< conda initialize <<<
-
