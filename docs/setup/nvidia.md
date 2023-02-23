@@ -8,11 +8,13 @@ ___
 
 ## Installation 
 The following methods are tested and verified.
+
 #### Method-1: Software Updater
 Safest way to install is using the GUI application:
  1. Launch Software Updater > Settings > Additional Drivers
  2. Select `nvidia-driver-525 (proprietary)` and then click on Apply Changes
  3. Reboot the system immediately
+
 #### Method-2: Terminal
 <span class="red">This method is discouraged in order to avoid accidental mistakes and system failure:</span>
  1. Detect GPU model and list of drivers: `nvidia-detector` 

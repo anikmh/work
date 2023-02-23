@@ -1,7 +1,7 @@
 ## Requisites
  - Base: [`o2scl`](./o2scl.md) 
  - Installer: [`pip`](./pip3.md) 
- - Python packages: `numpy`, `h5py`, `matplotlib`, `requests` 
+ - Python packages: `numpy` `h5py` `matplotlib` `requests` 
  - System: [LaTeX](latex.md) support
 ___
 
@@ -10,7 +10,7 @@ ___
  2. Additional `LaTeX` packages: `sudo apt install dvipng cm-super` 
  3. Clone [repository](https://github.com/awsteiner/o2sclpy): `git clone https://github.com/awsteiner/o2sclpy.git` 
  4. Rename for convenience: `mv o2sclpy/ o2graph/`
- 5. Install: `cd o2graph/`, `sudo python3 setup.py install` 
+ 5. Install: `cd o2graph/; sudo python3 setup.py install` 
 ___
 
 ## Setup 

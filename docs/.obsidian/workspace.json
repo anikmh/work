@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3057b174eabd7de7",
+        "id": "f1ccf6faaa054f6c",
         "type": "tabs",
         "children": [
           {
-            "id": "001436d3d9869b83",
+            "id": "5c1adc85ce53f4fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "setup/utvpn.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 219.5
   },
   "right": {
     "id": "2b2be98b965cfb20",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "setup/utvpn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "setup/utvpn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "setup/utvpn.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,17 +138,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "001436d3d9869b83",
+  "active": "5c1adc85ce53f4fd",
   "lastOpenFiles": [
+    "setup/gnome.md",
+    "setup/github.md",
+    "setup/fonts.md",
+    "setup/firefox.md",
+    "setup/evolution.md",
+    "setup/desktop.md",
+    "setup/conda.md",
+    "setup/bamr.md",
+    "setup/avro.md",
+    "setup/apps.md",
+    "setup/nvidia.md",
+    "setup/latex.md",
+    "setup/grub.md",
+    "setup/o2scl.md",
+    "setup/o2graph.md",
+    "setup/utvpn.md",
     "setup/svn.md",
     "setup/ssh.md",
     "setup/scrolling.md",
     "setup/pip3.md",
-    "setup/o2graph.md",
-    "setup/o2scl.md",
-    "setup/bamr.md",
-    "setup/conda.md",
-    "setup/latex.md",
-    "setup/nvidia.md"
+    "codes/bamr/data/threading.md",
+    "codes/bamr/data/table.md"
   ]
 }

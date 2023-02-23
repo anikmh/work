@@ -1,23 +1,15 @@
 ## About
-Build a data file for best initial points to be used with 3 coupled threads, based on a single-thread data file.
+Build a data file for best initial points to be used with coupled `n_threads`, based on a single-thread data file.
 ___
 
- - First, generate a single-threaded, no_mpi data file (`nl_0_out`) with at least 300 (=`n_walk`) rows, `aff_inv`=0, and `n_walk`=1 (use `step_fac`=`max_iters`=10000). Suppose there are total $300<M<400$ rows in the data file. Then,
+## Method
+ 1. Generate a `no_mpi` data file with >=300 non-zero rows (`n_thread`=1, `n_walk`=300, `aff_inv`=0, `step_fac`=`max_iters`=10000). 
+ 2. Set `n_walk`=300/`n_thread` 
 
+Then do:
 ```
-cp nl_0_out nl_0
-acol -read nl_0 -index -select-rows "N<100" \
-	-function 0.0 thread -function "N%100" walker \
-	-internal nl0
-acol -read nl_0 -index -select-rows "N>=100 && N<200" \
-	-function 1.0 thread -function "N%100" walker \
-	-internal nl1
-acol -read nl_0 -index -select-rows "N>=200 && N<300" \
-	-function 2.0 thread -function "N%100" walker \
-	-internal nl2
-acol -read nl_0 -index -select-rows "N>=300" \
-	-function 0.0 thread -function "N%100" walker \
-	-internal nl3
-acol -read nl0 -cat nl1 -cat nl2 -cat nl3 -internal nl_0
+acol -read nx_0_out markov_chain_0 -index \
+	-function "N%n_walk" walker \
+	-function "(N/n_walk)%n_thread" thread \
+	-delete-col N -internal nxnt0
 ```
-

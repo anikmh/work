@@ -40,7 +40,7 @@ ___
 ## Upgrade 
  - Check version: `conda --version` 
  - Update conda: `conda update conda` 
- - Packages in `tfg`: `conda activate tfg`, `conda update --all` 
+ - Packages in `tfg`: `conda activate tfg; conda update --all` 
 ___
 
 ## Usage 
