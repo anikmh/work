@@ -1,6 +1,6 @@
 ## Requisites 
  - Repository: [GitHub](./github.md) 
- - Installer: [`pip`](./pip3.md) or `python3-pip` 
+ - Installer: python3-pip` 
  - Base: `openconnect`
  - System-Python: `python3-gi gir1.2-webkit2-4.0` 
 ___
