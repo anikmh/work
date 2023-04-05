@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "setup/utvpn.md",
+                "file": "codes/bamr/data/table.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "setup/utvpn.md",
+                "file": "codes/bamr/data/table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "setup/utvpn.md",
+                "file": "codes/bamr/data/table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "setup/utvpn.md"
+                "file": "codes/bamr/data/table.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "5c1adc85ce53f4fd",
   "lastOpenFiles": [
-    "setup/o2scl.md",
     "setup/utvpn.md",
+    "codes/bamr/data/threads.md",
+    "codes/bamr/data/mmax.md",
+    "setup/o2scl.md",
     "log/23-01-24.md",
     "setup/gnome.md",
     "codes/bamr/data/table.md",
