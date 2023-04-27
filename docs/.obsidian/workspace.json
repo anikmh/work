@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codes/bamr/data/mmax.md",
-                "mode": "source",
+                "file": "codes/bamr/data/threads.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codes/bamr/data/mmax.md",
+                "file": "codes/bamr/data/threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "codes/bamr/data/mmax.md",
+                "file": "codes/bamr/data/threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "codes/bamr/data/mmax.md"
+                "file": "codes/bamr/data/threads.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "5c1adc85ce53f4fd",
   "lastOpenFiles": [
-    "codes/bamr/data/threads.md",
+    "codes/bamr/data/table.md",
+    "setup/bamr.md",
     "codes/bamr/data/mmax.md",
+    "codes/bamr/data/threads.md",
     "setup/gnome.md",
     "setup/github.md",
     "setup/fonts.md",
@@ -157,7 +159,6 @@
     "setup/evolution.md",
     "setup/desktop.md",
     "setup/conda.md",
-    "setup/bamr.md",
     "setup/avro.md",
     "setup/apps.md",
     "setup/nvidia.md",
@@ -169,7 +170,6 @@
     "setup/svn.md",
     "setup/ssh.md",
     "setup/scrolling.md",
-    "setup/pip3.md",
-    "codes/bamr/data/table.md"
+    "setup/pip3.md"
   ]
 }

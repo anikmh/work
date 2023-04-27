@@ -28,7 +28,7 @@ Configure `.git/config` to default to branch `pop` for `push`/`pull`:
 ___
 
 ## Test 
-Check definitions: `cd ~/bamr` and `make utkna`
+Check definitions: `make utkna`
 ___
 
 ## Build 
