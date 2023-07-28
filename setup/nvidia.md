@@ -6,21 +6,21 @@ ___
 None - Nvidia repository is automatically added during system setup (i.e. if opted to "Install third-party softwares").
 ___
 
-## Installation 
+## First-time Installation 
 The following methods are tested and verified.
 
-#### Method-1: Software Updater
+#### Method-1: GUI
 Safest way to install is using the GUI application:
  1. Launch Software Updater > Settings > Additional Drivers
- 2. Select `nvidia-driver-525 (proprietary)` and then click on Apply Changes
+ 2. Select `nvidia-driver-xxx (proprietary, tested)` and then click on Apply Changes
  3. Reboot the system immediately
 
-#### Method-2: Terminal
-<span class="red">This method is discouraged in order to avoid accidental mistakes and system failure:</span>
- 1. Detect GPU model and list of drivers: `nvidia-detector` 
- 2. Identify recommended driver `nvidia-driver-xxx` from list
- 3. Install default driver: `sudo apt install nvidia-driver-xxx` 
- 4. Reboot the system: `sudo reboot` 
+#### Method-2: CLI
+<span class="yellow">This method is advised for a clean installation or just a reinstallation:</span>
+One-line command (safest): `sudo apt remove --purge nvidia* && sudo ubuntu-drivers autoinstall && sudo reboot`
+ 1. Uninstall existing/incorrect driver (if any): `sudo apt remove --purge nvidia*` 
+ 2. Automatically install recommended driver and its dependencies: `sudo ubuntu-drivers autoinstall` 
+ 3. Reboot the system: `sudo reboot`  
 ___
 
 ### Test 

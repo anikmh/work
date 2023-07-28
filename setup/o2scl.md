@@ -40,17 +40,20 @@ sudo apt install texlive-latex-extra
 # o2sclpy dependencies: 
 sudo apt install python3-numpy python3-scipy python3-matplotlib
 sudo apt install python3-requests python3-pillow
-sudo apt install python3-yt python3-pytest
+sudo apt install python3-yt python3-pytest libcairo2-dev
 ```
 
 #### Main
  1. Install dependencies and `cd ~/` 
  2. Clone [repository](https://github.com/awsteiner/o2scl): `git clone https://github.com/awsteiner/o2scl` 
- 3. `cd ~/o2scl/` and make config files: `autoreconf –i` 
- 4. To see list of configurable options: `./configure --help` 
- 5. Configure options: 
+ 3. Go to directory: `cd ~/o2scl/` 
+ 4. Switch to `dev` branch: `git checkout dev`
+ 5. Pull from branch: `git pull`
+ 6. Make config files: `autoreconf –i` 
+ 7. To see list of configurable options: `./configure --help` 
+ 8. Configure options: 
     ```
-    sudo LDFLAGS="-larmadillo -llapack -lblas -lncurses" CXXFLAGS="-O3 -DO2SCL_UBUNTU_HDF5 -DO2SCL_HDF5_PRE_1_12 -DO2SCL_REGEX -DO2SCL_HDF5_COMP -I/usr/include" ./configure --enable-eigen --enable-armadillo --enable-openmp --enable-fftw --enable-python
+    sudo LDFLAGS="-larmadillo -llapack -lblas -lncurses" CXXFLAGS="-O3 -DO2SCL_UBUNTU_HDF5 -DO2SCL_HDF5_PRE_1_12 -DO2SCL_REGEX -DO2SCL_HDF5_COMP -I/usr/include -I/usr/lib/python3/dist-packages/numpy/core/include/" ./configure --enable-eigen --enable-armadillo --enable-openmp --enable-fftw --enable-python
     ```
  6. Create empty documentation: `sudo make blank-doc` 
  7. Build using optional n-cores: `sudo make -j n` 

@@ -29,15 +29,15 @@ ___
     `conda create -n tfg tensorflow-gpu` 
  3. Verify that all packages are from `conda-forge` 
  4. Activate `tfg` environment: `conda activate tfg` 
- 5. (Optional) Install additional packages: 
+ 5. Install additional packages: 
+     - (Required) CUDA package: `conda install -c nvidia cuda-nvcc`
      - Matplotlib for plotting: `conda install matplotlib` 
-     - JupyterLab for notebook: `conda install jupyterlab` 
-     - KerasTuner for tuning: `conda install keras-tuner` 
-     - Pandas for processing data: `conda install pandas`
- 6. Deactivate environment: `conda deactivate` 
+     - KerasTuner for tuning: `conda install keras-tuner`
+     - (Optional) JupyterLab for notebook: `conda install jupyterlab`  
+ 7. Deactivate environment: `conda deactivate` 
 ___
 
-## Upgrade 
+## Update 
  - Check version: `conda --version` 
  - Update conda: `conda update conda` 
  - Packages in `tfg`: `conda activate tfg; conda update --all` 
@@ -46,10 +46,10 @@ ___
 ## Usage 
 See [`conda` cheatsheet](https://conda.io/projects/conda/en/latest/user-guide/cheatsheet.html). Following is a list of most frequently used commands:
  - List all installed packages with source info 
-    - Generic: `conda list --show-channel-urls` 
+    - Base: `conda list --show-channel-urls` 
     - TensorFlow: `conda list -n tf-gpu --show-channel-urls` 
  - Update all packages
-    - Generic: `conda update --all`
+    - Base: `conda update --all`
     - TensorFlow: `conda update –n tfg --all` 
  - Manage packages for TensorFlow: `conda activate tf-gpu` 
     - Install from channel 

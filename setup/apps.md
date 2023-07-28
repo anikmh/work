@@ -15,10 +15,14 @@ For the following apps, get `.deb` files from official websites:
  - [Firefox](./firefox.md) - See documentation
  - [Code](https://code.visualstudio.com/Download) - `code_<version>_amd64.deb` 
  - [Slack](https://slack.com/downloads/linux) - `slack-desktop-<version>-amd64.deb` [<font color="gray">Note: See troubleshooting below</font>] 
- - [Zoom](https://zoom.us/support/download) - `zoom_amd64.deb` [<font color="gray">Note: Requires manual update</font>]
+	 - [Zoom](https://zoom.us/support/download) - `zoom_amd64.deb` [<font color="gray">Note: Requires manual updating</font>]
  - [Discord](https://discord.com/download) - `discord-<version>.deb` 
 
-To install: `sudo apt install ./<app>.deb`.  
+To install, do: 
+ - `cd /opt/`
+ - `sudo mv ~/Downloads/<app>.deb .`
+ - `sudo apt install ./<app>.deb` 
+ - `sudo rm *.deb`
 ___
 
 ## `apt` apps and CLIs
@@ -28,7 +32,7 @@ ___
     - `mlocate`: Find files more easily
     - `inxi`: Check system info
     - `curl`: Transfer data to/from servers
-    - `dbus-x11`: Support for `gedit` (unverified)
+    - `dbus-x11`: Support for `gedit` (not needed for Ubuntu 23.04)
     - `libfuse2`: To run app images
 ___
 

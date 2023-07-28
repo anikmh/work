@@ -1,3 +1,6 @@
+<span class="red">DEPRECATED: This package is no longer being used. Some global Python packages are now managed with APT, while all other local packages with Conda in a virtual environment.</span>
+(see [conda.md](./conda.md) documentation)
+___
 ## About
 Package manager for user-specific Python libraries. 
 ___

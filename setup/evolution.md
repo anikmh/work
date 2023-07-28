@@ -1,3 +1,6 @@
+<span class="red">DEPRECATED: This package is no longer being used due to technical issues such as occasional failure to synchronize with Microsoft account, displaying incorrect event names etc.</span>
+___
+
 ## About
 Evolution is the Personal Information Manager (PIM) in Gnome. It's an app to use email and calendar to be synchronized across devices through Microsoft Exchange Web Services.
 ___

@@ -21,11 +21,11 @@ ___
  - Remove characters from search results: <span class="purple">Settings > Search > Characters</span> 
 ___
 ## Extension positioning
- - Left side: OpenWeather, Application Menu
- - Right side: Network Stats, Screenshot Tool, Lock Keys
+ - Left side: OpenWeather, Application Menu, Network Stats
+ - Right side: Screenshot Tool, Lock Keys, Caffein
 ___
 
-## Firewall (untested)
+## Firewall
  - Enable/disable Ubuntu firewall:
    `sudo ufw enable` 
    `sudo ufw disbale`
