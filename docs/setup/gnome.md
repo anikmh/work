@@ -1,12 +1,12 @@
 Gnome add-ons and extensions
-___
+
 
 ## Installation
  - Tweaks: `sudo apt install gnome-tweaks` 
  - Clocks: `sudo apt install gnome-clocks` 
  - Screenshot: `sudo apt install gnome-screenshot` 
  - Shell Extension Manager: `sudo apt install gnome-shell-extension-manager`  
-___
+
 
 ## Setup
 Install the following extensions using manager:
@@ -26,7 +26,7 @@ Install the following extensions using manager:
      - Ubuntu Dock
 
 Reboot system to take effects.
-___
+
 
 ## Gnome Tweaks
  - Appearence: Shell > Yaru-dark

@@ -14,16 +14,16 @@
     11. Discord
     12. Spotify
  - Customize extension positioning (see [Gnome](./gnome.md))
-___
+
 ## System Tweaks
  - Enable 'New Document' option on context menu: 
    `touch ~/Templates/Empty\ Document` 
  - Remove characters from search results: <span class="purple">Settings > Search > Characters</span> 
-___
+
 ## Extension positioning
  - Left side: OpenWeather, Application Menu, Network Stats
  - Right side: Screenshot Tool, Lock Keys, Caffein
-___
+
 
 ## Firewall
  - Enable/disable Ubuntu firewall:
@@ -31,4 +31,4 @@ ___
    `sudo ufw disbale`
  - Install GUI for Ubuntu firewall:
    `sudo apt install gufw` 
-___
+

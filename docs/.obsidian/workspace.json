@@ -8,18 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "001436d3d9869b83",
+            "id": "7a885290cf3ca879",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0c1a72a2f89222f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "setup/utvpn.md",
+                "file": "setup/nvidia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,6 +73,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "b152cfff6dacb25f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "setup/utvpn.md",
+                "file": "setup/nvidia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "setup/utvpn.md",
+                "file": "setup/nvidia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "setup/utvpn.md"
+                "file": "setup/nvidia.md"
               }
             }
           }
@@ -146,27 +163,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "001436d3d9869b83",
+  "active": "d0c1a72a2f89222f",
   "lastOpenFiles": [
+    "setup/o2graph.md",
+    "setup/o2scl.md",
+    "setup/pip3.md",
+    "setup/scrolling.md",
+    "setup/ssh.md",
     "setup/svn.md",
     "setup/utvpn.md",
-    "setup/ssh.md",
-    "setup/scrolling.md",
-    "setup/().md",
-    "setup/pip3.md",
-    "setup/desktop.md",
-    "setup/apps.md",
-    "setup/conda.md",
-    "setup/evolution.md",
-    "setup/o2scl.md",
+    "notes.md",
+    "bamr/data/table.md",
+    "bamr/src/model_data.md",
+    "bamr/src/models.md",
+    "bamr/src/ns_pop.md",
+    "bamr/src/nstar_cold2.md",
+    "bamr/src/settings.md",
+    "bamr/src/ns_data.md",
+    "bamr/src/mcmc_bamr.md",
+    "bamr/src/main.md",
+    "bamr/src/bamr_class.md",
+    "setup/nvidia.md",
+    "setup/latex.md",
+    "setup/grub.md",
+    "setup/gnome.md",
     "setup/github.md",
     "setup/fonts.md",
     "setup/firefox.md",
-    "setup/bamr.md",
-    "setup/nvidia.md",
-    "codes/obsidian.md",
-    "log/Untitled.md",
-    "log/22-10-10.md",
-    "setup/o2graph.md"
+    "setup/evolution.md"
   ]
 }

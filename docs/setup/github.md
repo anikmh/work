@@ -1,10 +1,10 @@
 ## Requisites 
 - `git` 
 - [SSH](./ssh.md) setup
-___
+
 ## Installation
 `sudo apt install git` 
-___
+
 ## Setup  
  - Add SSH public key to github account
  - Configure git to create aliases or copy the [config](https://github.com/anikmh/wd/blob/main/.gitconfig) file to `~/.gitconfig` 

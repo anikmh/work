@@ -6,7 +6,7 @@ Enable all Ubuntu `apt` repositories for more softwares with automatic updates:
  - Restricted: `sudo add-apt-repository restricted` 
 
 Check and see explanations here: <span class="purple">Software & Updates</span> > <span class="purple">Ubuntu Software</span>.
-___
+
 
 ## `deb` apps
 For the following apps, get `.deb` files from official websites:
@@ -23,7 +23,7 @@ To install, do:
  - `sudo mv ~/Downloads/<app>.deb .`
  - `sudo apt install ./<app>.deb` 
  - `sudo rm *.deb`
-___
+
 
 ## `apt` apps and CLIs
  - VLC Media Player: `sudo apt install vlc` 
@@ -34,11 +34,11 @@ ___
     - `curl`: Transfer data to/from servers
     - `dbus-x11`: Support for `gedit` (not needed for Ubuntu 23.04)
     - `libfuse2`: To run app images
-___
+
 
 ## `snapd` apps
  - Spotify: `sudo snap install spotify` 
-___
+
 
 ## `appImage` apps
  - Install AppImage: 
@@ -48,7 +48,7 @@ ___
  - Launch app image: `./<appname>.AppImage` 
  - Choose the default location 
  - Click on "Integrate and Run"
-___
+
 
 ### Troubleshooting Slack
 To remove the warning "`W: https://packagecloud.io/slacktechnologies/slack/debian/dists/jessie/InRelease: Key is stored in legacy trusted.gpg keyring (/etc/apt/trusted.gpg), see the DEPRECATION section in apt-key(8) for details.`", 
@@ -62,4 +62,4 @@ do the followings:
  4. Delete the original key 
     `sudo apt-key --keyring /etc/apt/trusted.gpg del 038651BD` 
  5. Run `apt update` as usual and the warning should be gone 
-___
+

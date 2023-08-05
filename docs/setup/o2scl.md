@@ -1,7 +1,7 @@
 ## Requisites
 - Dependencies (see below) 
 - Repository: [GitHub](./github.md)
-___
+
 
 ## Installation 
 See instructions in [o2scl/docker](https://github.com/awsteiner/o2scl/blob/main/docker/ubuntu_dev_full) and <span class="yellow">always check for any recent changes</span>. The following method is verified and tested.
@@ -58,14 +58,14 @@ sudo apt install python3-yt python3-pytest libcairo2-dev
  6. Create empty documentation: `sudo make blank-doc` 
  7. Build using optional n-cores: `sudo make -j n` 
  8. Install in `/usr/local/lib/` by default: `sudo make install` 
-___
+
 
 ## Setup
 For `acol` CLI, use `$LD_LIBRARY_PATH` to link `o2scl` library
  - Append the following lines to `~/.bashrc`:
    `export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib`
  - `source ~/.bashrc` 
-___
+
 
 ### Test installation (optional)
  - Check o2scl configuration and version: `acol -v` 
@@ -74,7 +74,7 @@ ___
      `cd ~/o2scl; sudo make o2scl-test -j n` 
    - Manual - test individual classes
      `cd ~/o2scl/src/<class>/; sudo make o2scl-test -j n` ...
-___
+
 
 ## Update 
 ```
@@ -82,7 +82,7 @@ cd ~/o2scl
 git pull
 sudo make install -j n
 ```
-___
+
 
 ## Usage
 See [documentation](https://neutronstars.utk.edu/code/o2scl/html/index.html) and `acol -help` for list of options. 

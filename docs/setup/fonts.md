@@ -5,7 +5,7 @@
    - Bangla: Siyam Rupali and Kalpurush 
    - Obsidian: Ligature (see [obsidian/css](../codes/obsidian/css.md))
  - Install fonts with the manager
-___
+
 
 ## MS fonts
 - Install Microsoft fonts system-wide 

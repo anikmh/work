@@ -1,7 +1,7 @@
 <span class="red">DEPRECATED: This utility is no longer being used since Ubuntu 23.04. Scrolling fixes are not needed for any applications.</span>
-___
+
 Note: Not needed for Firefox
-___
+
 ### Chrome: 
  - Extension "Linux Scroll Speed Fix" to set a custom speed of 3.0
  - Don't use smooth scrolling since it's reported to be buggy

@@ -1,0 +1,12 @@
+[user]
+	name = Anik Hasan
+	email = anik@vols.utk.edu
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	df = diff
+	dfs = diff --staged
+[pull]
+	rebase = false

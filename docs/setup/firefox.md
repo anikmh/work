@@ -1,5 +1,5 @@
 Install Firefox as a `deb` app and customize as necessary.
-___
+
 - First, remove Firefox from snap 
   `sudo snap remove --purge firefox` 
 - Add Mozilla's PPA repository 

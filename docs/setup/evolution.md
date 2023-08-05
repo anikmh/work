@@ -1,15 +1,15 @@
 <span class="red">DEPRECATED: This package is no longer being used due to technical issues such as occasional failure to synchronize with Microsoft account, displaying incorrect event names etc.</span>
-___
+
 
 ## About
 Evolution is the Personal Information Manager (PIM) in Gnome. It's an app to use email and calendar to be synchronized across devices through Microsoft Exchange Web Services.
-___
+
 
 ## Installation
 Package `evolution` should be installed by default, however, `evolution-ews` may not. Run:
  - `sudo apt update`
  - `sudo apt install evolution evolution-ews` 
-___
+
 
 ## Setup 
  1. Launch Evolution app and go to <span class="purple">File > New > Mail Account</span>

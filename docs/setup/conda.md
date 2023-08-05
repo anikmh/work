@@ -1,11 +1,11 @@
 ## About 
 Use `anaconda3`/`miniconda3` to deploy TensorFlow, a powerful machine-learning tool, with GPU support while avoiding inference with system-packages. `conda` is a smart and advanced CLI superior to `pip` that makes such deployment a breeze. 
-___
+
 
 ## Requisites 
  - For TensorFlow with GPU: [Nvidia driver](./nvidia.md) 
  - (Optional) For GUI packages: `libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6` 
-___
+
 
 ## Installation 
  1. Download the latest [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installer for Linux with preferred Python version 3.XX
@@ -16,11 +16,11 @@ ___
  5. Source `bashrc` or restart terminal: `source ~/.bashrc` 
  6. Disable automatic activation of `base` environment on terminal launch:
     `conda config --set auto_activate_base false` 
-___
+
 
 ## Test 
 Command `conda info` should print configuration. Also check `conda --version`.
-___
+
 
 ## Setup
  1. Add channel `conda-forge` that contains most recent packages:
@@ -35,13 +35,13 @@ ___
      - KerasTuner for tuning: `conda install keras-tuner`
      - (Optional) JupyterLab for notebook: `conda install jupyterlab`  
  7. Deactivate environment: `conda deactivate` 
-___
+
 
 ## Update 
  - Check version: `conda --version` 
  - Update conda: `conda update conda` 
  - Packages in `tfg`: `conda activate tfg; conda update --all` 
-___
+
 
 ## Usage 
 See [`conda` cheatsheet](https://conda.io/projects/conda/en/latest/user-guide/cheatsheet.html). Following is a list of most frequently used commands:

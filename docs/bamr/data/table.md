@@ -2,13 +2,13 @@
 Explanations of all column names in `bamr` output table stored in a `hdf5` file. The symbols used here are:
  - Pressure: $P$ 
  - Energy density: $\epsilon$ 
- - Graviational mass: $M$ 
+ - Gravitational mass: $M$ 
  - Radius: $R$ 
  - Baryon number density: $n_b$ 
 ___
 
 ## Parameters
- - EoS: `a`, `alpha`, `param_S`, `param_L`, `trans1`, `trans2` 
+ - EOS: `a`, `alpha`, `param_S`, `param_L`, `trans1`, `trans2` 
     - Poly: `exp1`, `exp2`, `exp3` 
     - Lines: `csq1`, `csq2`, `csq3` 
  - LIGO/GW: `M_chirp_det`, `q`, `z_cdf` 
@@ -17,7 +17,7 @@ ___
  - True mass: `M_<star>` 
 ___
 
-## EoS $P(\epsilon)$ 
+## EOS $P(\epsilon)$ 
 Pressure $P$ as a function of energy density $\epsilon$ 
 `P_0-99` 
 ___
@@ -27,7 +27,7 @@ Normalized speed of sound squared: $$\frac{c_s^2}{c^2} = \frac{dP}{d\epsilon}$$
 `cs2_0-99` 
 ___
 
-## EoS $P(M)$ 
+## EOS $P(M)$ 
 Pressure $P$ as a function of gravitational mass $M$ 
 `PM_0-99` 
 ___
@@ -37,12 +37,12 @@ Radius $R$ as a function of gravitational mass $M$
 `R_0-99` 
 ___
 
-## EoS $E/A(n_b)$ 
+## EOS $E/A(n_b)$ 
 Energy per nucleon $E/A$ as a function of baryon number density $n_b$ 
 `EoA_0-99` 
 ___
 
-## EoS $P(n_b)$ 
+## EOS $P(n_b)$ 
 Pressure $P$ as a function of baryon number density $n_b$ 
 `Pnb_0-99` 
 ___

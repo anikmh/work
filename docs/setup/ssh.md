@@ -1,7 +1,7 @@
 ### Requisites 
  - For client: Access to host/remote servers
  - For server: `openssh-server`, [NordVPN](https://nordvpn.com/)
-___
+
 
 ### Client setup
 - Generate keys on local client: `ssh-keygen –t rsa` 
@@ -17,7 +17,7 @@ ___
   `chmod 600 id_rsa` 
   `chmod 600 known_hosts` 
   `chmod 600 config` 
-___
+
 
 ### Server setup
  - Install OpenSSH: `sudo apt install openssh-server` 

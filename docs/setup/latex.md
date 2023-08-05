@@ -3,11 +3,11 @@
  - Includes: `texlive-latex-base` `texlive-latex-recommended` `texlive-pictures` `texlive-fonts-recommended` `texlive-plain-generic` 
  - Requires: `texlive-base` `texlive-latex-recommended` `texlive-pictures` 
  - Recommends: `texlive-plain-generic` `texlive-fonts-recommended` 
-___ 
+
 
 ## Prerequisite 
 None
-___
+
 
 ## Installation 
  1. Base package: `sudo apt install texlive`

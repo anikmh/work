@@ -1,10 +1,10 @@
 ## About
 Nouveau Display Driver is an open-source graphics driver and installed by default during Ubuntu setup, which is stable and serves most purposes. However, the proprietary native driver is required for CUDA/OpenGL support in scientific computing.
-___
+
 
 ## Requisites 
 None - Nvidia repository is automatically added during system setup (i.e. if opted to "Install third-party softwares").
-___
+
 
 ## First-time Installation 
 The following methods are tested and verified.
@@ -21,7 +21,7 @@ One-line command (safest): `sudo apt remove --purge nvidia* && sudo ubuntu-drive
  1. Uninstall existing/incorrect driver (if any): `sudo apt remove --purge nvidia*` 
  2. Automatically install recommended driver and its dependencies: `sudo ubuntu-drivers autoinstall` 
  3. Reboot the system: `sudo reboot`  
-___
+
 
 ### Test 
 Verify that the correct driver is enabled in **Additional Drivers**. After reboot, the command `nvidia-smi` should print GPU info. 
