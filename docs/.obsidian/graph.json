@@ -1,44 +1,22 @@
 {
-  "collapse-filter": true,
-  "search": "path:codes/bamr",
+  "collapse-filter": false,
+  "search": "path:setup  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
-  "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:codes/bamr",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:codes/obsidian",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:setup",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    }
-  ],
-  "collapse-display": true,
-  "showArrow": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9966268260763761,
-  "close": false
+  "scale": 0.8706337258924631,
+  "close": true
 }

@@ -2,7 +2,7 @@
   "textFontFamily": "Consolas",
   "monospaceFontFamily": "Ubuntu Mono",
   "interfaceFontFamily": "Ubuntu",
-  "cssTheme": "Atom",
+  "cssTheme": "Blue Topaz",
   "enabledCssSnippets": [
     "realistic-highlight",
     "alerts",
