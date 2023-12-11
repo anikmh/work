@@ -1,6 +1,7 @@
 ### Requisites 
- - For client: Access to host/remote servers
- - For server: `openssh-server`, [NordVPN](https://nordvpn.com/)
+ - A device with SSH access to host/remote servers
+ - [NordVPN](https://nordvpn.com/) account
+ - For server: `openssh-server`
 
 
 ### Client setup
