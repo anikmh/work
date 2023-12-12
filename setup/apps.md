@@ -50,7 +50,7 @@ To install, do:
  - Click on "Integrate and Run"
 
 
-### Troubleshooting Slack
+## Troubleshooting: Deprecated keys
 To remove the warning "`W: https://packagecloud.io/slacktechnologies/slack/debian/dists/jessie/InRelease: Key is stored in legacy trusted.gpg keyring (/etc/apt/trusted.gpg), see the DEPRECATION section in apt-key(8) for details.`", 
 do the followings: 
  1. Find the deprecated key of Slack 

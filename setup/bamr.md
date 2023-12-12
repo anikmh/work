@@ -1,35 +1,61 @@
 ## Requisites
- - Base: [`o2scl`](./o2scl.md) with OpenMP support
- - Building: [`Makefile.inc`](./svn.md) (makefile)
- - Plotting: [`o2graph`](./o2graph.md) (from `o2sclpy`)
+ - [SSH](./ssh.md)
+ - [GitHub](./github.md)
+ - [`o2scl+py`](./o2scl.md) 
+ - [SVN](./svn.md)
 
 
 ## Installation 
- - Clone [repository](https://github.com/awsteiner/bamr) (SSH): 
-   `git clone git@github.com:awsteiner/bamr.git` 
- - `cd ~/bamr` and switch to current branch `pop`:
-   `git checkout pop` 
- - Check if switched to branch: `git branch -a` 
- - Pull from branch: `git pull` 
+Git repository: <https://github.com/awsteiner/bamr/tree/dev>
+
+```
+# Clone repository
+git clone git@github.com:awsteiner/bamr.git
+
+# Go to directory 
+cd ~/bamr 
+
+# Switch branch
+git checkout dev
+
+# Check current branch 
+git branch -a
+
+# Pull from branch 
+git pull
+```
 
 
 ## Setup 
-Define environment variables `MACHINE` and `UTKNA_MAKEFILE` by appending the following lines to `~/.bashrc`:
+
+### Configure makefile
+Append the following lines to `~/.bashrc`, and then source it:
+
 ```
-# Set libraries for bamr
+# Set makefile for bamr
 export UTKNA_MAKEFILE=/home/anik/shared/Makefile.inc
 export MACHINE=anikxpc
+
+# Reload bash terminal
+source ~/.bashrc
 ```
 
-Configure `.git/config` to default to branch `pop` for `push`/`pull`:
-`git config init.defaultBranch pop` (unverified)
-`git config branch.pop.remote origin` 
-`git config branch.pop.merge refs/heads/pop` 
+### Build executables
+Verify that `o2scl` is installed with OpenMP support and that SVN is set up with `Makefile.inc` located in `~/shared/` directory. Then build the executable, optionally using $n$-cores for faster compilation.
+
+```
+# Single core
+make bamr_nompi -j <n>
+
+# OpenMP/MPI
+make bamr -j <n>
+```
+
+> **Note**: Limit $n \le 6$ for 16 GB RAM and $n \le 12$ for 32 GB.
 
 
 ## Test 
-Check definitions: `make utkna`
-
-
-## Build 
-Compilation: `make bamr` or `make bamr_nompi` 
+```
+# Check library definitions
+make utkna
+```
