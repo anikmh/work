@@ -76,7 +76,7 @@ git clone git@github.com:awsteiner/o2sclpy.git
 mv o2sclpy/ o2graph/
 cd ~/o2graph
 
-# Install in /usr/local/lib/python3.XX/dist-packages/` by default 
+# Install in /usr/local/lib/python3.XX/dist-packages/ by default 
 sudo python3 setup.py install
 ```
 
@@ -90,7 +90,7 @@ For the `acol` CLI, use `$LD_LIBRARY_PATH` to link `o2scl` library:
 
 ```
  # Set location of o2scl library for acol
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib`
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
 
 # Reload bash terminal
 source ~/.bashrc

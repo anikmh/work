@@ -8,14 +8,23 @@ Use `anaconda3`/`miniconda3` to deploy TensorFlow, a powerful machine-learning t
 
 
 ## Installation 
- 1. Download the latest [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installer for Linux with preferred Python version 3.XX
- 2. Check SHA-256 hash of installer to verify correct version for Python 3.XX in step-1:
-    `sha256sum Miniconda3-latest-Linux-x86_64.sh` 
- 3. Install in `~/mconda3`: `bash Miniconda3-latest-Linux-x86_64.sh` 
- 4. Allow initialization during installation: `conda init` 
- 5. Source `bashrc` or restart terminal: `source ~/.bashrc` 
- 6. Disable automatic activation of `base` environment on terminal launch:
-    `conda config --set auto_activate_base false` 
+Download the latest [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installer for Linux or the one with preferred Python version 3.XX .
+
+```
+# Check SHA-256 hash of installer to verify version
+sha256sum Miniconda3-latest-Linux-x86_64.sh
+
+# Install in ~/mconda3 when prompted
+bash Miniconda3-latest-Linux-x86_64.sh
+
+# Respond 'yes' to initialize conda during installation
+
+# Source bashrc or restart terminal
+source ~/.bashrc
+
+# Disable auto-activation of base environment
+conda config --set auto_activate_base false
+```
 
 
 ## Test 
@@ -23,24 +32,49 @@ Command `conda info` should print configuration. Also check `conda --version`.
 
 
 ## Setup
- 1. Add channel `conda-forge` that contains most recent packages:
-    `conda config --add channels conda-forge` 
- 2. Install `tensorflow-gpu` in a virtual environment: 
-    `conda create -n tfg tensorflow-gpu` 
- 3. Verify that all packages are from `conda-forge` 
- 4. Activate `tfg` environment: `conda activate tfg` 
- 5. Install additional packages: 
-     - (Required) CUDA package: `conda install -c nvidia cuda-nvcc`
-     - Matplotlib for plotting: `conda install matplotlib` 
-     - KerasTuner for tuning: `conda install keras-tuner`
-     - (Optional) JupyterLab for notebook: `conda install jupyterlab`  
- 7. Deactivate environment: `conda deactivate` 
+ 
+```
+# Add channel conda-forge which contains most recent packages
+conda config --add channels conda-forge
+
+# (Optional) Set strict channel priority for conda-forge
+conda config --set channel_priority strict
+
+# Check list of channels
+conda config --show-sources
+
+# Install tensorflow-gpu in a conda environment
+conda create -n tfg tensorflow-gpu
+
+# Verify that all packages are from conda-forge
+
+# (Optional) Check package sources in this environment
+conda list --show-channel-urls
+
+# Activate 'tfg' environment
+conda activate tfg
+
+# Install additional packages 
+conda install cuda-nvcc keras-tuner
+conda install matplotlib scipy scikit-learn seaborn
+
+# Deactivate environment
+conda deactivate
+```
 
 
 ## Update 
- - Check version: `conda --version` 
- - Update conda: `conda update conda` 
- - Packages in `tfg`: `conda activate tfg; conda update --all` 
+```
+# Check version
+conda --version
+
+# Update conda
+conda update conda
+
+# Update packages in 'tfg'
+conda activate tfg
+conda update --all
+```
 
 
 ## Usage 

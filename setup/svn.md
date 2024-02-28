@@ -6,5 +6,12 @@
 
 ## Setup
 Directories should be located in `~/` and renamed as preferred.
-- User repository: `svn checkout svn+ssh://anikmh@isospin.roam.utk.edu/home/awsteiner/repos/group2/anikmh` 
-- Shared makefile: `svn checkout svn+ssh://anikmh@isospin.roam.utk.edu/home/awsteiner/repos/group2/shared` 
+
+```
+# User repository
+svn checkout svn+ssh://anikmh@isospin.roam.utk.edu/home/awsteiner/repos/group2/anikmh
+mv anikmh/ svn/
+
+# Shared makefile
+svn checkout svn+ssh://anikmh@isospin.roam.utk.edu/home/awsteiner/repos/group2/shared
+```
