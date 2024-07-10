@@ -18,7 +18,7 @@ sudo apt install g++ make autoconf automake cmake libtool git curl imagemagick
 sudo apt install libgsl-dev libreadline-dev libhdf5-dev libboost-all-dev libeigen3-dev libopenblas-dev liblapack-dev libarpack2-dev libsuperlu-dev libfftw3-dev libcairo2-dev libquadmath0 libz-dev libsz2 zlib1g-dev
 
 # Python extensions
-sudo apt install python3 python3-pip python3-requests python3-numpy python3-h5py python3-scipy python3-sklearn python3-matplotlib python3-pillow python3-yt python3-pytest
+sudo apt install python3 python3-numpy
 
 # LaTeX for o2sclpy
 sudo apt install texlive texlive-full texlive-publishers dvipng cm-super
@@ -63,25 +63,10 @@ sudo make install
 
 > **Note**: Limit $n \le 3$ for 16GB RAM and $n \le 6$ for 32GB.
 
-### Install [`o2sclpy-dev`](https://github.com/awsteiner/o2sclpy/tree/dev)
+### Install [`o2sclpy`](https://github.com/awsteiner/o2sclpy/tree/dev)
+> **Note**: Due to the deprecation of the `setup.py` script, `o2sclpy` can no longer be installed globally (in `/usr/local/`) without `sudo pip`, which is highly discouraged.
 
-```
-# Go to $HOME 
-cd ~/
-
-# Clone repository 
-git clone git@github.com:awsteiner/o2sclpy.git
-
-# Rename and go to directory 
-mv o2sclpy/ o2graph/
-cd ~/o2graph
-
-# Install in /usr/local/lib/python3.XX/dist-packages/ by default 
-sudo pip install .
-
-# Install in a virtual environment (recommended)
-pip install o2sclpy
-```
+It is recommended to install `o2sclpy` in a virtual environment from the PyPI repository (using `pip`). Follow the instructions in the [conda](./conda.md) documentation to install `o2sclpy` in the `conda` environment. Then do the steps outlined in the next section to link `o2sclpy` with the `o2scl` and OpenMP libraries.
 
 
 ## Setup
@@ -99,37 +84,36 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
 source ~/.bashrc
 ```
 
-### Link `o2sclpy` with `o2scl`:
-In order for `o2graph` to recognize `acol` commands, linking with `o2scl`, and optionally other libraries, is required.
+### Linking `o2sclpy`:
+Since `o2sclpy` is installed in a virtual environment, `o2scl` needs to know its location. Also, if `o2scl` is installed with OpenMP support, then the location of the OpenMP library must be specified for `o2graph`. These can be done by defining the following environment variables in `~/.bashrc`.
 
 ```
-# Go to directory
-cd ~/o2graph/o2sclpy
-
-# Link with o2scl
-sudo python3 link_o2scl.py
-```
-
-### Link `o2graph` with OpenMP:
-If `o2scl` is installed with OpenMP support, then the location of the OpenMP library `libgomp.1.so` needs to be specified in addition to the dynamic linking described above:
-
-```
-# Set OpenMP library for o2graph
+# Set variables for o2sclpy
+export O2SCL_PYTHON_EXT=/home/anik/mconda/envs/tfg/lib/python3.12/site-packages
 export O2SCL_ADDL_LIBS=/usr/lib/x86_64-linux-gnu/libgomp.so.1
 
 # Reload bash terminal
 source ~/.bashrc
 ``` 
 
-### `o2sclpy` in a Virtual Environment
-If the `o2sclpy` PyPI package is installed in a virtual environment (e.g. `conda`), then `o2scl` needs to know the location of that environment. This can be set by defining the following variable in `.bashrc`:
+In addition, for `o2graph` to recognize `acol` commands, `o2sclpy` must be dynamically linked with `o2scl`:
 
 ```
-# Set location of virtual environment for o2scl
-export O2SCL_PYTHON_EXT=/home/anik/mconda3/envs/tfg/lib/python3.12/site-packages
+# Go to o2sclpy directory
+cd ~/mconda/envs/tfg/lib/python3.12/site-packages/o2sclpy
+
+# Activate conda environment for python3
+conda activate tfg
+
+# Install the dependent package for linking
+conda install yt
+
+# Link with o2scl
+python3 link_o2scl.py
 ```
 
-## Test
+
+## Test (optional)
 
 ```
 # Check o2scl configuration/version
@@ -156,7 +140,8 @@ git pull
 sudo make install -j <n>
 
 # Update o2sclpy
-sudo pip install .
+conda activate tfg
+pip install o2sclpy --upgrade
 ```
 
 

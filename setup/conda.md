@@ -44,7 +44,7 @@ conda config --set channel_priority strict
 conda config --show-sources
 
 # Install tensorflow-gpu in a conda environment
-conda create -n tfg tensorflow-gpu
+conda create -n tfg python=3.xx tensorflow-gpu
 
 # Verify that all packages are from conda-forge
 
@@ -54,9 +54,16 @@ conda list --show-channel-urls
 # Activate 'tfg' environment
 conda activate tfg
 
-# Install additional packages 
-conda install cuda-nvcc keras-tuner
-conda install matplotlib scipy scikit-learn seaborn
+# Install required and optional packages
+
+# (Required) o2sclpy dependencies
+conda install yt matplotlib scipy scikit-learn 
+
+# (Required) CUDA for tensorflow-gpu
+conda install cuda-nvcc 
+
+# (Optional) additional packages
+conda install keras-tuner seaborn
 
 # Deactivate environment
 conda deactivate
