@@ -24,7 +24,7 @@ sudo apt install python3 python3-numpy
 sudo apt install texlive texlive-full texlive-publishers dvipng cm-super
 ```
 
-### Install [`o2scl-dev`](https://github.com/awsteiner/o2scl/tree/dev)
+### Install [`o2scl-dev`](https://github.com/awsteiner/o2scl/tree/dev):
 
 ```
 # Go to $HOME
@@ -63,7 +63,7 @@ sudo make install
 
 > **Note**: Limit $n \le 3$ for 16GB RAM and $n \le 6$ for 32GB.
 
-### Install [`o2sclpy`](https://github.com/awsteiner/o2sclpy/tree/dev)
+### Install [`o2sclpy`](https://github.com/awsteiner/o2sclpy/tree/dev):
 > **Note**: Due to the deprecation of the `setup.py` script, `o2sclpy` can no longer be installed globally (in `/usr/local/`) without `sudo pip`, which is highly discouraged.
 
 It is recommended to install `o2sclpy` in a virtual environment from the PyPI repository (using `pip`). Follow the instructions in the [conda](./conda.md) documentation to install `o2sclpy` in the `conda` environment. Then do the steps outlined in the next section to link `o2sclpy` with the `o2scl` and OpenMP libraries.
