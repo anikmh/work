@@ -54,15 +54,16 @@ conda list --show-channel-urls
 # Activate 'tfg' environment
 conda activate tfg
 
-# Install required and optional packages
+# Install packages
 
-# (Required) o2sclpy dependencies
+# o2sclpy and its dependencies
+pip install o2sclpy
 conda install yt matplotlib scipy scikit-learn 
 
-# (Required) CUDA for tensorflow-gpu
+# CUDA for tensorflow-gpu
 conda install cuda-nvcc 
 
-# (Optional) additional packages
+# Additional packages
 conda install keras-tuner seaborn
 
 # Deactivate environment
